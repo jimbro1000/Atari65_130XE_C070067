@@ -49776,8 +49776,8 @@
 				)
 			)
 		)
-		(property "Value" "GTIA"
-			(at 260.604 139.192 0)
+		(property "Value" "C014889/GTIA"
+			(at 266.7 109.474 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -54664,18 +54664,17 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "5a386fee-fe8a-41e8-a678-0a724d177a4c")
 		(property "Reference" "U23"
-			(at 447.04 111.76 0)
+			(at 447.04 115.062 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "6520"
-			(at 447.04 114.3 0)
+		(property "Value" "C014795 PIA/6520"
+			(at 446.786 159.512 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -54847,7 +54846,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "5a3a7d73-2afd-4512-9117-0c78cc9a50a7")
 		(property "Reference" "U22"
 			(at 372.11 285.75 0)
@@ -54857,8 +54855,8 @@
 				)
 			)
 		)
-		(property "Value" "POKEY"
-			(at 372.11 288.29 0)
+		(property "Value" "C012294/POKEY"
+			(at 372.11 341.63 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -58624,7 +58622,7 @@
 				)
 			)
 		)
-		(property "Value" "SALLY"
+		(property "Value" "CO14806/SALLY"
 			(at 215.9 181.356 90)
 			(effects
 				(font
@@ -70334,8 +70332,8 @@
 				)
 			)
 		)
-		(property "Value" "FREDDIE"
-			(at 148.59 323.85 0)
+		(property "Value" "C061991/FREDDIE"
+			(at 148.59 275.59 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -73087,8 +73085,8 @@
 				)
 			)
 		)
-		(property "Value" "ANTIC"
-			(at 215.9 88.646 0)
+		(property "Value" "C021698/ANTIC"
+			(at 216.154 110.49 90)
 			(effects
 				(font
 					(size 1.27 1.27)
