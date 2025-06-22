@@ -50036,7 +50036,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P5.00mm"
+		(property "Footprint" "Capacitor_THT:CP_Axial_L10.0mm_D4.5mm_P15.00mm_Horizontal"
 			(at 93.98 142.24 0)
 			(effects
 				(font
@@ -52138,7 +52138,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4ae0e5d0-8228-421f-b435-467fafc840e1")
-		(property "Reference" "C104"
+		(property "Reference" "C101"
 			(at 86.106 362.966 90)
 			(effects
 				(font
@@ -52192,7 +52192,7 @@
 		(instances
 			(project "Atari65XEC070067RevB"
 				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
-					(reference "C104")
+					(reference "C101")
 					(unit 1)
 				)
 			)
@@ -75045,7 +75045,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P5.00mm"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm"
 			(at 356.87 59.69 0)
 			(effects
 				(font

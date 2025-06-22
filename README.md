@@ -42,3 +42,23 @@ original case.
 The board design provided will be a direct copy in terms of the components
 used and as such will require original parts, some of which are
 effectively unobtainable other than from donor machines
+
+## Progress
+
+Transcription of the schematics is completed subject to review. Some minor
+component numbering errors are present on the soure schematic and there are 
+two gaps that likely should be components. The gaps will be resolved as the
+PCB routing is performed.
+
+Recreation of the original PCB routing is in progress and approximately 5%
+complete.
+
+Mounting holes for the board and shielding are not included yet. The PCB
+outline is correct except for the cartridge/expansion port. Footprints for 
+keyboard connector, SIO port, power port, power switch and RF modulator
+are not included.
+
+The footprint for the monitor port is correct for electrical connections 
+but does not match the original mounting pins.
+
+![Render of PCB top](./Atari65XEC070067RevB.png)
