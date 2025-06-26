@@ -49362,7 +49362,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_Package_TO_SOT_THT_AKL:TO-92_Inline_Wide_EBC"
+		(property "Footprint" "Library:TO-92L_Inline_Wide"
 			(at 212.09 382.27 0)
 			(effects
 				(font
@@ -55807,7 +55807,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_Package_TO_SOT_THT_AKL:TO-92_Inline_Wide_EBC"
+		(property "Footprint" "Library:TO-92L_Inline_Wide"
 			(at 398.78 118.11 0)
 			(effects
 				(font
@@ -64965,7 +64965,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_Package_TO_SOT_THT_AKL:TO-92_Inline_Wide_EBC"
+		(property "Footprint" "Library:TO-92L_Inline_Wide"
 			(at 391.16 72.39 0)
 			(effects
 				(font
@@ -65917,7 +65917,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_Package_TO_SOT_THT_AKL:TO-92_Inline_Wide_EBC"
+		(property "Footprint" "Library:TO-92L_Inline_Wide"
 			(at 471.17 107.95 0)
 			(effects
 				(font
@@ -67218,7 +67218,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_Package_TO_SOT_THT_AKL:TO-92_Inline_Wide_EBC"
+		(property "Footprint" "Library:TO-92L_Inline_Wide"
 			(at 190.5 374.65 0)
 			(effects
 				(font
@@ -68154,7 +68154,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Library:KEYBOARD"
 			(at 497.84 309.88 0)
 			(effects
 				(font
@@ -75053,7 +75053,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "PCM_Package_TO_SOT_THT_AKL:TO-92_Inline_Wide_EBC"
+		(property "Footprint" "Library:TO-92L_Inline_Wide"
 			(at 355.6 153.67 0)
 			(effects
 				(font
@@ -76321,7 +76321,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_Package_TO_SOT_THT_AKL:TO-92_Inline_Wide_EBC"
+		(property "Footprint" "Library:TO-92L_Inline_Wide"
 			(at 283.21 171.45 0)
 			(effects
 				(font
