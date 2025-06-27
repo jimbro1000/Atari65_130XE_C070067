@@ -44130,7 +44130,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Library:C_Axial_L3.8mm_D2.6mm_P10.16mm_Horizontal"
+		(property "Footprint" "Library:C_Axial_L3.8mm_D2.6mm_P8.89mm_Horizontal"
 			(at 214.63 313.69 0)
 			(effects
 				(font
@@ -46405,7 +46405,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Library:C_Axial_L3.8mm_D2.6mm_P10.16mm_Horizontal"
+		(property "Footprint" "Library:C_Axial_L3.8mm_D2.6mm_P8.89mm_Horizontal"
 			(at 285.75 313.69 0)
 			(effects
 				(font
@@ -46610,7 +46610,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Library:C_Axial_L3.8mm_D2.6mm_P10.16mm_Horizontal"
+		(property "Footprint" "Library:C_Axial_L3.8mm_D2.6mm_P8.89mm_Horizontal"
 			(at 207.01 313.69 0)
 			(effects
 				(font
@@ -48488,7 +48488,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Library:C_Axial_L3.8mm_D2.6mm_P10.16mm_Horizontal"
+		(property "Footprint" "Library:C_Axial_L3.8mm_D2.6mm_P8.89mm_Horizontal"
 			(at 184.15 313.69 0)
 			(effects
 				(font
@@ -48795,7 +48795,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Library:C_Axial_L3.8mm_D2.6mm_P10.16mm_Horizontal"
+		(property "Footprint" "Library:C_Axial_L3.8mm_D2.6mm_P8.89mm_Horizontal"
 			(at 270.51 313.69 0)
 			(effects
 				(font
@@ -50536,7 +50536,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Library:C_Axial_L3.8mm_D2.6mm_P10.16mm_Horizontal"
+		(property "Footprint" "Library:C_Axial_L3.8mm_D2.6mm_P8.89mm_Horizontal"
 			(at 278.13 313.69 0)
 			(effects
 				(font
@@ -50742,7 +50742,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Library:C_Axial_L3.8mm_D2.6mm_P10.16mm_Horizontal"
+		(property "Footprint" "Library:C_Axial_L3.8mm_D2.6mm_P8.89mm_Horizontal"
 			(at 191.77 313.69 0)
 			(effects
 				(font
@@ -55613,7 +55613,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Library:C_Axial_L3.8mm_D2.6mm_P10.16mm_Horizontal"
+		(property "Footprint" "Library:C_Axial_L3.8mm_D2.6mm_P8.89mm_Horizontal"
 			(at 293.37 313.69 0)
 			(effects
 				(font
@@ -59579,7 +59579,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Library:C_Axial_L3.8mm_D2.6mm_P10.16mm_Horizontal"
+		(property "Footprint" "Library:C_Axial_L3.8mm_D2.6mm_P8.89mm_Horizontal"
 			(at 262.89 313.69 0)
 			(effects
 				(font
@@ -60673,7 +60673,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Library:C_Axial_L3.8mm_D2.6mm_P10.16mm_Horizontal"
+		(property "Footprint" "Library:C_Axial_L3.8mm_D2.6mm_P8.89mm_Horizontal"
 			(at 199.39 313.69 0)
 			(effects
 				(font
@@ -68570,7 +68570,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Library:C_Axial_L3.8mm_D2.6mm_P10.16mm_Horizontal"
+		(property "Footprint" "Library:C_Axial_L3.8mm_D2.6mm_P8.89mm_Horizontal"
 			(at 247.65 313.69 0)
 			(effects
 				(font
@@ -71436,7 +71436,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Library:C_Axial_L3.8mm_D2.6mm_P10.16mm_Horizontal"
+		(property "Footprint" "Library:C_Axial_L3.8mm_D2.6mm_P8.89mm_Horizontal"
 			(at 237.49 313.69 0)
 			(effects
 				(font
@@ -71641,7 +71641,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Library:C_Axial_L3.8mm_D2.6mm_P10.16mm_Horizontal"
+		(property "Footprint" "Library:C_Axial_L3.8mm_D2.6mm_P8.89mm_Horizontal"
 			(at 255.27 313.69 0)
 			(effects
 				(font
@@ -71848,7 +71848,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Library:C_Axial_L3.8mm_D2.6mm_P10.16mm_Horizontal"
+		(property "Footprint" "Library:C_Axial_L3.8mm_D2.6mm_P8.89mm_Horizontal"
 			(at 300.99 313.69 0)
 			(effects
 				(font
@@ -75987,7 +75987,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Library:C_Axial_L3.8mm_D2.6mm_P10.16mm_Horizontal"
+		(property "Footprint" "Library:C_Axial_L3.8mm_D2.6mm_P8.89mm_Horizontal"
 			(at 229.87 313.69 0)
 			(effects
 				(font
@@ -76462,7 +76462,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Library:C_Axial_L3.8mm_D2.6mm_P10.16mm_Horizontal"
+		(property "Footprint" "Library:C_Axial_L3.8mm_D2.6mm_P8.89mm_Horizontal"
 			(at 222.25 313.69 0)
 			(effects
 				(font
