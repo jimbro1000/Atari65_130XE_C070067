@@ -50,15 +50,12 @@ component numbering errors are present on the soure schematic and there are
 two gaps that likely should be components. The gaps will be resolved as the
 PCB routing is performed.
 
-Errors in the source schematics have been identified and are being corrected
-where and when they are found.
-
-Recreation of the original PCB routing is in progress and approximately 10%
+Recreation of the original PCB routing is in progress and approximately 5%
 complete.
 
 Mounting holes for the board and shielding are not included yet. The PCB
-outline is broadly correct requiring verification against an original and
-for fit. Footprints for  SIO port, power port, power switch and RF modulator
+outline is correct except for the cartridge/expansion port. Footprints for 
+keyboard connector, SIO port, power port, power switch and RF modulator
 are not included.
 
 The footprint for the monitor port is correct for electrical connections 
