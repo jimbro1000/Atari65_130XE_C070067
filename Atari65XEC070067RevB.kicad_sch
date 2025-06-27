@@ -20054,7 +20054,7 @@
 		(uuid "7d6d39fc-65a1-4d63-b27b-03a2cd7057a6")
 	)
 	(no_connect
-		(at 88.9 27.94)
+		(at 78.74 20.32)
 		(uuid "8800314b-4efe-4ed1-8bc5-fb6ee61e75c4")
 	)
 	(no_connect
@@ -48419,7 +48419,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P5.00mm"
+		(property "Footprint" "Capacitor_THT:CP_Axial_L11.0mm_D5.0mm_P18.00mm_Horizontal"
 			(at 109.22 39.37 0)
 			(effects
 				(font
@@ -50810,7 +50810,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_THT:L_Axial_L7.0mm_D3.3mm_P12.70mm_Horizontal_Fastron_MICC"
+		(property "Footprint" "Library:R_Axial_L9.0mm_D2.7mm_P12.70mm_Horizontal"
 			(at 133.35 22.86 0)
 			(effects
 				(font
@@ -51610,7 +51610,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P5.00mm"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm"
 			(at 99.06 39.37 0)
 			(effects
 				(font
@@ -56774,7 +56774,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P5.00mm"
+		(property "Footprint" "Capacitor_THT:CP_Axial_L11.0mm_D5.0mm_P18.00mm_Horizontal"
 			(at 142.24 53.34 0)
 			(effects
 				(font
@@ -64905,7 +64905,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_THT:L_Axial_L7.0mm_D3.3mm_P12.70mm_Horizontal_Fastron_MICC"
+		(property "Footprint" "Library:R_Axial_L9.0mm_D2.7mm_P12.70mm_Horizontal"
 			(at 133.35 50.8 0)
 			(effects
 				(font
@@ -67201,7 +67201,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPDT")
-		(at 83.82 25.4 0)
+		(at 83.82 22.86 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -67210,7 +67210,7 @@
 		(fields_autoplaced yes)
 		(uuid "a327762d-795f-4d3e-aa46-185a0bc40bbf")
 		(property "Reference" "SW1"
-			(at 83.82 16.51 0)
+			(at 83.82 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -67218,15 +67218,15 @@
 			)
 		)
 		(property "Value" "SW_SPDT"
-			(at 83.82 19.05 0)
+			(at 83.82 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 83.82 25.4 0)
+		(property "Footprint" "Library:PowerSwitch"
+			(at 83.82 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -67235,7 +67235,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 83.82 33.02 0)
+			(at 83.82 15.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -67244,7 +67244,7 @@
 			)
 		)
 		(property "Description" "Switch, single pole double throw"
-			(at 83.82 25.4 0)
+			(at 83.82 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -68841,7 +68841,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Library:CUI_SDS-70J"
 			(at 64.77 27.94 0)
 			(effects
 				(font
@@ -74469,7 +74469,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_THT:L_Axial_L7.0mm_D3.3mm_P12.70mm_Horizontal_Fastron_MICC"
+		(property "Footprint" "Library:R_Axial_L9.0mm_D2.7mm_P12.70mm_Horizontal"
 			(at 133.35 36.83 0)
 			(effects
 				(font
@@ -78872,7 +78872,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P5.00mm"
+		(property "Footprint" "Capacitor_THT:CP_Axial_L11.0mm_D5.0mm_P18.00mm_Horizontal"
 			(at 99.06 25.4 0)
 			(effects
 				(font
