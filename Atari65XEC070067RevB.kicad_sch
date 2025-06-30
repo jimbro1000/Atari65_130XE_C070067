@@ -16739,6 +16739,26 @@
 		)
 		(uuid "1ed51da6-68cb-47ac-ae30-e137d0d64f87")
 	)
+	(text_box "L4 is a total guess"
+		(exclude_from_sim no)
+		(at 283.21 177.8 0)
+		(size 13.97 6.35)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "44ae5b27-9836-400f-ba48-e83933a7af45")
+	)
 	(text_box "B"
 		(exclude_from_sim no)
 		(at 177.8 392.43 0)
@@ -18020,7 +18040,7 @@
 		(uuid "58d545fe-a307-443c-99e2-e464aff3cefa")
 	)
 	(junction
-		(at 280.67 156.21)
+		(at 279.4 156.21)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "59024fa1-b7b4-44a2-bbb5-82b67ed3bb03")
@@ -18096,6 +18116,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5e34c7d8-47f8-4cf5-a5c5-12cc7313b8a6")
+	)
+	(junction
+		(at 289.56 166.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5ebbe7da-7067-4e01-b878-7566e07afb64")
 	)
 	(junction
 		(at 434.34 140.97)
@@ -18260,7 +18286,7 @@
 		(uuid "6e5d85c6-59f4-43dc-a083-0c10ea7cfbdc")
 	)
 	(junction
-		(at 280.67 166.37)
+		(at 279.4 166.37)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6f1a5a1f-ba10-4c72-9457-dfd646e6c943")
@@ -19758,12 +19784,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ec6e6c41-186e-4dca-9b60-e2aa13828cff")
-	)
-	(junction
-		(at 289.56 166.37)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ed851029-144c-48aa-a48f-811591148b63")
 	)
 	(junction
 		(at 151.13 55.88)
@@ -21959,16 +21979,6 @@
 	)
 	(wire
 		(pts
-			(xy 288.29 166.37) (xy 289.56 166.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "036f8ceb-f7a3-49d8-91f2-70260cb47540")
-	)
-	(wire
-		(pts
 			(xy 280.67 292.1) (xy 273.05 292.1)
 		)
 		(stroke
@@ -22539,7 +22549,7 @@
 	)
 	(wire
 		(pts
-			(xy 281.94 166.37) (xy 280.67 166.37)
+			(xy 279.4 166.37) (xy 280.67 166.37)
 		)
 		(stroke
 			(width 0)
@@ -27829,7 +27839,7 @@
 	)
 	(wire
 		(pts
-			(xy 280.67 166.37) (xy 280.67 168.91)
+			(xy 279.4 166.37) (xy 279.4 168.91)
 		)
 		(stroke
 			(width 0)
@@ -28499,7 +28509,7 @@
 	)
 	(wire
 		(pts
-			(xy 280.67 156.21) (xy 270.51 156.21)
+			(xy 279.4 156.21) (xy 270.51 156.21)
 		)
 		(stroke
 			(width 0)
@@ -31119,7 +31129,7 @@
 	)
 	(wire
 		(pts
-			(xy 280.67 163.83) (xy 280.67 166.37)
+			(xy 279.4 163.83) (xy 279.4 166.37)
 		)
 		(stroke
 			(width 0)
@@ -32419,7 +32429,7 @@
 	)
 	(wire
 		(pts
-			(xy 289.56 156.21) (xy 280.67 156.21)
+			(xy 289.56 156.21) (xy 279.4 156.21)
 		)
 		(stroke
 			(width 0)
@@ -33889,6 +33899,16 @@
 	)
 	(wire
 		(pts
+			(xy 288.29 166.37) (xy 289.56 166.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a45d9e15-43af-4dd1-a05f-59ab83d1a826")
+	)
+	(wire
+		(pts
 			(xy 237.49 168.91) (xy 265.43 168.91)
 		)
 		(stroke
@@ -34639,7 +34659,7 @@
 	)
 	(wire
 		(pts
-			(xy 270.51 173.99) (xy 273.05 173.99)
+			(xy 270.51 173.99) (xy 271.78 173.99)
 		)
 		(stroke
 			(width 0)
@@ -34789,7 +34809,7 @@
 	)
 	(wire
 		(pts
-			(xy 280.67 158.75) (xy 280.67 156.21)
+			(xy 279.4 158.75) (xy 279.4 156.21)
 		)
 		(stroke
 			(width 0)
@@ -34976,6 +34996,16 @@
 			(type default)
 		)
 		(uuid "b15bb92a-542a-4783-be02-8e80f4944abd")
+	)
+	(wire
+		(pts
+			(xy 279.4 179.07) (xy 280.67 179.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b16a1c93-9938-4530-8fb3-48057d19c87a")
 	)
 	(bus
 		(pts
@@ -57705,7 +57735,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 280.67 161.29 0)
+		(at 279.4 161.29 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -57713,7 +57743,7 @@
 		(dnp no)
 		(uuid "6de47108-111f-4bee-9ddd-5aabcd7e56d6")
 		(property "Reference" "R36"
-			(at 282.194 161.29 0)
+			(at 280.924 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -57722,7 +57752,7 @@
 			)
 		)
 		(property "Value" "680R"
-			(at 282.194 163.83 0)
+			(at 280.924 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -57731,7 +57761,7 @@
 			)
 		)
 		(property "Footprint" "Library:R_Axial_L9.0mm_D2.7mm_P12.70mm_Horizontal"
-			(at 280.67 161.29 0)
+			(at 279.4 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -57740,7 +57770,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 280.67 161.29 0)
+			(at 279.4 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -57749,7 +57779,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 280.67 161.29 0)
+			(at 279.4 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -62831,6 +62861,74 @@
 			(project "Atari65XEC070067RevB"
 				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
 					(reference "C44")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:L_Ferrite")
+		(at 284.48 166.37 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8800acba-fb45-41d4-875c-74a45da0d987")
+		(property "Reference" "L4"
+			(at 284.48 169.672 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 285.242 169.672 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Library:R_Axial_L9.0mm_D2.7mm_P12.70mm_Horizontal"
+			(at 284.48 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 284.48 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Inductor with ferrite core"
+			(at 284.48 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "b5c4d1ff-b72f-4909-8aad-7d00d94f759a")
+		)
+		(pin "1"
+			(uuid "9c18bb42-19c9-4b0a-8f69-d08f6c2e98d8")
+		)
+		(instances
+			(project "Atari65XEC070067RevB"
+				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
+					(reference "L4")
 					(unit 1)
 				)
 			)
@@ -76644,7 +76742,7 @@
 	)
 	(symbol
 		(lib_id "PCM_Transistor_BJT_AKL:2N3904")
-		(at 278.13 173.99 0)
+		(at 276.86 173.99 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -76653,7 +76751,7 @@
 		(fields_autoplaced yes)
 		(uuid "da7dfe9e-d95a-4fb4-a3ca-36d43c228240")
 		(property "Reference" "Q1"
-			(at 283.21 172.7199 0)
+			(at 281.94 172.7199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -76662,7 +76760,7 @@
 			)
 		)
 		(property "Value" "2N3904"
-			(at 283.21 175.2599 0)
+			(at 281.94 175.2599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -76671,7 +76769,7 @@
 			)
 		)
 		(property "Footprint" "Library:TO-92L_Inline_Wide"
-			(at 283.21 171.45 0)
+			(at 281.94 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -76680,7 +76778,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.tme.eu/Document/12bff749841e3a356e683e9a8e7e4119/2N3904BU-DTE.pdf"
-			(at 278.13 173.99 0)
+			(at 276.86 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -76689,7 +76787,7 @@
 			)
 		)
 		(property "Description" "NPN TO-92 transistor, 40V, 200mA, 625mW, Complementary to 2N3906, Alternate KiCAD Library"
-			(at 278.13 173.99 0)
+			(at 276.86 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
