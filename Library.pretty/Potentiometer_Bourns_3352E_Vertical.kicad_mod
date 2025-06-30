@@ -1,0 +1,208 @@
+(footprint "Potentiometer_Bourns_3352E_Vertical"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Potentiometer, vertical, Trimmer, RM-065 https://components101.com/sites/default/files/component_datasheet/Preset%20Potentiometer%20%28Trimpot%29.pdf")
+	(tags "Potentiometer Trimmer RM-065")
+	(property "Reference" "REF**"
+		(at 7.747 5.588 90)
+		(layer "F.SilkS")
+		(uuid "e68c5170-03c3-4a20-abd0-ad610c43d035")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Potentiometer_Bourns_3352E_Vertical"
+		(at 2.6 7.4 0)
+		(layer "F.Fab")
+		(uuid "92e8f8c3-0985-4c0d-8e38-92cbbf365409")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e5cf5999-e6bd-4526-a17e-f1a8e3af6d3b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c199e3de-841e-4cc8-8be0-1da79aa728d5")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -0.81 -0.504)
+		(end -0.81 -0.254)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c5a1761e-3391-4e74-90c9-947fd66e1fc6")
+	)
+	(fp_line
+		(start -0.81 10.541)
+		(end -0.81 0.762)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "02165243-61a3-4857-84ba-71a77cb9a387")
+	)
+	(fp_line
+		(start 0.762 -0.504)
+		(end 4.449 -0.504)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "46cfd089-6873-4d8b-89af-02ff30e49472")
+	)
+	(fp_line
+		(start 5.869 -0.504)
+		(end 5.969 -0.504)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b680b4a7-6cb0-40b5-a7ec-a02910a0daa4")
+	)
+	(fp_line
+		(start 5.969 -0.504)
+		(end 5.969 -0.183)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5994a946-119f-4db4-aafe-00ae73b5b800")
+	)
+	(fp_line
+		(start 5.969 0.381)
+		(end 5.969 10.541)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9ff4672a-e1a4-4a1e-887d-1b9a3429d278")
+	)
+	(fp_arc
+		(start 1.935997 13.286997)
+		(mid -0.005716 12.482713)
+		(end -0.81 10.541)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "563c12e4-8f8c-446c-a11f-94f5aa93b994")
+	)
+	(fp_arc
+		(start 5.969 10.541)
+		(mid 5.164716 12.482713)
+		(end 3.223003 13.286997)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "87f75777-caa8-4a2d-bf0d-dae08dd8613c")
+	)
+	(fp_rect
+		(start -1.411 -1.042)
+		(end 6.538 13.716)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "6ee3b9f9-cf34-4067-ac61-0e42ac734b95")
+	)
+	(fp_circle
+		(center 2.54 6.440499)
+		(end 5.54 2.229316)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "6ff874d0-4ac5-414c-83a7-573eda4c7703")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 2.5 2.5 0)
+		(layer "F.Fab")
+		(uuid "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at 0 0)
+		(size 1.56 1.56)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "eaef1172-3351-417c-bfc4-74a598f141cb")
+	)
+	(pad "2" thru_hole circle
+		(at 2.54 12.7)
+		(size 1.56 1.56)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "f6ee98b5-4773-4eeb-a825-33c1705abace")
+	)
+	(pad "3" thru_hole circle
+		(at 5.18 0)
+		(size 1.56 1.56)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "08e2d62f-f99a-4268-8b33-617dfcc63e75")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Runtron_RM-065_Vertical.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
