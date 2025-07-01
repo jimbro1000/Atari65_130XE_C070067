@@ -41557,6 +41557,16 @@
 		)
 		(uuid "3ddd78f7-a42e-4fbc-b531-9693a2c3acb1")
 	)
+	(label "COLOR"
+		(at 279.4 105.41 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3f47b996-d1c3-4d18-9e84-90e6635d284c")
+	)
 	(label "D3"
 		(at 256.54 118.11 180)
 		(effects
@@ -41566,6 +41576,16 @@
 			(justify right bottom)
 		)
 		(uuid "4006424d-4182-43bb-b374-6dad34d1bb31")
+	)
+	(label "CSYNC"
+		(at 279.4 102.87 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4088197d-761d-4c1e-a766-cee59e1f0246")
 	)
 	(label "P3"
 		(at 461.01 349.25 0)
@@ -41596,6 +41616,16 @@
 			(justify left bottom)
 		)
 		(uuid "44d20b1c-82af-4aa5-9036-a7e0f9fff496")
+	)
+	(label "Y0"
+		(at 278.13 92.71 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "456780f9-48d9-4588-98fd-d68f9f3e3488")
 	)
 	(label "D3"
 		(at 361.95 311.15 180)
@@ -41656,6 +41686,16 @@
 			(justify left bottom)
 		)
 		(uuid "49aaf7bb-ca1a-4a4e-b382-9afa58d479be")
+	)
+	(label "T3"
+		(at 278.13 123.19 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4ac1d83d-6e90-4660-806e-6789f5f1320e")
 	)
 	(label "BO2"
 		(at 248.92 143.51 0)
@@ -41916,6 +41956,16 @@
 			(justify left bottom)
 		)
 		(uuid "5fee309a-a3e1-4340-9643-3b72b8ab47d0")
+	)
+	(label "Y2"
+		(at 278.13 97.79 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "61afb01f-98d5-4758-b423-e946f59a9189")
 	)
 	(label "Bphi2"
 		(at 114.3 318.77 0)
@@ -43077,6 +43127,16 @@
 		)
 		(uuid "e3c950b3-ddea-41e2-bd30-921e1b01a01b")
 	)
+	(label "Y1"
+		(at 278.13 95.25 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e5bfb731-fa46-4ebc-835e-1462e1836a59")
+	)
 	(label "D1"
 		(at 30.48 203.2 0)
 		(effects
@@ -43127,6 +43187,16 @@
 		)
 		(uuid "ef5e891d-6223-45ca-837d-8a08b9d50720")
 	)
+	(label "Y3"
+		(at 278.13 100.33 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f194db27-9ed3-4b93-a2d3-64fd69ce6722")
+	)
 	(label "D6"
 		(at 226.06 179.07 0)
 		(effects
@@ -43156,6 +43226,16 @@
 			(justify left bottom)
 		)
 		(uuid "f3af9f18-febd-46c0-830f-fcf41657235a")
+	)
+	(label "S3"
+		(at 276.86 85.09 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f421011a-df3a-432a-aba8-bb1d237aa0e7")
 	)
 	(label "RW"
 		(at 247.65 168.91 0)
