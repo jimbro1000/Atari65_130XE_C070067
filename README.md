@@ -41,7 +41,12 @@ original case.
 
 The board design provided will be a direct copy in terms of the components
 used and as such will require original parts, some of which are
-effectively unobtainable other than from donor machines
+effectively unobtainable other than from donor machines - notably the SIO
+port, expansion port and half of the custom chips. 
+
+The SALLY CPU chip can be replaced with an adapted 65C02 to add the missing
+HALT signal. FREDDIE is available as a reproduction. The PIA can be replaced
+with a MC68B21
 
 ## Progress
 
@@ -50,14 +55,15 @@ component numbering errors are present on the soure schematic and there are
 two gaps that likely should be components. The gaps will be resolved as the
 PCB routing is performed.
 
-Recreation of the original PCB routing is in progress and approximately 20%
+Recreation of the original PCB routing is in progress and approximately 25%
 complete.
 
 Mounting holes for the board and shielding are not included yet. The PCB
-outline is correct except for the cartridge/expansion port. Footprints for 
-SIO port, power port and RF modulator are not included.
+outline is correct. Footprints for SIO port and expansion port are not 
+included.
 
 The footprint for the monitor port is correct for electrical connections 
-but does not match the original mounting pins.
+but does not match the original layout or mounting pins. The power port 
+is likewise correct but only needs adjustment to the locating pins.
 
 ![Render of PCB top](./Atari65XEC070067RevB.png)
