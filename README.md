@@ -45,8 +45,8 @@ effectively unobtainable other than from donor machines - notably the SIO
 port, expansion port and half of the custom chips. 
 
 The SALLY CPU chip can be replaced with an adapted 65C02 to add the missing
-HALT signal. FREDDIE is available as a reproduction. The PIA can be replaced
-with a MC68B21
+HALT signal. FREDDIE and POKEY are available as reproductions. The PIA can 
+be replaced with a MC68B21 (or equivalent).
 
 ## Progress
 
@@ -67,3 +67,20 @@ but does not match the original layout or mounting pins. The power port
 is likewise correct but only needs adjustment to the locating pins.
 
 ![Render of PCB top](./Atari65XEC070067RevB.png)
+
+## References
+
+FREDDIE replacement - design by Candle'O'Sin. Sold by Retro Lemon in two 
+flavours:  
+* https://retrolemon.co.uk/atari-8bit-upgrades/182-freddie-cpld.html
+* https://retrolemon.co.uk/atari-8bit-upgrades/81-freddie-module.html
+  (only for use with matching SRAM module)
+
+
+SALLY conversion - open source project you can fabricate (or have fabricated 
+for you)
+* https://github.com/TheByteAttic/Sally-to-W65C02S-adapter
+* https://www.pcbway.com/project/shareproject/6502__W65C02S__to_Atari_SALLY_adapter_Board.html
+
+POKEY replacement (and upgrade) - design by Retronics. Sold by Retro Lemon:
+* https://retrolemon.co.uk/atari-8bit-upgrades/148-pokeymax.html
