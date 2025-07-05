@@ -48313,15 +48313,15 @@
 				)
 			)
 		)
-		(property "Value" "~"
-			(at 22.86 157.48 0)
+		(property "Value" "J4A"
+			(at 22.86 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "CARTRIDGE"
 			(at 22.86 209.55 0)
 			(effects
 				(font
@@ -51633,7 +51633,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Library:C_Axial_L5.1mm_D2.7mm_P12.72mm_Horizontal"
+		(property "Footprint" "Capacitor_THT:CP_Axial_L11.0mm_D5.0mm_P18.00mm_Horizontal"
 			(at 332.74 388.62 0)
 			(effects
 				(font
@@ -75900,7 +75900,7 @@
 				)
 			)
 		)
-		(property "Value" "EXPANSION"
+		(property "Value" "J4B"
 			(at 23.114 344.678 0)
 			(effects
 				(font
@@ -75908,7 +75908,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Library:EXPANSION"
 			(at 22.86 313.69 0)
 			(effects
 				(font
