@@ -18998,12 +18998,6 @@
 		(uuid "af0358f2-9add-4f64-9112-564c1e4e1cdf")
 	)
 	(junction
-		(at 198.12 151.13)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "af3e6b8e-f62d-4ff1-a18c-b2c6c8f47a86")
-	)
-	(junction
 		(at 142.24 22.86)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -19406,12 +19400,6 @@
 		(uuid "ce25fe85-efcf-48b8-94d8-b8c3487a923d")
 	)
 	(junction
-		(at 60.96 236.22)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "cee55f85-31e2-41f0-8a49-ce8e3cee68d5")
-	)
-	(junction
 		(at 222.25 63.5)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -19662,6 +19650,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e6b66214-1b51-4fa2-8afa-0460ea9e1f74")
+	)
+	(junction
+		(at 226.06 205.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e6ed2a84-ec60-4ee2-b076-20e4a6d46d9a")
 	)
 	(junction
 		(at 355.6 384.81)
@@ -23769,16 +23763,6 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 151.13) (xy 203.2 151.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1b7562a9-f067-4265-a933-69725c123b60")
-	)
-	(wire
-		(pts
 			(xy 388.62 63.5) (xy 388.62 62.23)
 		)
 		(stroke
@@ -26399,6 +26383,16 @@
 	)
 	(wire
 		(pts
+			(xy 226.06 204.47) (xy 226.06 205.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3f36d8df-2990-49db-9fd4-46a446de05e6")
+	)
+	(wire
+		(pts
 			(xy 426.72 194.31) (xy 426.72 233.68)
 		)
 		(stroke
@@ -27629,7 +27623,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 236.22) (xy 60.96 236.22)
+			(xy 48.26 236.22) (xy 77.47 236.22)
 		)
 		(stroke
 			(width 0)
@@ -35039,7 +35033,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 151.13) (xy 198.12 151.13)
+			(xy 185.42 151.13) (xy 203.2 151.13)
 		)
 		(stroke
 			(width 0)
@@ -35819,7 +35813,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 153.67) (xy 198.12 151.13)
+			(xy 198.12 146.05) (xy 198.12 153.67)
 		)
 		(stroke
 			(width 0)
@@ -37539,16 +37533,6 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 236.22) (xy 77.47 236.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d5180ab4-ff5b-4904-bcc1-0f59542966d3")
-	)
-	(wire
-		(pts
 			(xy 417.83 308.61) (xy 417.83 306.07)
 		)
 		(stroke
@@ -37966,16 +37950,6 @@
 			(type default)
 		)
 		(uuid "da64f7b6-812a-4ce6-bde1-079d47f48215")
-	)
-	(wire
-		(pts
-			(xy 198.12 146.05) (xy 198.12 151.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "da85e3a0-9c70-4d4c-aea9-bf7ba5187882")
 	)
 	(bus
 		(pts
@@ -39979,7 +39953,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 236.22) (xy 60.96 292.1)
+			(xy 60.96 149.86) (xy 60.96 292.1)
 		)
 		(stroke
 			(width 0)
@@ -40897,16 +40871,6 @@
 		)
 		(uuid "ff737c1d-b577-4963-b389-e53c50ab3d75")
 	)
-	(wire
-		(pts
-			(xy 60.96 149.86) (xy 60.96 236.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ff9453fe-7ff4-4a0f-9fb6-609f90ba7469")
-	)
 	(bus
 		(pts
 			(xy 128.27 180.34) (xy 128.27 182.88)
@@ -41396,6 +41360,16 @@
 			(justify left bottom)
 		)
 		(uuid "2b28ca21-3c80-4e9e-b9c9-d52ce435c629")
+	)
+	(label "MPD"
+		(at 33.02 294.64 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2b983fb9-0e90-467d-9d7f-dc33f9991bbc")
 	)
 	(label "CLOCK_OUT"
 		(at 527.05 356.87 0)
@@ -42087,6 +42061,16 @@
 		)
 		(uuid "6bca1133-fb96-4c47-83b6-2acfbf2b82d5")
 	)
+	(label "RST"
+		(at 33.02 312.42 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6bcf1faa-0a9f-4d83-a5fe-0200f5cff8b6")
+	)
 	(label "A8"
 		(at 130.81 133.35 0)
 		(effects
@@ -42506,6 +42490,16 @@
 			(justify right bottom)
 		)
 		(uuid "9abfa599-b227-4738-a100-77c273aa53ba")
+	)
+	(label "AUD"
+		(at 33.02 292.1 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9c5531cb-c18f-41c2-a4af-dd837f92d59a")
 	)
 	(label "D0"
 		(at 247.65 259.08 0)
@@ -43037,6 +43031,16 @@
 		)
 		(uuid "d761f25c-3fb0-4529-b5f0-3f6c90b233e7")
 	)
+	(label "EXTSEL"
+		(at 39.37 337.82 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d83d8ca5-772d-4498-bc75-a2c3fa8a25b9")
+	)
 	(label "D7"
 		(at 226.06 176.53 0)
 		(effects
@@ -43186,6 +43190,16 @@
 			(justify left bottom)
 		)
 		(uuid "ef5e891d-6223-45ca-837d-8a08b9d50720")
+	)
+	(label "D1xx"
+		(at 33.02 287.02 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f1224b1c-43f1-45aa-af72-c9b471a1291c")
 	)
 	(label "Y3"
 		(at 278.13 100.33 0)
