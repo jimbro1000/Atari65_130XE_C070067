@@ -1,4 +1,4 @@
-45286500753157205
+45288253818138665
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -65867,14 +65867,21 @@ CUI_SDS-50J
 
 
 0
-7
-7
+10
+6
 Library
 CUI_SDS-70J
 
 
 0
 9
+9
+Library
+CUI_SDS-70J_Atari
+
+
+0
+11
 9
 Library
 C_Axial_L3.8mm_D2.6mm_P8.89mm_Horizontal

@@ -69136,7 +69136,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CUI_SDS-70J"
+		(property "Footprint" "Library:CUI_SDS-70J_Atari"
 			(at 64.77 27.94 0)
 			(effects
 				(font
