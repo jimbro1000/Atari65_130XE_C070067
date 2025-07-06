@@ -17312,6 +17312,12 @@
 		(uuid "228adbc5-9c10-4974-aed0-9d53d8b99230")
 	)
 	(junction
+		(at 55.88 246.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "23933a55-f81f-4381-86a8-806513005b9f")
+	)
+	(junction
 		(at 483.87 354.33)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -18560,12 +18566,6 @@
 		(uuid "8a155f91-6054-4d71-89df-4b44931241a7")
 	)
 	(junction
-		(at 55.88 248.92)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8a1e8b07-78c3-40e3-afd4-cd0fd5460fe3")
-	)
-	(junction
 		(at 218.44 284.48)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -19152,6 +19152,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bc086171-96a1-4f5b-a011-162adcf7f841")
+	)
+	(junction
+		(at 66.04 248.92)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bd473def-f66d-40ef-99c6-f25bd944094b")
 	)
 	(junction
 		(at 228.6 151.13)
@@ -19914,12 +19920,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f989de20-5b5c-4bdc-bccc-e427eadd6f78")
-	)
-	(junction
-		(at 66.04 246.38)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f9a95f03-f3c0-4806-969e-f63ba60c5485")
 	)
 	(junction
 		(at 242.57 271.78)
@@ -22610,6 +22610,16 @@
 			(type default)
 		)
 		(uuid "0b236328-6966-4138-a1e1-ef63ba228c22")
+	)
+	(wire
+		(pts
+			(xy 55.88 246.38) (xy 63.5 246.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0b598594-dfe3-4ef1-bd9e-25c7830182c9")
 	)
 	(wire
 		(pts
@@ -28433,16 +28443,6 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 246.38) (xy 66.04 254)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5b0a1638-9167-4b40-9acc-8e38df5bb7e5")
-	)
-	(wire
-		(pts
 			(xy 553.72 346.71) (xy 553.72 363.22)
 		)
 		(stroke
@@ -30833,16 +30833,6 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 254) (xy 55.88 248.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7c75127b-31ae-4c36-a83e-0c14c33658a8")
-	)
-	(wire
-		(pts
 			(xy 535.94 265.43) (xy 535.94 275.59)
 		)
 		(stroke
@@ -31033,16 +31023,6 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 248.92) (xy 55.88 248.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7f7ac692-d43c-44a2-935d-d750cd77ce77")
-	)
-	(wire
-		(pts
 			(xy 31.75 110.49) (xy 31.75 120.65)
 		)
 		(stroke
@@ -31173,7 +31153,7 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 246.38) (xy 63.5 246.38)
+			(xy 30.48 246.38) (xy 55.88 246.38)
 		)
 		(stroke
 			(width 0)
@@ -31833,7 +31813,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 248.92) (xy 85.09 248.92)
+			(xy 30.48 248.92) (xy 66.04 248.92)
 		)
 		(stroke
 			(width 0)
@@ -36201,6 +36181,16 @@
 		)
 		(uuid "c1f98a86-e2c7-4ea1-8a51-eb0552b9f970")
 	)
+	(wire
+		(pts
+			(xy 55.88 254) (xy 55.88 246.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c21a60a2-d334-4772-a7d9-b0d5958cbd46")
+	)
 	(bus
 		(pts
 			(xy 200.66 95.25) (xy 200.66 97.79)
@@ -37763,16 +37753,6 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 246.38) (xy 85.09 246.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d8b1e43d-0d0a-4140-b0ff-a3c47b030fba")
-	)
-	(wire
-		(pts
 			(xy 340.36 246.38) (xy 340.36 326.39)
 		)
 		(stroke
@@ -38870,6 +38850,16 @@
 			(type default)
 		)
 		(uuid "e3c813b8-534c-40d6-baff-e0570a197010")
+	)
+	(wire
+		(pts
+			(xy 66.04 248.92) (xy 85.09 248.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e3ea58f6-4732-449e-8063-0489bc705e6b")
 	)
 	(wire
 		(pts
@@ -40563,7 +40553,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 246.38) (xy 66.04 246.38)
+			(xy 63.5 246.38) (xy 85.09 246.38)
 		)
 		(stroke
 			(width 0)
@@ -40770,6 +40760,16 @@
 			(type default)
 		)
 		(uuid "fe3bd469-4741-4b89-a43f-cf53d309e71f")
+	)
+	(wire
+		(pts
+			(xy 66.04 254) (xy 66.04 248.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe3dbe2c-3e95-4687-ba85-cf2b759e49f2")
 	)
 	(wire
 		(pts
@@ -57724,7 +57724,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P5.00mm"
+		(property "Footprint" "Capacitor_THT:CP_Axial_L11.0mm_D5.0mm_P18.00mm_Horizontal"
 			(at 486.41 110.49 0)
 			(effects
 				(font
@@ -60842,7 +60842,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Library:DSUB-13_Pins_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm"
 			(at 558.8 370.84 0)
 			(effects
 				(font
@@ -78231,7 +78231,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDPWR")
-		(at 486.41 113.03 0)
+		(at 491.49 113.03 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -78240,7 +78240,7 @@
 		(fields_autoplaced yes)
 		(uuid "e467e1e8-64c4-49ba-9f30-575d6fa2cea3")
 		(property "Reference" "#PWR0173"
-			(at 486.41 118.11 0)
+			(at 491.49 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -78249,7 +78249,7 @@
 			)
 		)
 		(property "Value" "Shield"
-			(at 486.283 116.84 0)
+			(at 491.363 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -78257,7 +78257,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 486.41 114.3 0)
+			(at 491.49 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -78266,7 +78266,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 486.41 114.3 0)
+			(at 491.49 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -78275,7 +78275,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GNDPWR\" , global ground"
-			(at 486.41 113.03 0)
+			(at 491.49 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -80672,6 +80672,73 @@
 			(project "Atari65XEC070067RevB"
 				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
 					(reference "#PWR0171")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 486.41 113.03 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f4d99520-8432-41a6-863b-fe5077b181de")
+		(property "Reference" "#PWR0180"
+			(at 486.41 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 486.41 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 486.41 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 486.41 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 486.41 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8f48e9c1-efb5-4005-b7d4-a997df3b08d7")
+		)
+		(instances
+			(project "Atari65XEC070067RevB"
+				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
+					(reference "#PWR0180")
 					(unit 1)
 				)
 			)
