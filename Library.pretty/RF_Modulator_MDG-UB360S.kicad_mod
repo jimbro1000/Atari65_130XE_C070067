@@ -4,7 +4,7 @@
 	(generator_version "9.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
-		(at 0 -0.5 0)
+		(at 15.7226 24.5745 0)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "e695277b-3de5-4b48-9917-527332a710fe")
@@ -56,7 +56,7 @@
 	(attr through_hole)
 	(fp_rect
 		(start -0.381 -0.381)
-		(end 32.385 49.53)
+		(end 31.8262 49.53)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -64,6 +64,17 @@
 		(fill no)
 		(layer "F.SilkS")
 		(uuid "7243d995-a2dc-4919-8785-759446bc801d")
+	)
+	(fp_rect
+		(start 2.032 -7.3152)
+		(end 8.9916 -0.381)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "64c2209d-653c-46a6-9747-acb3a5fa4076")
 	)
 	(fp_rect
 		(start 13.589 49.53)
@@ -76,9 +87,42 @@
 		(layer "F.SilkS")
 		(uuid "1331affe-ec2f-4289-b700-8c5407ebf9e7")
 	)
+	(fp_circle
+		(center 5.4464 20.7264)
+		(end 7.9464 20.7264)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "fe88fcda-0088-4e72-9fe0-f8e4b39214f6")
+	)
+	(fp_circle
+		(center 7.0612 30.0228)
+		(end 9.5612 30.0228)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "530574ee-6096-434b-a85d-974405fa91a6")
+	)
+	(fp_circle
+		(center 23.5204 25.9588)
+		(end 26.0204 25.9588)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "64a76b58-a146-4c92-ad07-6396ba56bb23")
+	)
 	(fp_rect
-		(start -2.667 -3.302)
-		(end 34.798 53.975)
+		(start -1.3335 -9.1186)
+		(end 32.8295 53.2384)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -140,7 +184,34 @@
 		(uuid "bb2be959-7832-4313-981c-20807b1d9eae")
 	)
 	(pad "6" thru_hole roundrect
-		(at 32.385 20.32)
+		(at 0.7734 25)
+		(size 1.6 3.2)
+		(drill oval 0.8 2.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.15625)
+		(uuid "3b1a4176-0de5-4d52-a356-25c6681a677b")
+	)
+	(pad "6" thru_hole roundrect
+		(at 12 0.7734 90)
+		(size 1.6 3.2)
+		(drill oval 0.8 2.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.15625)
+		(uuid "d169e837-4676-4ffb-94af-3592aac69ddf")
+	)
+	(pad "6" thru_hole roundrect
+		(at 12 47.9238 90)
+		(size 1.6 3.2)
+		(drill oval 0.8 2.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.15625)
+		(uuid "07febfe1-a640-4482-b09e-464cfea72de9")
+	)
+	(pad "6" thru_hole roundrect
+		(at 30.7734 25)
 		(size 1.6 3.2)
 		(drill oval 0.8 2.4)
 		(layers "*.Cu" "*.Mask")
