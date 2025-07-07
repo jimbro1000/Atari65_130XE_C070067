@@ -51,20 +51,22 @@ be replaced with a MC68B21 (or equivalent).
 ## Progress
 
 Transcription of the schematics is completed subject to review. Some minor
-component numbering errors are present on the soure schematic and there are 
-two gaps that likely should be components. The gaps will be resolved as the
-PCB routing is performed.
+component numbering errors are present on the soure schematic but are dealt
+with as they are found. Some components on the schematic have been deleted
+on the sample PCBs, these are removed when identified but left unattached
+in the schematic for reference.
 
-Recreation of the original PCB routing is in progress and approximately 25%
-complete.
+Recreation of the original PCB routing is in progress and approximately 50%
+complete. All components are placed.
 
 Mounting holes for the board and shielding are not included yet. The PCB
-outline is correct. Footprints for SIO port and expansion port are not 
-included.
+outline is correct.
 
-The footprint for the monitor port is correct for electrical connections 
-but does not match the original layout or mounting pins. The power port 
-is likewise correct but only needs adjustment to the locating pins.
+Footprints for SIO, and the two joysticks need refiniement - the footprints
+for both are non-standard so the current footprints should be considered as
+placeholders only. The edge connectors require further detail to ensure
+dimensional accuracy and relative positioning, and to include mounting/locating
+holes.
 
 ![Render of PCB top](./Atari65XEC070067RevB.png)
 
