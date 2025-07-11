@@ -11,6 +11,22 @@ The initial primary goal is to support diagnostics rather than
 create replacement boards but this will likely become possible as 
 the project progresses.
 
+### Sponsorship and Support
+
+A bare donor board has been provided by Lee of "More Fun Making It"
+and founder of the Retro Hardware Discord to save my working board 
+from being torn down.
+
+![PCBWay Logo](./PCBWay.png)
+
+PCBWay are sponsoring the initial fabrication of the board by covering
+the costs and providing high quality, rapid turnaround prototyping
+capabilities.
+
+An honourable mention also goes to Henry of the Retro Hardware Discord
+for providing spares to help fix my 65XE (and thus negating the direct 
+need for any of the work here)
+
 ### Sources
 
 The schematics that the design is taken from are themselves copies
@@ -56,7 +72,7 @@ with as they are found. Some components on the schematic have been deleted
 on the sample PCBs, these are removed when identified but left unattached
 in the schematic for reference.
 
-Recreation of the original PCB routing is in progress and approximately 50%
+Recreation of the original PCB routing is in progress and approximately 80%
 complete. All components are placed.
 
 Mounting holes for the board and shielding are not included yet. The PCB
@@ -65,8 +81,13 @@ outline is correct.
 Footprints for SIO, and the two joysticks need refiniement - the footprints
 for both are non-standard so the current footprints should be considered as
 placeholders only. The edge connectors require further detail to ensure
-dimensional accuracy and relative positioning, and to include mounting/locating
-holes.
+dimensional accuracy and relative positioning, and to include 
+mounting/locating holes.
+
+The GTIA select line has been reworked to match the bodges made at the
+factory, this adds another capacitor to the board, fixes a broken
+trace and adds a couple more that were just missing. Some further errors
+in the source schematics have been corrected to match the donor board.
 
 ![Render of PCB top](./Atari65XEC070067RevB.png)
 
@@ -77,7 +98,6 @@ flavours:
 * https://retrolemon.co.uk/atari-8bit-upgrades/182-freddie-cpld.html
 * https://retrolemon.co.uk/atari-8bit-upgrades/81-freddie-module.html
   (only for use with matching SRAM module)
-
 
 SALLY conversion - open source project you can fabricate (or have fabricated 
 for you)
