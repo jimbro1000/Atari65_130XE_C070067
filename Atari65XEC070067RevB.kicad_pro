@@ -72,7 +72,20 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "footprint_symbol_mismatch|247015000|68275200|c4abe2d0-5e08-4eea-b52a-ba5866c635b1|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "lib_footprint_issues|272843847|219683545|af92d1a8-1784-4422-a6b6-65dd1847daf2|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "net_conflict|156928200|50168800|2f4f5286-c17c-4559-a439-2a06682b2a0a|00000000-0000-0000-0000-000000000000",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -103,7 +116,7 @@
         "length_out_of_range": "error",
         "lib_footprint_issues": "warning",
         "lib_footprint_mismatch": "ignore",
-        "malformed_courtyard": "error",
+        "malformed_courtyard": "ignore",
         "microvia_drill_out_of_range": "error",
         "mirrored_text_on_front_layer": "warning",
         "missing_courtyard": "ignore",

@@ -1,4 +1,4 @@
-46636484267806753
+46639989774448809
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -68740,6 +68740,13 @@ C Axial series Axial Horizontal pin pitch 12.5mm  length 5.1mm diameter 3.1mm
 2
 2
 Library
+C_Disc_D3.0mm_W1.6mm_P3.0mm
+C, Disc series, Radial, pin pitch=2.50mm, diameter*width=3.0*1.6mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf
+C Disc series Radial pin pitch 2.50mm diameter 3.0mm width 1.6mm Capacitor
+0
+2
+2
+Library
 Copper_Logo
 
 
@@ -68753,6 +68760,13 @@ Cutout
 0
 0
 0
+Library
+DSUB-9_Pins_Horizontal_P2.77x2.54mm_Atari
+9-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, pins (male), pitch 2.77x2.54mm, pin-PCB-offset 9.4mm, see https://docs.rs-online.com/02d6/0900766b81585df2.pdf
+9-pin D-Sub connector horizontal angled 90deg THT pins pitch 2.77x2.54mm pin-PCB-offset 9.4mm
+0
+9
+9
 Library
 DSUB-13_Pins_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm
 15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, pins (male), pitch 2.77x2.84mm, pin-PCB-offset 7.7mm, distance of mounting holes 33.3mm, distance of mounting holes to PCB edge 9.12mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
