@@ -74,10 +74,6 @@
       "diff_pair_dimensions": [],
       "drc_exclusions": [
         [
-          "footprint_symbol_mismatch|247015000|68275200|c4abe2d0-5e08-4eea-b52a-ba5866c635b1|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
           "lib_footprint_issues|272843847|219683545|af92d1a8-1784-4422-a6b6-65dd1847daf2|00000000-0000-0000-0000-000000000000",
           ""
         ],
@@ -107,7 +103,8 @@
         "footprint_symbol_mismatch": "warning",
         "footprint_type_mismatch": "ignore",
         "hole_clearance": "error",
-        "hole_to_hole": "warning",
+        "hole_near_hole": "error",
+        "hole_to_hole": "error",
         "holes_co_located": "warning",
         "invalid_outline": "error",
         "isolated_copper": "warning",
@@ -181,7 +178,7 @@
       "teardrop_parameters": [
         {
           "td_allow_use_two_tracks": true,
-          "td_curve_segcount": 0,
+          "td_curve_segcount": 1,
           "td_height_ratio": 1.0,
           "td_length_ratio": 0.5,
           "td_maxheight": 2.0,
@@ -192,7 +189,7 @@
         },
         {
           "td_allow_use_two_tracks": true,
-          "td_curve_segcount": 0,
+          "td_curve_segcount": 1,
           "td_height_ratio": 1.0,
           "td_length_ratio": 0.5,
           "td_maxheight": 2.0,
@@ -203,7 +200,7 @@
         },
         {
           "td_allow_use_two_tracks": true,
-          "td_curve_segcount": 0,
+          "td_curve_segcount": 1,
           "td_height_ratio": 1.0,
           "td_length_ratio": 0.5,
           "td_maxheight": 2.0,

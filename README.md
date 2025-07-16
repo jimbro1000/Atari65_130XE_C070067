@@ -67,22 +67,12 @@ be replaced with a MC68B21 (or equivalent).
 ## Progress
 
 Transcription of the schematics is completed subject to review. Some minor
-component numbering errors are present on the soure schematic but are dealt
+component numbering errors are present on the source schematic but are dealt
 with as they are found. Some components on the schematic have been deleted
 on the sample PCBs, these are removed when identified but left unattached
 in the schematic for reference.
 
-Recreation of the original PCB routing is in progress and approximately 80%
-complete. All components are placed.
-
-Mounting holes for the board and shielding are not included yet. The PCB
-outline is correct.
-
-Footprints for SIO, and the two joysticks need refiniement - the footprints
-for both are non-standard so the current footprints should be considered as
-placeholders only. The edge connectors require further detail to ensure
-dimensional accuracy and relative positioning, and to include 
-mounting/locating holes.
+Recreation of the original PCB routing is complete. All components are placed. Verification of the custom component footprints (modulator, cartridge port, expansion port, SIO and joysticks) is underway.
 
 The GTIA select line has been reworked to match the bodges made at the
 factory, this adds another capacitor to the board, fixes a broken
