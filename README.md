@@ -66,20 +66,14 @@ be replaced with a MC68B21 (or equivalent).
 
 ## Progress
 
-Transcription of the schematics is completed subject to review. Some minor
-component numbering errors are present on the source schematic but are dealt
-with as they are found. Some components on the schematic have been deleted
-on the sample PCBs, these are removed when identified but left unattached
-in the schematic for reference.
-
-Recreation of the original PCB routing is complete. All components are placed. Verification of the custom component footprints (modulator, cartridge port, expansion port, SIO and joysticks) is underway.
-
-The GTIA select line has been reworked to match the bodges made at the
-factory, this adds another capacitor to the board, fixes a broken
-trace and adds a couple more that were just missing. Some further errors
-in the source schematics have been corrected to match the donor board.
+Revision 1 of the schematics and board design is complete, awaiting fabrication and test. Some tweaks to the schematic have been made to
+match the donor board. The factory bodge for the GTIA select line has
+been incorporated into the design, this has resulted in some 
+alterations to routing but leaves a much tidier board when completed.
 
 ![Render of PCB top](./Atari65XEC070067RevB.png)
+
+![Render of PCB rear](./Atari65XEC070067RevB-rear.png)
 
 ## References
 
