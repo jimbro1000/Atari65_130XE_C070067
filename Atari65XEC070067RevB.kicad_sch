@@ -46420,6 +46420,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT270RCT-ND"
+			(at 453.39 331.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "aac0b156-8461-46a4-81eb-096cb8dffb1a")
 		)
@@ -46490,6 +46499,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" ""
+			(at 15.24 426.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e0bda8af-7fe4-4703-9969-30977cb0bfaf")
 		)
@@ -46548,6 +46566,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 292.1 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "CF14JT100RCT-ND"
 			(at 292.1 212.09 0)
 			(effects
 				(font
@@ -46693,6 +46720,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" ""
+			(at 15.24 383.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "Atari65XEC070067RevB"
 				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
@@ -46749,6 +46785,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 154.94 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1109PHCT-ND"
 			(at 154.94 161.29 0)
 			(effects
 				(font
@@ -46827,6 +46872,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1109PHCT-ND"
+			(at 226.06 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "47122841-94ef-4851-84fc-c0fdb2b9f997")
 		)
@@ -46887,6 +46941,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 69.85 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "CF14JT3K00CT-ND"
 			(at 69.85 261.62 0)
 			(effects
 				(font
@@ -46964,6 +47027,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT270RCT-ND"
+			(at 453.39 295.91 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bb6ad163-e588-4a83-ab74-ce12d2e0c645")
 		)
@@ -47025,6 +47097,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 81.28 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "CF14JT3K30CT-ND"
+			(at 81.28 133.35 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47101,6 +47182,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT1K00CT-ND"
+			(at 350.52 358.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "419c4741-fa60-461b-9f34-f71a8226f3d0")
 		)
@@ -47163,6 +47253,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 426.72 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "CF14JT3K00CT-ND"
+			(at 426.72 124.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47306,6 +47405,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT220RCT-ND"
+			(at 472.44 280.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "91e87c7c-9894-44eb-a06f-df620e1dfb76")
 		)
@@ -47367,6 +47475,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 172.72 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "CF14JT3K00CT-ND"
+			(at 172.72 151.13 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47436,6 +47553,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 482.6 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "CF14JT220RCT-ND"
+			(at 482.6 148.59 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47578,6 +47704,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1109PHCT-ND"
+			(at 214.63 313.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0b6e368f-a14b-4c5e-8f04-e4ed95ff274c")
 		)
@@ -47647,6 +47782,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT220RCT-ND"
+			(at 464.82 158.75 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e0eedb01-be92-463d-93e7-f0b9f016ce1a")
 		)
@@ -47709,6 +47853,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 151.13 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1109PHCT-ND"
 			(at 151.13 53.34 0)
 			(effects
 				(font
@@ -47852,6 +48005,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "535-AICC-02-100K-TCT-ND"
+			(at 516.89 153.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0faad955-636c-42e9-9513-19f1ac898dfb")
 		)
@@ -47914,6 +48076,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 34.29 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "399-C410C105K5R5TA7200CT-ND"
 			(at 34.29 81.28 0)
 			(effects
 				(font
@@ -47991,6 +48162,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT270RCT-ND"
+			(at 453.39 303.53 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3d0a358b-827e-4f1a-8df4-37816915f038")
 		)
@@ -48052,6 +48232,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 358.14 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "296-1668-5-ND"
 			(at 358.14 179.07 0)
 			(effects
 				(font
@@ -48159,6 +48348,15 @@
 		)
 		(property "Description" "Quartz crystal, Generic symbol, Alternate KiCad Library"
 			(at 381 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "X1013-ND"
+			(at 381 171.45 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48304,6 +48502,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" ""
+			(at 15.24 388.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "Atari65XEC070067RevB"
 				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
@@ -48359,6 +48566,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 55.88 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "CF14JT2K00CT-ND"
+			(at 55.88 123.19 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48569,6 +48785,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" ""
+			(at 15.24 349.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project ""
 				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
@@ -48692,6 +48917,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 204.47 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" ""
 			(at 204.47 280.67 0)
 			(effects
 				(font
@@ -48878,6 +49112,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" ""
+			(at 196.85 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "15"
 			(uuid "3e591ef7-3145-40e3-889d-21747cb94896")
 		)
@@ -48982,6 +49225,15 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
+			(at 34.29 373.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" ""
 			(at 34.29 373.38 0)
 			(effects
 				(font
@@ -49253,6 +49505,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" ""
+			(at 34.29 378.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "Atari65XEC070067RevB"
 				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
@@ -49306,6 +49567,15 @@
 			)
 		)
 		(property "Description" "Inductor with ferrite core"
+			(at 566.42 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" ""
 			(at 566.42 242.57 0)
 			(effects
 				(font
@@ -49381,6 +49651,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT750RCT-ND"
+			(at 359.41 105.41 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "32b9ff99-5805-4b32-99db-47820459ab09")
 		)
@@ -49413,7 +49692,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "1N4148"
 			(at 285.75 161.29 0)
 			(effects
 				(font
@@ -49458,6 +49737,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 289.56 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1N4148FS-ND"
 			(at 289.56 161.29 0)
 			(effects
 				(font
@@ -49533,6 +49821,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "535-AB-14.31818MHZ-B2CT-ND"
+			(at 226.06 377.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "37b1b2f5-2593-4677-aa6e-bada6b791c66")
 		)
@@ -49595,6 +49892,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 292.1 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "CF14JT1K00CT-ND"
 			(at 292.1 69.85 0)
 			(effects
 				(font
@@ -49738,6 +50044,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT3K30CT-ND"
+			(at 445.77 233.68 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9e4a3c57-5e5b-41a2-ace3-d67a3aec759d")
 		)
@@ -49868,6 +50183,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 453.39 339.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "CF14JT270RCT-ND"
+			(at 453.39 339.09 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -50076,6 +50400,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "296-2056-ND"
+			(at 337.82 97.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "5cccac3e-ca75-4ca8-9121-b7b16b9ac807")
 		)
@@ -50176,6 +50509,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 285.75 313.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1109PHCT-ND"
 			(at 285.75 313.69 0)
 			(effects
 				(font
@@ -50320,6 +50662,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT56K0CT-ND"
+			(at 292.1 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9ef931a0-e6a8-4012-9d63-bb9b7320b347")
 		)
@@ -50381,6 +50732,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 207.01 313.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1109PHCT-ND"
 			(at 207.01 313.69 0)
 			(effects
 				(font
@@ -50459,6 +50819,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" ""
+			(at 15.24 364.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "15a4e671-e412-470e-835a-dd202b0c9637")
 		)
@@ -50523,6 +50892,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1216PHCT-ND"
+			(at 396.24 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b5ced59c-280c-4a0e-9dca-43b24da865f1")
 		)
@@ -50556,7 +50934,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100"
+		(property "Value" "100R"
 			(at 425.958 383.54 90)
 			(effects
 				(font
@@ -50585,6 +50963,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 420.37 384.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "CF14JT100RCT-ND"
+			(at 420.37 384.81 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -50659,6 +51046,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1216PHCT-ND"
+			(at 516.89 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "123c9c30-1367-403d-925b-9b48d4951274")
 		)
@@ -50719,6 +51115,15 @@
 		)
 		(property "Description" "Inductor with ferrite core"
 			(at 510.54 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "535-AICC-02-100K-TCT-ND"
+			(at 510.54 148.59 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -50860,6 +51265,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" ""
+			(at 96.52 330.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "18"
 			(uuid "1df92a31-0c01-405c-9bfd-a888b26bc503")
 		)
@@ -50983,6 +51397,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT100RCT-ND"
+			(at 464.82 138.43 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1e5a6618-db6e-49e5-8172-0584c8d41b0e")
 		)
@@ -51045,6 +51468,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 127 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1103PHCT-ND"
 			(at 127 39.37 0)
 			(effects
 				(font
@@ -51123,6 +51555,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" ""
+			(at 15.24 435.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "88a3cbd2-ef03-45ca-b5a0-80a5f89996f4")
 		)
@@ -51181,6 +51622,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 95.25 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "CF14JT2K20CT-ND"
+			(at 95.25 133.35 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51322,6 +51772,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1216PHCT-ND"
+			(at 518.16 265.43 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "92c5f00d-306d-4cd6-aaa0-1cf4839cb148")
 		)
@@ -51381,6 +51840,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 396.24 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "CF14JT180RCT-ND"
 			(at 396.24 129.54 0)
 			(effects
 				(font
@@ -51449,6 +51917,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 445.77 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "CF14JT3K30CT-ND"
+			(at 445.77 238.76 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51675,7 +52152,7 @@
 		(at 510.54 365.76 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(uuid "1f818826-722a-44d1-9e52-e489c7b7d553")
@@ -51714,6 +52191,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 510.54 365.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" ""
 			(at 510.54 365.76 0)
 			(effects
 				(font
@@ -51820,7 +52306,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "1N4148"
 			(at 406.4 344.17 0)
 			(effects
 				(font
@@ -51866,6 +52352,15 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 402.59 344.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1N4148FS-ND"
+			(at 402.59 344.17 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51998,6 +52493,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 22.86 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" ""
 			(at 22.86 209.55 0)
 			(effects
 				(font
@@ -52160,6 +52664,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT1K00CT-ND"
+			(at 302.26 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c8a8b24d-1a98-43fc-a106-e8370fac4fc4")
 		)
@@ -52219,6 +52732,15 @@
 			)
 		)
 		(property "Description" "Quad And2"
+			(at 255.27 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "296-1633-5-ND"
 			(at 255.27 158.75 0)
 			(effects
 				(font
@@ -52332,6 +52854,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1572-1393-ND"
+			(at 109.22 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "45b6fe70-6b32-4317-8445-9fa81e6ef843")
 		)
@@ -52401,6 +52932,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1109PHCT-ND"
+			(at 184.15 313.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e3cc946f-3a22-4d6e-8a12-12d2c0619ab8")
 		)
@@ -52461,6 +53001,15 @@
 		)
 		(property "Description" "Inductor with ferrite core"
 			(at 367.03 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1934-1310-ND"
+			(at 367.03 30.48 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -52603,6 +53152,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "535-AICC-02-100K-TCT-ND"
+			(at 523.24 158.75 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "23635d7b-16b3-4b60-9163-f08fa386b962")
 		)
@@ -52665,6 +53223,15 @@
 		)
 		(property "Description" "Hex Buffer"
 			(at 337.82 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "296-2056-ND"
+			(at 337.82 74.93 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -52780,6 +53347,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1109PHCT-ND"
+			(at 270.51 313.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9d0d252d-8268-4ce9-b37d-44713180405a")
 		)
@@ -52850,6 +53426,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" ""
+			(at 15.24 373.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "Atari65XEC070067RevB"
 				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
@@ -52903,6 +53488,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 144.78 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" ""
 			(at 144.78 173.99 0)
 			(effects
 				(font
@@ -53046,6 +53640,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT270RCT-ND"
+			(at 453.39 300.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ee89ca26-91d6-413d-a8c2-cbe1e36514d8")
 		)
@@ -53108,6 +53711,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 472.44 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "CF14JT220RCT-ND"
+			(at 472.44 275.59 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53312,6 +53924,15 @@
 			)
 		)
 		(property "Description" "Quad And2"
+			(at 21.59 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "296-1633-5-ND"
 			(at 21.59 57.15 0)
 			(effects
 				(font
@@ -53558,6 +54179,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "4878-2N3904CT-ND"
+			(at 217.17 384.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "12970a2c-b638-46bb-a098-9d20dbbab9da")
 		)
@@ -53762,6 +54392,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" ""
+			(at 97.79 247.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "20"
 			(uuid "e9b3e79e-03ea-45d2-b3e9-812cabf88e70")
 		)
@@ -53883,6 +54522,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1216PHCT-ND"
+			(at 502.92 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a8209cb6-a08b-45df-87ea-a741d40c7570")
 		)
@@ -53944,6 +54592,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 189.23 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" ""
 			(at 189.23 280.67 0)
 			(effects
 				(font
@@ -54131,6 +54788,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT220RCT-ND"
+			(at 473.71 153.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f4b08dc9-50c6-42b9-926f-f9cef040c0ca")
 		)
@@ -54190,6 +54856,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 266.7 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" ""
 			(at 266.7 109.22 0)
 			(effects
 				(font
@@ -54450,6 +55125,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1572-1035-1-ND"
+			(at 93.98 142.24 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e571b73a-efb9-42a5-a5c7-02eff5a0ddf5")
 		)
@@ -54584,6 +55268,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT2K00CT-ND"
+			(at 81.28 123.19 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fd88909e-9178-4615-b015-f0717d6fad2e")
 		)
@@ -54645,6 +55338,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 278.13 313.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1109PHCT-ND"
 			(at 278.13 313.69 0)
 			(effects
 				(font
@@ -54790,6 +55492,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1107PHCT-ND"
+			(at 25.4 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "07f9ff51-b693-4bdf-ba46-5e3dfb4e2870")
 		)
@@ -54851,6 +55562,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 191.77 313.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1109PHCT-ND"
 			(at 191.77 313.69 0)
 			(effects
 				(font
@@ -54927,6 +55647,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1934-1310-ND"
+			(at 133.35 22.86 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8413057b-ffc1-4b00-a4e6-155a9e2bc4ac")
 		)
@@ -54987,6 +55716,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 234.95 370.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "CF14JT910KCT-ND"
 			(at 234.95 370.84 0)
 			(effects
 				(font
@@ -55056,6 +55794,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 234.95 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" ""
 			(at 234.95 280.67 0)
 			(effects
 				(font
@@ -55233,6 +55980,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 144.78 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" ""
 			(at 144.78 132.08 0)
 			(effects
 				(font
@@ -55456,6 +56212,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" ""
+			(at 34.29 383.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "Atari65XEC070067RevB"
 				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
@@ -55652,6 +56417,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1572-1035-1-ND"
+			(at 332.74 388.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8570936c-a76b-4a39-ad88-a3549c38d05c")
 		)
@@ -55712,6 +56486,15 @@
 		)
 		(property "Description" "Inductor with ferrite core"
 			(at 331.47 370.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1934-1310-ND"
+			(at 331.47 370.84 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -55857,6 +56640,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "732-9156-1-ND"
+			(at 99.06 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9057ca52-3112-4dd1-8daf-508fb663846e")
 		)
@@ -55877,7 +56669,7 @@
 		(at 553.72 313.69 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(uuid "43435f3d-e6a6-4f62-ad8d-c674cd707dfe")
@@ -55917,6 +56709,15 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 553.72 313.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" ""
+			(at 553.72 313.69 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -56051,6 +56852,15 @@
 		)
 		(property "Description" "Inductor with ferrite core"
 			(at 441.96 356.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "535-AICC-02-100K-TCT-ND"
+			(at 441.96 356.87 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -56252,6 +57062,15 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 420.37 313.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1109PHCT-ND"
+			(at 420.37 313.69 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -56461,6 +57280,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "296-1633-5-ND"
+			(at 182.88 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "13"
 			(uuid "cfa601ea-2795-4881-b27e-d4e5391b4f23")
 		)
@@ -56567,6 +57395,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" ""
+			(at 15.24 444.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3c34d22e-6860-4e0f-ad1b-d457f774a145")
 		)
@@ -56624,6 +57461,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 302.26 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "CF14JT3K00CT-ND"
+			(at 302.26 148.59 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -56834,6 +57680,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1109PHCT-ND"
+			(at 83.82 365.76 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "56ec1383-a319-4765-bf52-6fd1c94d3964")
 		)
@@ -56969,6 +57824,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT220RCT-ND"
+			(at 193.04 392.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "43bf959b-b592-44b1-8673-e84686c0edb7")
 		)
@@ -57031,6 +57895,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 412.75 372.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "CF14JT1K80CT-ND"
+			(at 412.75 372.11 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -57173,6 +58046,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT3K00CT-ND"
+			(at 36.83 328.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "862bfa71-1278-4a56-bc11-5a75ca99097a")
 		)
@@ -57300,6 +58182,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 355.6 388.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1109PHCT-ND"
 			(at 355.6 388.62 0)
 			(effects
 				(font
@@ -57512,6 +58403,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "296-NE555P-ND"
+			(at 275.59 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "3f3a202a-5e05-493d-abce-ac8f7d132bc5")
 		)
@@ -57563,7 +58463,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100"
+		(property "Value" "100R"
 			(at 425.958 391.16 90)
 			(effects
 				(font
@@ -57592,6 +58492,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 420.37 392.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "CF14JT100RCT-ND"
+			(at 420.37 392.43 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -57660,6 +58569,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 219.71 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" ""
 			(at 219.71 280.67 0)
 			(effects
 				(font
@@ -57910,6 +58828,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" ""
+			(at 349.25 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b09a7d4c-78c0-4341-837b-f3fb04c3ee39")
 		)
@@ -58045,6 +58972,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1216PHCT-ND"
+			(at 518.16 250.19 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c58bf286-4922-4eb9-a881-b2e54f907acc")
 		)
@@ -58106,6 +59042,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 266.7 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" ""
 			(at 266.7 280.67 0)
 			(effects
 				(font
@@ -58290,6 +59235,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1934-1310-ND"
+			(at 510.54 198.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "146c0193-c034-4e54-a3d3-88c867d18224")
 		)
@@ -58349,6 +59303,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 307.34 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1216PHCT-ND"
 			(at 307.34 173.99 0)
 			(effects
 				(font
@@ -58560,6 +59523,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" ""
+			(at 295.91 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "15"
 			(uuid "30892e86-48d2-4cb4-abbc-0ecd1dd4b084")
 		)
@@ -58672,6 +59644,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "399-C410C105K5R5TA7200CT-ND"
+			(at 54.61 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d700c8f0-1b43-451d-8c52-ba6683d3d381")
 		)
@@ -58741,6 +59722,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT1K00CT-ND"
+			(at 303.53 166.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dbd0f26a-eabd-42c8-92b8-5de911b5aed2")
 		)
@@ -58803,6 +59793,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 262.89 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "S470KQCT-ND"
+			(at 262.89 201.93 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -58936,6 +59935,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 427.99 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1216PHCT-ND"
 			(at 427.99 360.68 0)
 			(effects
 				(font
@@ -59080,6 +60088,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1109PHCT-ND"
+			(at 367.03 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "430dc492-d410-46ab-8e42-380e7224dcec")
 		)
@@ -59168,7 +60185,7 @@
 		(at 483.87 365.76 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(uuid "591bc975-bf36-491b-8191-f4f569c9c3ac")
@@ -59207,6 +60224,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 483.87 365.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" ""
 			(at 483.87 365.76 0)
 			(effects
 				(font
@@ -59274,6 +60300,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 49.53 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" ""
 			(at 49.53 92.71 0)
 			(effects
 				(font
@@ -59420,6 +60455,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 447.04 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" ""
 			(at 447.04 160.02 0)
 			(effects
 				(font
@@ -59603,6 +60647,15 @@
 		)
 		(property "Description" "CO12294"
 			(at 372.11 334.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" ""
+			(at 372.11 342.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -59859,6 +60912,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT1M00CT-ND"
+			(at 234.95 392.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f4f1ee2e-48f8-4fea-b27e-850c3d9132e5")
 		)
@@ -59921,6 +60983,15 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection as pad named MP"
+			(at 15.24 400.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" ""
 			(at 15.24 400.05 0)
 			(effects
 				(font
@@ -59993,6 +61064,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "535-AICC-02-100K-TCT-ND"
+			(at 434.34 369.57 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5a0e1f32-2025-474c-96a0-af7cbc0c6538")
 		)
@@ -60052,6 +61132,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 299.72 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1109PHCT-ND"
 			(at 299.72 194.31 0)
 			(effects
 				(font
@@ -60129,6 +61218,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1109PHCT-ND"
+			(at 293.37 313.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5032394c-e6e1-4fdf-8976-e65c8315f61a")
 		)
@@ -60189,6 +61287,15 @@
 		)
 		(property "Description" "Inductor with ferrite core"
 			(at 434.34 354.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "535-AICC-02-100K-TCT-ND"
+			(at 434.34 354.33 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -60333,6 +61440,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT220RCT-ND"
+			(at 482.6 278.13 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fbd5a025-e164-4028-9f6f-aee0219f9e68")
 		)
@@ -60353,7 +61469,7 @@
 		(at 492.76 365.76 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(uuid "5cd3e8e9-d868-42c3-a58f-6a9d4fc73b7d")
@@ -60392,6 +61508,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 492.76 365.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" ""
 			(at 492.76 365.76 0)
 			(effects
 				(font
@@ -60462,6 +61587,15 @@
 			)
 		)
 		(property "Description" "NPN TO-92 transistor, 40V, 200mA, 625mW, Complementary to 2N3906, Alternate KiCAD Library"
+			(at 393.7 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "4878-2N3904CT-ND"
 			(at 393.7 120.65 0)
 			(effects
 				(font
@@ -60601,6 +61735,15 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 72.39 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1216PHCT-ND"
+			(at 72.39 106.68 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -60812,6 +61955,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "475BPS100M-ND"
+			(at 72.39 123.19 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "218a9a38-f4ac-4a96-87c3-057b33b1a91c")
 		)
@@ -60940,6 +62092,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 66.04 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "475BPS100M-ND"
 			(at 66.04 116.84 0)
 			(effects
 				(font
@@ -61151,6 +62312,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT270RCT-ND"
+			(at 453.39 341.63 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "142c6d07-bea7-40dc-9dc5-a2ab649819f1")
 		)
@@ -61211,6 +62381,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 397.51 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1109PHCT-ND"
 			(at 397.51 168.91 0)
 			(effects
 				(font
@@ -61287,6 +62466,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT3K00CT-ND"
+			(at 215.9 77.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3cef9960-a327-4c9a-a728-12651333f748")
 		)
@@ -61356,6 +62544,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1572-1393-ND"
+			(at 142.24 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "54c83fe5-5647-4d50-be73-04d977094e88")
 		)
@@ -61417,6 +62614,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 274.32 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" ""
 			(at 274.32 280.67 0)
 			(effects
 				(font
@@ -61536,6 +62742,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT6K80CT-ND"
+			(at 368.3 158.75 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e0cef3b2-c6e5-48bb-ad4a-4bcd0ca40c7a")
 		)
@@ -61596,6 +62811,15 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 284.48 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1216PHCT-ND"
+			(at 284.48 166.37 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61665,6 +62889,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 160.02 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1216PHCT-ND"
 			(at 160.02 53.34 0)
 			(effects
 				(font
@@ -61800,6 +63033,15 @@
 			)
 		)
 		(property "Description" "9-pin D-SUB connector, socket (female)"
+			(at 575.31 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" ""
 			(at 575.31 129.54 0)
 			(effects
 				(font
@@ -62034,6 +63276,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1572-1393-ND"
+			(at 486.41 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "442a181d-f43e-4dcf-9bb0-2231d6cc3775")
 		)
@@ -62095,6 +63346,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 182.88 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "CF14JT3K00CT-ND"
+			(at 182.88 153.67 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -62172,6 +63432,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT51R0CT-ND"
+			(at 388.62 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8f2d9618-ea54-47cb-88a5-df358a2b73f3")
 		)
@@ -62233,6 +63502,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 279.4 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "CF14JT680RCT-ND"
 			(at 279.4 161.29 0)
 			(effects
 				(font
@@ -62377,6 +63655,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" ""
+			(at 227.33 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "15"
 			(uuid "b7011ee8-957e-4d82-a697-ef8b1bd748ef")
 		)
@@ -62488,6 +63775,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT220RCT-ND"
+			(at 464.82 143.51 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b2535b65-fa4e-45d8-9c7c-d3cee1fb05a7")
 		)
@@ -62550,6 +63846,15 @@
 		)
 		(property "Description" "Hex Buffer"
 			(at 337.82 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "296-2056-ND"
+			(at 337.82 82.55 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -62658,6 +63963,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 453.39 328.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "CF14JT270RCT-ND"
+			(at 453.39 328.93 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -62799,6 +64113,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT6K80CT-ND"
+			(at 378.46 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dd51a639-a534-42a8-9b13-2c996c5d6261")
 		)
@@ -62858,6 +64181,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 486.41 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1216PHCT-ND"
 			(at 486.41 166.37 0)
 			(effects
 				(font
@@ -62928,6 +64260,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 50.8 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "CF14JT22K0CT-ND"
 			(at 50.8 114.3 0)
 			(effects
 				(font
@@ -63062,6 +64403,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 387.35 375.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1216PHCT-ND"
 			(at 387.35 375.92 0)
 			(effects
 				(font
@@ -63205,6 +64555,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT270RCT-ND"
+			(at 453.39 311.15 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c2106252-8e57-4f7a-bfa0-6de777254323")
 		)
@@ -63264,6 +64623,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 454.66 397.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1216PHCT-ND"
 			(at 454.66 397.51 0)
 			(effects
 				(font
@@ -63342,6 +64710,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1216PHCT-ND"
+			(at 160.02 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "39ba6879-fc3c-4ad0-bc5c-1589a7d263ad")
 		)
@@ -63404,6 +64781,15 @@
 		)
 		(property "Description" "Hex Buffer"
 			(at 337.82 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "296-2056-ND"
+			(at 337.82 105.41 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -63586,6 +64972,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" ""
+			(at 563.88 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "afb66a1b-3139-4899-8019-b8a7ef7c5837")
 		)
@@ -63645,6 +65040,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 215.9 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" ""
 			(at 215.9 179.07 0)
 			(effects
 				(font
@@ -63826,6 +65230,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 351.79 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1109PHCT-ND"
 			(at 351.79 158.75 0)
 			(effects
 				(font
@@ -64066,7 +65479,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100"
+		(property "Value" "100R"
 			(at 415.798 386.08 90)
 			(effects
 				(font
@@ -64095,6 +65508,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 410.21 387.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "CF14JT100RCT-ND"
+			(at 410.21 387.35 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -64169,6 +65591,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "535-AICC-02-100K-TCT-ND"
+			(at 516.89 146.05 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "66741929-9f9b-4b8c-bc2e-10c2c235ecab")
 		)
@@ -64229,6 +65660,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 182.88 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "CF14JT3K00CT-ND"
+			(at 182.88 151.13 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -64297,6 +65737,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 262.89 313.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1109PHCT-ND"
 			(at 262.89 313.69 0)
 			(effects
 				(font
@@ -64440,6 +65889,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1109PHCT-ND"
+			(at 110.49 345.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "6e730fd3-53e5-4c3e-89cf-1a619d7cb13d")
 		)
@@ -64502,6 +65960,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 107.95 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "CF14JT10K0CT-ND"
 			(at 107.95 139.7 0)
 			(effects
 				(font
@@ -64579,6 +66046,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1011PHCT-ND"
+			(at 203.2 392.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "58005ad5-14b2-47c2-8dcc-87b8e9f3ecdf")
 		)
@@ -64646,6 +66122,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1934-1310-ND"
+			(at 478.79 105.41 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "56b4d1bb-2942-4015-a56e-dfb21b04accb")
 		)
@@ -64706,6 +66191,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 381 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1014PHCT-ND"
 			(at 381 179.07 0)
 			(effects
 				(font
@@ -64914,6 +66408,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT220RCT-ND"
+			(at 214.63 392.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2dcacc95-9724-496d-9f11-67881ac57228")
 		)
@@ -64975,6 +66478,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 383.54 397.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "CF14JT4K70CT-ND"
 			(at 383.54 397.51 0)
 			(effects
 				(font
@@ -65119,6 +66631,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" ""
+			(at 243.84 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "15"
 			(uuid "0e64529f-f235-48ff-af12-7a8143576c25")
 		)
@@ -65221,6 +66742,15 @@
 		)
 		(property "Description" "9-pin D-SUB connector, pins (male)"
 			(at 558.8 370.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" ""
+			(at 558.8 370.84 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -65398,6 +66928,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1109PHCT-ND"
+			(at 199.39 313.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "10aeb38b-95bf-44fb-80e2-a9e0601ddf4a")
 		)
@@ -65460,6 +66999,15 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 162.56 374.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1109PHCT-ND"
+			(at 162.56 374.65 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -65604,6 +67152,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "595-SFAPI-101K-UL-TRCT-ND"
+			(at 152.4 247.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "49ee2709-df65-404c-8491-32b3aef5d8c8")
 		)
@@ -65636,7 +67193,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "1N4148"
 			(at 349.25 101.6 0)
 			(effects
 				(font
@@ -65681,6 +67238,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 349.25 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1N4148FS-ND"
 			(at 349.25 105.41 0)
 			(effects
 				(font
@@ -65845,7 +67411,7 @@
 		(at 553.72 290.83 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(uuid "80614fea-60ec-4f42-8ff4-ca0e0350e16d")
@@ -65885,6 +67451,15 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 553.72 290.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" ""
+			(at 553.72 290.83 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -65959,6 +67534,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1934-1310-ND"
+			(at 513.08 45.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "828f4a59-9104-4341-89a8-2639ce3e7a27")
 		)
@@ -66021,6 +67605,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 118.11 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1216PHCT-ND"
 			(at 118.11 39.37 0)
 			(effects
 				(font
@@ -66183,7 +67776,7 @@
 		(at 501.65 365.76 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(uuid "822a1300-dcb9-4eec-b5d5-80df6753c632")
@@ -66222,6 +67815,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 501.65 365.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" ""
 			(at 501.65 365.76 0)
 			(effects
 				(font
@@ -66292,6 +67894,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 50.8 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "CF14JT6K20CT-ND"
 			(at 50.8 130.81 0)
 			(effects
 				(font
@@ -66435,6 +68046,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1216PHCT-ND"
+			(at 499.11 210.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "66393dd4-cc4c-4bf3-979e-8c62ab389f91")
 		)
@@ -66495,6 +68115,15 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 420.37 341.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1109PHCT-ND"
+			(at 420.37 341.63 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -66638,6 +68267,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT1K00CT-ND"
+			(at 389.89 182.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bae5784e-c067-4ab2-a8f4-ca733f8dcccf")
 		)
@@ -66699,6 +68337,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 212.09 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" ""
 			(at 212.09 280.67 0)
 			(effects
 				(font
@@ -66818,6 +68465,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT33K0CT-ND"
+			(at 270.51 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2d66f55a-6931-40ed-ac07-3f742307f5af")
 		)
@@ -66878,6 +68534,15 @@
 			)
 		)
 		(property "Description" "Low-Power, Dual Operational Amplifiers, DIP-8/SOIC-8/TO-99-8"
+			(at 96.52 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "296-1395-5-ND"
 			(at 96.52 125.73 0)
 			(effects
 				(font
@@ -66966,6 +68631,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 388.62 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "CF14JT100RCT-ND"
 			(at 388.62 95.25 0)
 			(effects
 				(font
@@ -67108,6 +68782,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT68K0CT-ND"
+			(at 97.79 118.11 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "320a5c8e-442a-4229-b11d-61c38c62ff07")
 		)
@@ -67169,6 +68852,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 473.71 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "CF14JT4K70CT-ND"
 			(at 473.71 129.54 0)
 			(effects
 				(font
@@ -67239,6 +68931,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 387.35 308.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "CF14JT3K00CT-ND"
+			(at 387.35 308.61 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -67379,6 +69080,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1018PHCT-ND"
+			(at 257.81 173.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0f157248-b059-4c7e-aaed-6ade3d03f40f")
 		)
@@ -67448,6 +69158,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT270RCT-ND"
+			(at 453.39 323.85 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e271eaae-86b7-4d9e-a7bc-b7723dd39769")
 		)
@@ -67509,6 +69228,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 31.75 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1109PHCT-ND"
 			(at 31.75 257.81 0)
 			(effects
 				(font
@@ -67652,6 +69380,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1216PHCT-ND"
+			(at 501.65 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f08c08ec-0192-4b7a-a76c-a66fc7a4b811")
 		)
@@ -67714,6 +69451,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 107.95 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "CF14JT5K10CT-ND"
 			(at 107.95 132.08 0)
 			(effects
 				(font
@@ -67856,6 +69602,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT3K30CT-ND"
+			(at 445.77 248.92 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8bca2bc6-4c47-4337-827a-cbfb1bbc9e83")
 		)
@@ -67983,6 +69738,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 497.84 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1216PHCT-ND"
 			(at 497.84 171.45 0)
 			(effects
 				(font
@@ -68126,6 +69890,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "595-SFAPI-101K-UL-TRCT-ND"
+			(at 67.31 91.44 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e4ba6b6d-3606-4da0-90bb-76cc738e296b")
 		)
@@ -68253,6 +70026,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 445.77 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "CF14JT3K30CT-ND"
+			(at 445.77 243.84 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -68394,6 +70176,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1216PHCT-ND"
+			(at 323.85 374.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4c08de7b-eaca-4d8d-982f-d06d75eb5256")
 		)
@@ -68454,6 +70245,15 @@
 		)
 		(property "Description" "Inductor with ferrite core"
 			(at 523.24 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "535-AICC-02-100K-TCT-ND"
+			(at 523.24 143.51 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -68523,6 +70323,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 453.39 293.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "CF14JT270RCT-ND"
+			(at 453.39 293.37 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -68600,6 +70409,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT3K00CT-ND"
+			(at 168.91 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d0312ca8-eb3c-4892-aeb8-c01bd82741af")
 		)
@@ -68667,6 +70485,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "535-AICC-02-100K-TCT-ND"
+			(at 510.54 156.21 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "cd6b44db-87f7-4733-b8b0-5a9b80f031e2")
 		)
@@ -68726,6 +70553,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 505.46 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1216PHCT-ND"
 			(at 505.46 171.45 0)
 			(effects
 				(font
@@ -68801,6 +70637,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1216PHCT-ND"
+			(at 396.24 375.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ae104a35-36b7-456c-bcaa-189fea7a81bf")
 		)
@@ -68862,6 +70707,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 251.46 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" ""
 			(at 251.46 280.67 0)
 			(effects
 				(font
@@ -68979,6 +70833,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" ""
+			(at 77.47 384.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "11"
 			(uuid "ab47ce24-8b1e-41b8-a284-58c583241382")
 		)
@@ -69085,6 +70948,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" ""
+			(at 15.24 408.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6d086642-4d98-4dd3-a746-3fd7067b504e")
 		)
@@ -69152,6 +71024,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" ""
+			(at 15.24 355.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0d4a340c-2861-45e7-991f-c4ef87336098")
 		)
@@ -69208,6 +71089,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 434.34 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1109PHCT-ND"
 			(at 434.34 137.16 0)
 			(effects
 				(font
@@ -69285,6 +71175,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT270RCT-ND"
+			(at 453.39 326.39 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ae295eb0-bf24-44fd-bbec-cce88caa8afd")
 		)
@@ -69348,6 +71247,15 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 22.86 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1109PHCT-ND"
+			(at 22.86 21.59 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -69424,6 +71332,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1013PHCT-ND"
+			(at 224.79 392.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "59be0e0a-9842-406b-a105-36b8bf811010")
 		)
@@ -69484,6 +71401,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 359.41 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "CF14JT9K10CT-ND"
+			(at 359.41 90.17 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -69695,6 +71621,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1934-1310-ND"
+			(at 133.35 50.8 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "83ac724e-027f-4462-bc10-8dcc81537b37")
 		)
@@ -69757,6 +71692,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 392.43 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "CF14JT1K00CT-ND"
+			(at 392.43 147.32 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -69832,6 +71776,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "399-C410C510FAG5TA-ND"
+			(at 381 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2832c27e-13c0-4f9e-ab5f-6d15eef838e9")
 		)
@@ -69894,6 +71847,15 @@
 			)
 		)
 		(property "Description" "NPN TO-92 transistor, 40V, 200mA, 625mW, Complementary to 2N3906, Alternate KiCAD Library"
+			(at 386.08 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "4878-2N3904CT-ND"
 			(at 386.08 74.93 0)
 			(effects
 				(font
@@ -70109,6 +72071,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1109PHCT-ND"
+			(at 226.06 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "dc7cfb9e-98d5-4f75-a0ba-bef5e646453a")
 		)
@@ -70178,6 +72149,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT470RCT-ND"
+			(at 381 161.29 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d855cbbc-9bdf-408a-b02c-8bb5d5c729c7")
 		)
@@ -70240,6 +72220,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 500.38 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "CF14JT100RCT-ND"
+			(at 500.38 140.97 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -70449,6 +72438,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT2K20CT-ND"
+			(at 214.63 370.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1a835fd6-7daf-44c5-aeb4-95d6684bca5d")
 		)
@@ -70510,6 +72508,15 @@
 		)
 		(property "Description" "Inductor with ferrite core"
 			(at 40.64 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "78F1R5K-RC-ND"
+			(at 40.64 76.2 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -70652,6 +72659,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT150RCT-ND"
+			(at 500.38 45.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "615adc29-f8e7-48f6-8fff-ae2a47a36b8c")
 		)
@@ -70711,6 +72727,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 419.1 375.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1216PHCT-ND"
 			(at 419.1 375.92 0)
 			(effects
 				(font
@@ -70788,6 +72813,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "PN2907ABUFS-ND"
+			(at 466.09 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "2ea101b8-2665-4ee9-a243-079552d14d0d")
 		)
@@ -70851,6 +72885,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 359.41 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "CF14JT18K0CT-ND"
+			(at 359.41 82.55 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -70957,7 +73000,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100"
+		(property "Value" "100R"
 			(at 415.798 381 90)
 			(effects
 				(font
@@ -70986,6 +73029,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 410.21 382.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "CF14JT100RCT-ND"
+			(at 410.21 382.27 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -71055,6 +73107,15 @@
 		)
 		(property "Description" "Quad And2"
 			(at 294.64 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "296-1633-5-ND"
+			(at 294.64 129.54 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -71300,6 +73361,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT1K80CT-ND"
+			(at 412.75 356.87 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bf9b20dc-4e8f-4264-af76-8606cd80ba7e")
 		)
@@ -71436,6 +73506,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT1K80CT-ND"
+			(at 403.86 354.33 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4ed540ca-c049-4ebd-ae61-5418f4751811")
 		)
@@ -71503,6 +73582,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1934-1310-ND"
+			(at 247.65 228.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1dd936fa-a7ec-4434-91fc-e41bb9ff06d5")
 		)
@@ -71523,7 +73611,7 @@
 		(at 553.72 306.07 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(uuid "9f7a2d51-6f17-4327-a2ee-5cb03eb5152d")
@@ -71563,6 +73651,15 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 553.72 306.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" ""
+			(at 553.72 306.07 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -71632,6 +73729,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 281.94 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "CF14JT1K00CT-ND"
 			(at 281.94 69.85 0)
 			(effects
 				(font
@@ -71910,6 +74016,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT220RCT-ND"
+			(at 505.46 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8aa4e6f2-a00d-4466-adae-26040e9ed712")
 		)
@@ -71971,6 +74086,15 @@
 		)
 		(property "Description" "Hex Buffer"
 			(at 337.82 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "296-2056-ND"
+			(at 337.82 67.31 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -72085,6 +74209,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" ""
+			(at 83.82 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "a79f4a6c-ecde-4bc1-8820-607b10b4c9b6")
 		)
@@ -72155,6 +74288,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1934-1310-ND"
+			(at 478.79 119.38 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "72042f04-1aba-4b61-8f75-0eedeb27bed9")
 		)
@@ -72217,6 +74359,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 170.18 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "399-4456-1-ND"
 			(at 170.18 68.58 0)
 			(effects
 				(font
@@ -72295,6 +74446,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "4878-2N3904CT-ND"
+			(at 195.58 377.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "0da77c5e-7df7-4a9e-aa4d-c9c4519eaf94")
 		)
@@ -72358,6 +74518,15 @@
 			)
 		)
 		(property "Description" "Low-Power, Dual Operational Amplifiers, DIP-8/SOIC-8/TO-99-8"
+			(at 41.91 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "296-1395-5-ND"
 			(at 41.91 123.19 0)
 			(effects
 				(font
@@ -72518,6 +74687,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1216PHCT-ND"
+			(at 518.16 257.81 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "20a753d5-ced4-4f20-83e6-c4aea2fc8ebf")
 		)
@@ -72579,6 +74757,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 181.61 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" ""
 			(at 181.61 280.67 0)
 			(effects
 				(font
@@ -72755,6 +74942,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 434.34 330.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "296-2057-5-ND"
 			(at 434.34 330.2 0)
 			(effects
 				(font
@@ -72940,6 +75136,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "535-AICC-02-100K-TCT-ND"
+			(at 441.96 372.11 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "de520872-d430-4429-b43c-0e5d4482e989")
 		)
@@ -73002,6 +75207,15 @@
 			)
 		)
 		(property "Description" "Low-Power, Dual Operational Amplifiers, DIP-8/SOIC-8/TO-99-8"
+			(at 19.05 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "296-1395-5-ND"
 			(at 19.05 29.21 0)
 			(effects
 				(font
@@ -73090,6 +75304,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 397.51 308.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "S47KQCT-ND"
+			(at 397.51 308.61 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -73223,6 +75446,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 497.84 309.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" ""
 			(at 497.84 309.88 0)
 			(effects
 				(font
@@ -73431,6 +75663,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1109PHCT-ND"
+			(at 148.59 252.73 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3f4f742e-cb6d-4ca6-9752-f65f6ad76347")
 		)
@@ -73492,6 +75733,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 247.65 313.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1109PHCT-ND"
 			(at 247.65 313.69 0)
 			(effects
 				(font
@@ -73771,6 +76021,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" ""
+			(at 64.77 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "2677f774-e835-405d-b93f-b48131554b3a")
 		)
@@ -73856,6 +76115,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1109PHCT-ND"
+			(at 109.22 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e1a83d70-55e5-4436-bd31-f6052738c9b9")
 		)
@@ -73916,6 +76184,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 156.21 328.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "CF14JT33R0CT-ND"
+			(at 156.21 328.93 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -74058,6 +76335,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "535-AICC-02-100K-TCT-ND"
+			(at 344.17 378.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "47d9d495-c37b-4f7d-887b-b0aa76c129dc")
 		)
@@ -74187,6 +76473,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 76.2 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "CF14JT3K00CT-ND"
+			(at 76.2 238.76 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -74397,6 +76692,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT270RCT-ND"
+			(at 453.39 298.45 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c180d49f-bc13-436a-9d62-c5ee76fd11f4")
 		)
@@ -74459,6 +76763,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 453.39 336.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "CF14JT270RCT-ND"
+			(at 453.39 336.55 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -74536,6 +76849,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1216PHCT-ND"
+			(at 118.11 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5b514c08-1e5a-427b-8a90-813bf8bed246")
 		)
@@ -74598,6 +76920,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 419.1 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "CF14JT3K00CT-ND"
+			(at 419.1 162.56 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -74739,6 +77070,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1107PHCT-ND"
+			(at 93.98 101.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f310986e-4984-4228-9ee7-946ce8e04007")
 		)
@@ -74806,6 +77146,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1216PHCT-ND"
+			(at 299.72 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "052d02b8-ff8f-4782-b7cd-d213c8dcd740")
 		)
@@ -74865,6 +77214,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 259.08 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1015PHCT-ND"
 			(at 259.08 185.42 0)
 			(effects
 				(font
@@ -75008,6 +77366,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" ""
+			(at 15.24 393.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "Atari65XEC070067RevB"
 				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
@@ -75061,6 +77428,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 490.22 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1216PHCT-ND"
 			(at 490.22 171.45 0)
 			(effects
 				(font
@@ -75132,6 +77508,15 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 26.67 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1109PHCT-ND"
+			(at 26.67 43.18 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -75273,6 +77658,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1216PHCT-ND"
+			(at 427.99 375.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3129b02b-ed8c-4d90-ba64-7b8f3937cc67")
 		)
@@ -75335,6 +77729,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 86.36 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "S470KQCT-ND"
 			(at 86.36 113.03 0)
 			(effects
 				(font
@@ -75546,6 +77949,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT2K70CT-ND"
+			(at 459.74 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3a81b071-e96c-4209-adce-f026efad8024")
 		)
@@ -75680,6 +78092,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" ""
+			(at 575.31 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "9"
 			(uuid "b6c13bb7-7c5e-4855-a506-4a25c9a14f83")
 		)
@@ -75760,6 +78181,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 148.59 287.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" ""
 			(at 148.59 287.02 0)
 			(effects
 				(font
@@ -75981,7 +78411,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100"
+		(property "Value" "100R"
 			(at 417.068 332.74 90)
 			(effects
 				(font
@@ -76010,6 +78440,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 417.83 328.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "CF14JT100RCT-ND"
+			(at 417.83 328.93 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -76086,6 +78525,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT3K00CT-ND"
+			(at 389.89 336.55 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3564f6bc-3c93-472f-b760-f683d5765d22")
 		)
@@ -76145,6 +78593,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 168.91 384.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "X946-ND"
 			(at 168.91 384.81 0)
 			(effects
 				(font
@@ -76221,6 +78678,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 491.49 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "CF14JT100RCT-ND"
+			(at 491.49 135.89 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -76498,6 +78964,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT1K80CT-ND"
+			(at 403.86 369.57 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "520d8bb8-7a70-461c-8a6c-2e70120a4830")
 		)
@@ -76567,6 +79042,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1109PHCT-ND"
+			(at 237.49 313.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "be67ae35-dd21-4ae7-b1dd-2b9526f80557")
 		)
@@ -76628,6 +79112,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 466.09 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "CF14JT4K70CT-ND"
 			(at 466.09 129.54 0)
 			(effects
 				(font
@@ -76764,6 +79257,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 255.27 313.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1109PHCT-ND"
 			(at 255.27 313.69 0)
 			(effects
 				(font
@@ -76910,6 +79412,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT56K0CT-ND"
+			(at 25.4 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "aa45b465-b380-4895-ade7-88f8668fb4bf")
 		)
@@ -76971,6 +79482,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 300.99 313.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1109PHCT-ND"
 			(at 300.99 313.69 0)
 			(effects
 				(font
@@ -77046,6 +79566,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1103PHCT-ND"
+			(at 504.19 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8c61e5e4-3bfb-439a-9a69-a90a76247679")
 		)
@@ -77106,6 +79635,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 133.35 326.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "CF14JT33R0CT-ND"
+			(at 133.35 326.39 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -77183,6 +79721,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" ""
+			(at 34.29 349.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "Atari65XEC070067RevB"
 				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
@@ -77197,7 +79744,7 @@
 		(at 553.72 283.21 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(uuid "c3364e66-3946-4ec3-a160-a13108f2891d")
@@ -77237,6 +79784,15 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 553.72 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" ""
+			(at 553.72 283.21 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -77305,6 +79861,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 389.89 397.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "CF14JT4K70CT-ND"
 			(at 389.89 397.51 0)
 			(effects
 				(font
@@ -77648,6 +80213,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT4K70CT-ND"
+			(at 402.59 397.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f5fc1993-dafc-40ef-a97f-b48d6bdb94ed")
 		)
@@ -77775,6 +80349,15 @@
 		)
 		(property "Description" "Inductor with ferrite core"
 			(at 505.46 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1934-1310-ND"
+			(at 505.46 198.12 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -77919,6 +80502,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" ""
+			(at 15.24 453.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cc96a194-77f1-424d-b9af-7540af87e633")
 		)
@@ -78044,6 +80636,15 @@
 		)
 		(property "Description" "Inductor with ferrite core"
 			(at 516.89 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "535-AICC-02-100K-TCT-ND"
+			(at 516.89 161.29 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -78184,6 +80785,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT4K70CT-ND"
+			(at 359.41 97.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8fc131c3-0895-49e4-9cba-bfb3ffe33638")
 		)
@@ -78270,7 +80880,7 @@
 		(at 553.72 298.45 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(uuid "c71e67a5-4736-4007-92c9-2fd33ddc144a")
@@ -78310,6 +80920,15 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 553.72 298.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" ""
+			(at 553.72 298.45 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -78586,6 +81205,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" ""
+			(at 215.9 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "19"
 			(uuid "7a23593b-db7e-4dc1-9b15-08ff0db74c5f")
 		)
@@ -78769,6 +81397,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT1K00CT-ND"
+			(at 237.49 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ff0d4833-d73f-4746-8e5d-bf204ebc8398")
 		)
@@ -78907,6 +81544,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "3352E-504LF-ND"
+			(at 314.96 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "e5eaa2a5-06bf-45a0-bf82-be4f47c6c636")
 		)
@@ -78977,6 +81623,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT47R0CT-ND"
+			(at 408.94 24.13 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2328bca7-2887-4636-9ed7-f8748700a805")
 		)
@@ -79036,6 +81691,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 97.79 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "296-1639-5-ND"
 			(at 97.79 180.34 0)
 			(effects
 				(font
@@ -79154,6 +81818,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1934-1310-ND"
+			(at 379.73 55.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d1fa805f-9b30-4aa5-93b9-c2462608ed68")
 		)
@@ -79216,6 +81889,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 426.72 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "CF14JT3K00CT-ND"
+			(at 426.72 153.67 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -79293,6 +81975,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT1K60CT-ND"
+			(at 375.92 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ab0519e8-e0a5-41ed-9c72-838fe61ceaec")
 		)
@@ -79353,6 +82044,15 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 392.43 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "399-C410C821K1R5TA-ND"
+			(at 392.43 165.1 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -79430,6 +82130,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1216PHCT-ND"
+			(at 142.24 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8225f8f3-7135-4887-a817-6bfd39c64cf3")
 		)
@@ -79492,6 +82201,15 @@
 		)
 		(property "Description" "Hex Buffer"
 			(at 341.63 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "296-2056-ND"
+			(at 341.63 57.15 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -79599,6 +82317,15 @@
 		)
 		(property "Description" "Inductor with ferrite core"
 			(at 133.35 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1934-1310-ND"
+			(at 133.35 36.83 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -79810,6 +82537,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT10K0CT-ND"
+			(at 381 151.13 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "719846ed-14c9-4aa1-b130-57cd6e3b4014")
 		)
@@ -79870,6 +82606,15 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 288.29 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1109PHCT-ND"
+			(at 288.29 201.93 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -79938,6 +82683,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 410.21 344.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "S47KQCT-ND"
 			(at 410.21 344.17 0)
 			(effects
 				(font
@@ -80016,6 +82770,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT1K00CT-ND"
+			(at 312.42 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "71485e9c-9e18-41d9-bec0-52bcb71df6de")
 		)
@@ -80086,6 +82849,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT3K00CT-ND"
+			(at 110.49 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2f929449-7d5c-413f-b255-ebfb86193b9b")
 		)
@@ -80147,6 +82919,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 281.94 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" ""
 			(at 281.94 280.67 0)
 			(effects
 				(font
@@ -80331,6 +83112,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1216PHCT-ND"
+			(at 445.77 397.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8bd82dd4-c74e-4577-98c2-7f00271e7cfe")
 		)
@@ -80393,6 +83183,15 @@
 			)
 		)
 		(property "Description" "NPN TO-92 transistor, 40V, 200mA, 625mW, Complementary to 2N3906, Alternate KiCAD Library"
+			(at 360.68 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "4878-2N3904CT-ND"
 			(at 360.68 156.21 0)
 			(effects
 				(font
@@ -80473,6 +83272,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT220RCT-ND"
+			(at 510.54 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "837e4d9d-8df7-47be-8db5-b727036b1c9a")
 		)
@@ -80542,6 +83350,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "399-18269-1-ND"
+			(at 358.14 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "490855d3-bcd6-4911-9331-8b413eda0fbc")
 		)
@@ -80603,6 +83420,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 396.24 397.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "CF14JT4K70CT-ND"
 			(at 396.24 397.51 0)
 			(effects
 				(font
@@ -80681,6 +83507,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT2K00CT-ND"
+			(at 381 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a27721c6-a060-475c-bf80-5f0b715a6ffc")
 		)
@@ -80748,6 +83583,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" ""
+			(at 22.86 313.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "H"
 			(uuid "5eb39f56-69b3-46c6-9fb4-fd981e1ae2d8")
 		)
@@ -80804,7 +83648,7 @@
 		(at 553.72 275.59 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(uuid "d6c87159-8123-41a5-a576-c85d5434d0cf")
@@ -80844,6 +83688,15 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 553.72 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" ""
+			(at 553.72 275.59 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -80910,6 +83763,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 511.81 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1109PHCT-ND"
 			(at 511.81 280.67 0)
 			(effects
 				(font
@@ -80987,6 +83849,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT220RCT-ND"
+			(at 473.71 161.29 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e6590ec0-2c4a-4660-9ce4-7f9267a3c6f9")
 		)
@@ -81046,6 +83917,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 427.99 397.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1216PHCT-ND"
 			(at 427.99 397.51 0)
 			(effects
 				(font
@@ -81123,6 +84003,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1109PHCT-ND"
+			(at 229.87 313.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b988ac27-3990-410a-afac-8e6b5fa0baad")
 		)
@@ -81183,6 +84072,15 @@
 		)
 		(property "Description" "Inductor with ferrite core"
 			(at 326.39 384.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1934-1310-ND"
+			(at 326.39 384.81 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -81251,6 +84149,15 @@
 		)
 		(property "Description" "Inductor with ferrite core"
 			(at 350.52 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "595-SFAPI-101K-UL-TRCT-ND"
+			(at 350.52 120.65 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -81395,6 +84302,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT270RCT-ND"
+			(at 453.39 308.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "316482aa-9b16-42f7-9740-ba82f50f6972")
 		)
@@ -81455,6 +84371,15 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 499.11 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1216PHCT-ND"
+			(at 499.11 203.2 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -81666,6 +84591,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1109PHCT-ND"
+			(at 222.25 313.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "dd855dfe-a834-4498-8a13-5673cd65ad63")
 		)
@@ -81728,6 +84662,15 @@
 			)
 		)
 		(property "Description" "NPN TO-92 transistor, 40V, 200mA, 625mW, Complementary to 2N3906, Alternate KiCAD Library"
+			(at 276.86 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "4878-2N3904CT-ND"
 			(at 276.86 173.99 0)
 			(effects
 				(font
@@ -81825,7 +84768,7 @@
 		(at 344.17 388.62 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board no)
 		(dnp yes)
 		(uuid "dae1c312-fe01-47d1-8e61-6570c2a5a1a8")
@@ -81864,6 +84807,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 344.17 388.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1216PHCT-ND"
 			(at 344.17 388.62 0)
 			(effects
 				(font
@@ -82006,6 +84958,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1216PHCT-ND"
+			(at 478.79 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "501af12d-39d6-4d78-bea3-71f5a6e55941")
 		)
@@ -82076,6 +85037,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "475BPS100M-ND"
+			(at 60.96 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0c43646a-9185-4d41-9dd5-225b5890b378")
 		)
@@ -82137,6 +85107,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 66.04 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "CF14JT1K00CT-ND"
+			(at 66.04 256.54 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -82274,6 +85253,15 @@
 		)
 		(property "Description" "Jumper, 2-pole, closed/bridged"
 			(at 384.81 341.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" ""
+			(at 384.81 341.63 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -82419,6 +85407,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1216PHCT-ND"
+			(at 142.24 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "71c7bf75-99aa-4ee9-8038-960574917c2e")
 		)
@@ -82505,6 +85502,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1N4148FS-ND"
+			(at 295.91 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "eb11d47a-c7e5-4a8a-85a2-aa51ba56ebf9")
 		)
@@ -82564,6 +85570,15 @@
 			)
 		)
 		(property "Description" "Quad And2"
+			(at 229.87 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "296-1633-5-ND"
 			(at 229.87 63.5 0)
 			(effects
 				(font
@@ -82670,6 +85685,15 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
+			(at 34.29 388.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" ""
 			(at 34.29 388.62 0)
 			(effects
 				(font
@@ -82801,6 +85825,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 453.39 306.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "CF14JT270RCT-ND"
+			(at 453.39 306.07 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -82946,6 +85979,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" ""
+			(at 15.24 378.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "Atari65XEC070067RevB"
 				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
@@ -83001,6 +86043,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 504.19 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "CF14JT220RCT-ND"
 			(at 504.19 276.86 0)
 			(effects
 				(font
@@ -83137,6 +86188,15 @@
 		)
 		(property "Description" "Hex Buffer"
 			(at 337.82 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "296-2056-ND"
+			(at 337.82 90.17 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -83382,6 +86442,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1216PHCT-ND"
+			(at 387.35 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d08ddb8d-f0d2-4340-84ad-8f65f2b386c0")
 		)
@@ -83442,6 +86511,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 556.26 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "CP-2350-ND"
 			(at 556.26 43.18 0)
 			(effects
 				(font
@@ -83592,6 +86670,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 482.6 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1216PHCT-ND"
 			(at 482.6 171.45 0)
 			(effects
 				(font
@@ -84208,6 +87295,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1572-1393-ND"
+			(at 99.06 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0234e74b-3f36-4bc7-970f-478e684a9025")
 		)
@@ -84344,6 +87440,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1109PHCT-ND"
+			(at 266.7 78.74 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "780ed567-2937-43a9-bf44-5e75bcd77144")
 		)
@@ -84405,6 +87510,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 160.02 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1103PHCT-ND"
 			(at 160.02 25.4 0)
 			(effects
 				(font
@@ -84475,6 +87589,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 482.6 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "CF14JT220RCT-ND"
+			(at 482.6 156.21 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -84617,6 +87740,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1103PHCT-ND"
+			(at 504.19 284.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "79d0f99b-ffd8-4ad4-9f00-66e22735f764")
 		)
@@ -84676,6 +87808,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 314.96 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1216PHCT-ND"
 			(at 314.96 158.75 0)
 			(effects
 				(font
@@ -84956,6 +88097,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT4K70CT-ND"
+			(at 481.33 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b119b3a1-3cd2-4218-8922-f2754c40ee53")
 		)
@@ -85015,6 +88165,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 436.88 397.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1216PHCT-ND"
 			(at 436.88 397.51 0)
 			(effects
 				(font
@@ -85085,6 +88244,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 473.71 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "CF14JT220RCT-ND"
+			(at 473.71 146.05 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -85294,6 +88462,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "541-IRF24ER220JCT-ND"
+			(at 483.87 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "41e8c45c-1b6b-44c8-b4ad-5f213cfbb0e4")
 		)
@@ -85422,6 +88599,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 154.94 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1109PHCT-ND"
 			(at 154.94 116.84 0)
 			(effects
 				(font
@@ -85699,6 +88885,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT220RCT-ND"
+			(at 464.82 151.13 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "aa886a5e-2070-4a26-b829-614553017c37")
 		)
@@ -85827,6 +89022,15 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection as pad named MP"
+			(at 15.24 417.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" ""
 			(at 15.24 417.83 0)
 			(effects
 				(font
@@ -86172,6 +89376,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1216PHCT-ND"
+			(at 151.13 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "501c4b13-d442-4dc9-bf8c-e141cdd6eab5")
 		)
@@ -86231,6 +89444,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 434.34 302.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "296-2057-5-ND"
 			(at 434.34 302.26 0)
 			(effects
 				(font
@@ -86349,6 +89571,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT1K00CT-ND"
+			(at 55.88 256.54 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5f57bf6d-8335-48dc-9c67-ac1034c23696")
 		)
@@ -86409,6 +89640,15 @@
 		)
 		(property "Description" "Inductor with ferrite core"
 			(at 523.24 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "535-AICC-02-100K-TCT-ND"
+			(at 523.24 151.13 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -86478,6 +89718,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 453.39 321.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "CF14JT270RCT-ND"
+			(at 453.39 321.31 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -86824,6 +90073,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT270RCT-ND"
+			(at 453.39 334.01 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8b2a406f-05e8-402f-8811-7f0702fe77c4")
 		)
@@ -86885,6 +90143,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 259.08 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" ""
 			(at 259.08 280.67 0)
 			(effects
 				(font
@@ -87002,6 +90269,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT36K0CT-ND"
+			(at 359.41 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d70fb415-f881-4607-8565-fdcfa68f3ac8")
 		)
@@ -87073,6 +90349,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1109PHCT-ND"
+			(at 82.55 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8774075c-ba74-4dd2-bd87-0eb47f86a9b8")
 		)
@@ -87134,6 +90419,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 289.56 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" ""
 			(at 289.56 280.67 0)
 			(effects
 				(font
@@ -87252,6 +90546,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "78F150J-RC-ND"
+			(at 392.43 158.75 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b8c891db-4282-4a8e-bba7-35b7bb4ceee4")
 		)
@@ -87314,6 +90617,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 66.04 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1216PHCT-ND"
 			(at 66.04 130.81 0)
 			(effects
 				(font
@@ -87390,6 +90702,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT1K00CT-ND"
+			(at 317.5 64.77 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1497c75a-f504-40a0-929e-22ee60a1e41d")
 		)
@@ -87449,6 +90770,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 419.1 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1216PHCT-ND"
 			(at 419.1 360.68 0)
 			(effects
 				(font
@@ -87525,6 +90855,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "CF14JT3K30CT-ND"
+			(at 78.74 91.44 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "19addbed-421a-4a24-b29e-bde56fcef996")
 		)
@@ -87584,6 +90923,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 494.03 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1216PHCT-ND"
 			(at 494.03 166.37 0)
 			(effects
 				(font
@@ -87652,6 +91000,15 @@
 		)
 		(property "Description" "Inductor with ferrite core"
 			(at 421.64 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1934-1310-ND"
+			(at 421.64 24.13 90)
 			(effects
 				(font
 					(size 1.27 1.27)
