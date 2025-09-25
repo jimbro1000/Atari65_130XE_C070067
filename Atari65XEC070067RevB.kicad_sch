@@ -6810,156 +6810,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Jumper:Jumper_2_Open"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0)
-				(hide yes)
-			)
-			(exclude_from_sim yes)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "JP"
-				(at 0 2.794 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "Jumper_2_Open"
-				(at 0 -2.286 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Jumper, 2-pole, open"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "Jumper SPST"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "Jumper* TestPoint*2Pads* TestPoint*Bridge*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "Jumper_2_Open_0_0"
-				(circle
-					(center -2.032 0)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 2.032 0)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "Jumper_2_Open_0_1"
-				(arc
-					(start -1.524 1.27)
-					(mid 0 1.778)
-					(end 1.524 1.27)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "Jumper_2_Open_1_1"
-				(pin passive line
-					(at -5.08 0 0)
-					(length 2.54)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 0 180)
-					(length 2.54)
-					(name "B"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Library:23C64"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -9896,322 +9746,6 @@
 				(rectangle
 					(start -7.62 11.43)
 					(end 7.62 -11.43)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Library:74LS74"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "U"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "74LS74_1_0"
-				(pin input line
-					(at -11.43 6.35 0)
-					(length 5.08)
-					(name "R1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -11.43 3.81 0)
-					(length 5.08)
-					(name "D1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -11.43 1.27 0)
-					(length 5.08)
-					(name "CK1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -11.43 -1.27 0)
-					(length 5.08)
-					(name "S1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -11.43 -3.81 0)
-					(length 5.08)
-					(name "Q1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -11.43 -6.35 0)
-					(length 5.08)
-					(name "~{Q1}"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 0 12.7 270)
-					(length 5.08)
-					(name "VCC"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "14"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 0 -12.7 90)
-					(length 5.08)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin output line
-					(at 11.43 6.35 180)
-					(length 5.08)
-					(name "R2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "13"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin output line
-					(at 11.43 3.81 180)
-					(length 5.08)
-					(name "D2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "12"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin output line
-					(at 11.43 1.27 180)
-					(length 5.08)
-					(name "CK2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "11"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin output line
-					(at 11.43 -1.27 180)
-					(length 5.08)
-					(name "S2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "10"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin output line
-					(at 11.43 -3.81 180)
-					(length 5.08)
-					(name "Q2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "9"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin output line
-					(at 11.43 -6.35 180)
-					(length 5.08)
-					(name "~{Q2}"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(symbol "74LS74_1_1"
-				(rectangle
-					(start -6.35 7.62)
-					(end 6.35 -7.62)
 					(stroke
 						(width 0.254)
 						(type default)
@@ -19375,30 +18909,6 @@
 		)
 		(uuid 7342e0b1-e21e-402f-90a4-1f098493efb3)
 	)
-	(rectangle
-		(start 339.09 144.78)
-		(end 407.67 195.58)
-		(stroke
-			(width 0)
-			(type dot)
-		)
-		(fill
-			(type color)
-			(color 255 231 148 1)
-		)
-		(uuid dde52d5a-e2bf-4634-aeab-21cf258771ce)
-	)
-	(text "NOT REQUIRED FOR NTSC"
-		(exclude_from_sim no)
-		(at 270.256 363.982 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "177afb5a-164d-4570-9390-4c45e79c791e")
-	)
 	(text "Y1\nNTSC - 14.31818 MHz\nPAL - 14.187576 MHz"
 		(exclude_from_sim no)
 		(at 236.474 378.714 0)
@@ -19462,17 +18972,6 @@
 		)
 		(uuid "9237ca9f-93e2-47f3-a471-de84fc6ffcbb")
 	)
-	(text "ADD JUMPER FOR W2^{*} FOR NTSC"
-		(exclude_from_sim no)
-		(at 270.256 370.332 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "970100fd-1ba2-46c5-b2c4-93a46bea5e03")
-	)
 	(text "U35 IS AN ALTERNATIVE FOR THE CUSTOM GATE\nARRAY AND MUST BE USED IN COMBINATION\nWITH PAL16L8 OR GAL16V8\nhttps://atarimax.com/jindroush.atari.org/data/achips/co25953-pal16l8.vhd"
 		(exclude_from_sim no)
 		(at 55.118 400.558 0)
@@ -19483,16 +18982,6 @@
 			(justify left)
 		)
 		(uuid "9bba2bb5-b0ea-45dc-b5b2-ca9c4acc9c78")
-	)
-	(text "*"
-		(exclude_from_sim no)
-		(at 351.282 137.414 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "cb78810d-0ad2-4e4d-a0ce-caf45be010bd")
 	)
 	(text "!"
 		(exclude_from_sim no)
@@ -19627,82 +19116,6 @@
 			)
 		)
 		(uuid "8ae9c5ec-63d6-4beb-8485-f803c6777270")
-	)
-	(text_box "C"
-		(exclude_from_sim no)
-		(at 265.43 361.95 0)
-		(size 3.81 3.81)
-		(margins 0.9525 0.9525 0.9525 0.9525)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "9e49321c-8727-4c09-9af4-ccf7f344f422")
-	)
-	(text_box "D"
-		(exclude_from_sim no)
-		(at 353.06 134.62 0)
-		(size 3.81 3.81)
-		(margins 0.9525 0.9525 0.9525 0.9525)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "a845b8a7-b5fd-4b71-bee2-2c47b85865c7")
-	)
-	(text_box "D"
-		(exclude_from_sim no)
-		(at 265.43 368.3 0)
-		(size 3.81 3.81)
-		(margins 0.9525 0.9525 0.9525 0.9525)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "ad529d60-a893-464f-a38a-4bafaa52f474")
-	)
-	(text_box "C"
-		(exclude_from_sim no)
-		(at 393.7 187.96 0)
-		(size 3.81 3.81)
-		(margins 0.9525 0.9525 0.9525 0.9525)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "b4877237-7dcb-4ecb-8b7d-98b21b5d0b1c")
 	)
 	(junction
 		(at 195.58 294.64)
@@ -20047,12 +19460,6 @@
 		(uuid "1e0c60a0-809b-4af0-ac72-bcef68ced7be")
 	)
 	(junction
-		(at 345.44 153.67)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1e848ebc-1aa8-4a30-8239-89e2ce812f4f")
-	)
-	(junction
 		(at 490.22 153.67)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -20123,12 +19530,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "21f6b938-da36-4a98-8f5f-448ee76a5fd9")
-	)
-	(junction
-		(at 340.36 143.51)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "228adbc5-9c10-4974-aed0-9d53d8b99230")
 	)
 	(junction
 		(at 55.88 246.38)
@@ -20569,24 +19970,6 @@
 		(uuid "42efd8ff-ec07-465e-8a62-dae01e3a9017")
 	)
 	(junction
-		(at 358.14 166.37)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "43bc8907-ed56-4c3b-baa5-e0d7927d80d6")
-	)
-	(junction
-		(at 358.14 143.51)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4410e2a4-00a3-4e19-904e-cb1a43e10879")
-	)
-	(junction
-		(at 397.51 165.1)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4452d40d-55ef-44c6-aadb-91947be5e81d")
-	)
-	(junction
 		(at 546.1 298.45)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -20597,12 +19980,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4502ee96-0752-408e-a586-e0fbbccfd8a5")
-	)
-	(junction
-		(at 381 156.21)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "456f0cdc-472a-417c-ace5-18df15bf637e")
 	)
 	(junction
 		(at 250.19 274.32)
@@ -20633,12 +20010,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "482577f6-e86e-41a9-832a-156d65fa836a")
-	)
-	(junction
-		(at 370.84 172.72)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "484e7f4d-3e42-42bc-8ee9-0198029e3942")
 	)
 	(junction
 		(at 187.96 287.02)
@@ -20809,12 +20180,6 @@
 		(uuid "586c9dd8-fd84-485a-8b79-71a3ab74bcd9")
 	)
 	(junction
-		(at 368.3 156.21)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "587540a0-7c03-4036-aa1d-199395067c83")
-	)
-	(junction
 		(at 314.96 151.13)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -20867,12 +20232,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5aff9882-e345-4299-8f60-5a9da3637056")
-	)
-	(junction
-		(at 381 182.88)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5b0842ba-6704-4c0f-9b45-5ea9c10c5bef")
 	)
 	(junction
 		(at 222.25 309.88)
@@ -21023,12 +20382,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "68f229e3-cd10-4ba1-a76d-b94600b3b977")
-	)
-	(junction
-		(at 381 165.1)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "692e7104-41c7-40a8-b201-267623c936b0")
 	)
 	(junction
 		(at 280.67 294.64)
@@ -21245,12 +20598,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7d752dc2-c9ff-4074-914d-abf11cf7e0b5")
-	)
-	(junction
-		(at 345.44 166.37)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7e93e975-2962-4c1e-9808-d5e42cf6be4d")
 	)
 	(junction
 		(at 527.05 151.13)
@@ -21529,12 +20876,6 @@
 		(uuid "971cbad1-7325-44fe-a537-2ce60dbcccca")
 	)
 	(junction
-		(at 358.14 147.32)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9924d4f2-2fcf-4fe2-9eaf-47d1d69d10b8")
-	)
-	(junction
 		(at 280.67 292.1)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -21629,12 +20970,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a26c53e4-c8cc-4aec-b33e-d72a6d27227f")
-	)
-	(junction
-		(at 345.44 172.72)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a2be008a-6e2b-4457-8709-28801471d40a")
 	)
 	(junction
 		(at 242.57 294.64)
@@ -21863,12 +21198,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b53d0ff6-ce02-40de-bd1e-d87e42d4f5f8")
-	)
-	(junction
-		(at 387.35 165.1)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b6a30d78-5636-4ff4-b8cd-08205c1776de")
 	)
 	(junction
 		(at 226.06 199.39)
@@ -22297,12 +21626,6 @@
 		(uuid "d30065d8-0fdc-4dda-8ff5-1a623cdf4865")
 	)
 	(junction
-		(at 381 147.32)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d3621951-7078-4c8b-ae91-d6ca4554a5df")
-	)
-	(junction
 		(at 242.57 274.32)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -22613,12 +21936,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f06c2a84-0329-4976-aeab-f2651ee6104a")
-	)
-	(junction
-		(at 259.08 180.34)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f0f4602c-96db-4e16-a8c4-9091d3ccc8a8")
 	)
 	(junction
 		(at 187.96 289.56)
@@ -24654,16 +23971,6 @@
 	)
 	(wire
 		(pts
-			(xy 381 147.32) (xy 381 148.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "014db20f-a97b-4362-9091-14012ac31642")
-	)
-	(wire
-		(pts
 			(xy 445.77 339.09) (xy 450.85 339.09)
 		)
 		(stroke
@@ -24944,16 +24251,6 @@
 	)
 	(wire
 		(pts
-			(xy 397.51 166.37) (xy 397.51 165.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "05dc47d5-44a3-46f0-a9ec-d009add92743")
-	)
-	(wire
-		(pts
 			(xy 48.26 236.22) (xy 48.26 289.56)
 		)
 		(stroke
@@ -24971,16 +24268,6 @@
 			(type default)
 		)
 		(uuid "06163bb3-b565-4bca-9cde-d2984ff345b0")
-	)
-	(wire
-		(pts
-			(xy 373.38 185.42) (xy 369.57 185.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0622ab79-30b6-46e6-b452-9cc4b455c1e2")
 	)
 	(wire
 		(pts
@@ -25134,16 +24421,6 @@
 	)
 	(wire
 		(pts
-			(xy 346.71 180.34) (xy 345.44 180.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "090df4e6-962c-4a1d-929d-45e644e6b76d")
-	)
-	(wire
-		(pts
 			(xy 107.95 129.54) (xy 107.95 125.73)
 		)
 		(stroke
@@ -25191,16 +24468,6 @@
 			(type default)
 		)
 		(uuid "092d08f6-626f-468a-bd55-eff04123314f")
-	)
-	(wire
-		(pts
-			(xy 346.71 177.8) (xy 340.36 177.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "094087e7-1733-4a82-ba93-7f6c3578eaa8")
 	)
 	(wire
 		(pts
@@ -25462,26 +24729,6 @@
 		)
 		(uuid "0beffd5f-8fba-4766-baf3-7125d01109aa")
 	)
-	(wire
-		(pts
-			(xy 342.9 185.42) (xy 346.71 185.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0bff7645-6bac-44cc-a12d-4602b2266bc4")
-	)
-	(wire
-		(pts
-			(xy 397.51 182.88) (xy 392.43 182.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0c21656a-ce0d-4682-99ba-1cb5f724dd1a")
-	)
 	(bus
 		(pts
 			(xy 38.1 153.67) (xy 36.83 153.67)
@@ -25704,26 +24951,6 @@
 	)
 	(wire
 		(pts
-			(xy 346.71 182.88) (xy 345.44 182.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0ee583a9-7b19-48de-b09e-e982dc25f22d")
-	)
-	(wire
-		(pts
-			(xy 388.62 158.75) (xy 387.35 158.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0f02dcc5-6e70-4042-a89c-3ee0cc44826f")
-	)
-	(wire
-		(pts
 			(xy 105.41 118.11) (xy 105.41 125.73)
 		)
 		(stroke
@@ -25751,16 +24978,6 @@
 			(type default)
 		)
 		(uuid "0f2a4bbd-9d35-4f24-86e8-a403ef58b6be")
-	)
-	(wire
-		(pts
-			(xy 381 165.1) (xy 381 167.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0f3e0a53-76ca-464a-833e-5a351f6601e7")
 	)
 	(wire
 		(pts
@@ -25911,26 +25128,6 @@
 			(type default)
 		)
 		(uuid "1229c20a-5e1c-4c27-9473-1bf006a7a673")
-	)
-	(wire
-		(pts
-			(xy 381 163.83) (xy 381 165.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "123cbb70-3772-4e91-a36e-9bbf43c9c9a8")
-	)
-	(wire
-		(pts
-			(xy 345.44 153.67) (xy 351.79 153.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "125ce0e4-05b9-4136-a2ea-3520044109b3")
 	)
 	(wire
 		(pts
@@ -26272,26 +25469,6 @@
 		)
 		(uuid "16575cc3-e892-483d-90ce-684f65e9ae44")
 	)
-	(wire
-		(pts
-			(xy 381 191.77) (xy 381 189.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1659444d-c6aa-42f1-a25a-1161fb81cd73")
-	)
-	(wire
-		(pts
-			(xy 259.08 182.88) (xy 259.08 180.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "16b67ccd-e44f-4f0a-a870-8461171accd5")
-	)
 	(bus
 		(pts
 			(xy 38.1 215.9) (xy 38.1 218.44)
@@ -26301,16 +25478,6 @@
 			(type default)
 		)
 		(uuid "16ca4878-ba7f-4b42-8fea-542902cf6b17")
-	)
-	(wire
-		(pts
-			(xy 368.3 156.21) (xy 381 156.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "16cb1784-781f-4b80-ac74-1808bc8e5bd0")
 	)
 	(wire
 		(pts
@@ -26361,16 +25528,6 @@
 			(type default)
 		)
 		(uuid "17db235f-b682-407e-ace6-1a4c1b6e3893")
-	)
-	(wire
-		(pts
-			(xy 284.48 143.51) (xy 340.36 143.51)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "181ad532-899d-4c1c-ad62-fe8c715b2229")
 	)
 	(wire
 		(pts
@@ -26604,16 +25761,6 @@
 	)
 	(wire
 		(pts
-			(xy 397.51 173.99) (xy 397.51 171.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1c0aff5e-c285-409f-b231-0475ad36b62b")
-	)
-	(wire
-		(pts
 			(xy 130.81 187.96) (xy 134.62 187.96)
 		)
 		(stroke
@@ -26701,16 +25848,6 @@
 			(type default)
 		)
 		(uuid "1d93db75-f95f-48b0-a341-94f6669cad6c")
-	)
-	(wire
-		(pts
-			(xy 387.35 158.75) (xy 387.35 165.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1dac9b36-1511-4a95-9a10-16506245f131")
 	)
 	(wire
 		(pts
@@ -27024,26 +26161,6 @@
 	)
 	(wire
 		(pts
-			(xy 387.35 182.88) (xy 381 182.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "21214017-631b-4622-a60e-cb28ba3269dc")
-	)
-	(wire
-		(pts
-			(xy 345.44 172.72) (xy 346.71 172.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "212909ee-4fb6-4886-b091-1bee9ae2ce10")
-	)
-	(wire
-		(pts
 			(xy 226.06 292.1) (xy 234.95 292.1)
 		)
 		(stroke
@@ -27091,16 +26208,6 @@
 			(type default)
 		)
 		(uuid "21c3add6-c3fd-4711-a78e-d3e37f3e7697")
-	)
-	(wire
-		(pts
-			(xy 345.44 180.34) (xy 345.44 172.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "21de66f0-298b-409d-8674-3f36a65cedca")
 	)
 	(wire
 		(pts
@@ -27594,16 +26701,6 @@
 	)
 	(wire
 		(pts
-			(xy 375.92 177.8) (xy 375.92 189.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2a901e0e-6f5b-4856-9e63-fad9ee50e425")
-	)
-	(wire
-		(pts
 			(xy 66.04 106.68) (xy 66.04 96.52)
 		)
 		(stroke
@@ -27951,16 +27048,6 @@
 			(type default)
 		)
 		(uuid "2fec9d07-872c-4231-af76-33edb4c93ed8")
-	)
-	(wire
-		(pts
-			(xy 358.14 147.32) (xy 358.14 143.51)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2fefce1f-a772-4c2e-a5b1-fdbc067696d0")
 	)
 	(wire
 		(pts
@@ -28964,16 +28051,6 @@
 	)
 	(wire
 		(pts
-			(xy 370.84 166.37) (xy 358.14 166.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3a05ae30-7ae9-4a73-af76-b31eece02125")
-	)
-	(wire
-		(pts
 			(xy 224.79 389.89) (xy 224.79 384.81)
 		)
 		(stroke
@@ -29664,16 +28741,6 @@
 	)
 	(wire
 		(pts
-			(xy 345.44 182.88) (xy 345.44 189.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4525fb25-ac3a-4812-a0a3-2c0f467f5168")
-	)
-	(wire
-		(pts
 			(xy 180.34 269.24) (xy 187.96 269.24)
 		)
 		(stroke
@@ -29691,16 +28758,6 @@
 			(type default)
 		)
 		(uuid "4544b8a7-3a98-4470-8d5a-9cebdd35372c")
-	)
-	(wire
-		(pts
-			(xy 397.51 165.1) (xy 397.51 158.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "455fd71e-315a-4a8b-845e-b704e8f9867a")
 	)
 	(wire
 		(pts
@@ -30084,7 +29141,7 @@
 	)
 	(wire
 		(pts
-			(xy 276.86 125.73) (xy 289.56 125.73)
+			(xy 276.86 125.73) (xy 281.94 125.73)
 		)
 		(stroke
 			(width 0)
@@ -30171,16 +29228,6 @@
 			(type default)
 		)
 		(uuid "4ac81f79-d358-46e9-bc0f-11fbfbc2d7a7")
-	)
-	(wire
-		(pts
-			(xy 381 147.32) (xy 358.14 147.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4b305296-256a-421d-98ff-20e744fb0dd1")
 	)
 	(wire
 		(pts
@@ -31184,16 +30231,6 @@
 	)
 	(wire
 		(pts
-			(xy 345.44 189.23) (xy 375.92 189.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "59db70e6-9600-40a0-87be-aade7288d144")
-	)
-	(wire
-		(pts
 			(xy 556.26 298.45) (xy 558.8 298.45)
 		)
 		(stroke
@@ -31341,16 +30378,6 @@
 			(type default)
 		)
 		(uuid "5bc74cd4-7098-4dd6-9447-2860b2282725")
-	)
-	(wire
-		(pts
-			(xy 358.14 166.37) (xy 345.44 166.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5bd52414-310e-4b90-bb24-642c324df776")
 	)
 	(wire
 		(pts
@@ -31611,16 +30638,6 @@
 			(type default)
 		)
 		(uuid "5f3ee99e-38a2-41ca-9676-1c4526a60f4d")
-	)
-	(wire
-		(pts
-			(xy 381 181.61) (xy 381 182.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5f62031a-3389-41cf-bcd7-a2bcba806637")
 	)
 	(wire
 		(pts
@@ -32031,26 +31048,6 @@
 			(type default)
 		)
 		(uuid "656b4f6d-d869-4d67-b21f-08a766ba85e5")
-	)
-	(wire
-		(pts
-			(xy 365.76 156.21) (xy 368.3 156.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6582cd41-e981-444a-8a12-169abf667dcb")
-	)
-	(wire
-		(pts
-			(xy 351.79 153.67) (xy 351.79 156.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "65be4377-34d6-4caa-85cf-19b78d3abfc1")
 	)
 	(wire
 		(pts
@@ -32752,16 +31749,6 @@
 		)
 		(uuid "6e5c6f4d-9da3-4706-8a73-c2566771d02e")
 	)
-	(wire
-		(pts
-			(xy 394.97 165.1) (xy 397.51 165.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6e5e40d9-e7be-4551-b57c-763e7600b5dd")
-	)
 	(bus
 		(pts
 			(xy 472.44 201.93) (xy 472.44 204.47)
@@ -32894,16 +31881,6 @@
 	)
 	(wire
 		(pts
-			(xy 259.08 190.5) (xy 259.08 187.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6fd3524f-dc71-4ca4-ac47-11aba7e30e56")
-	)
-	(wire
-		(pts
 			(xy 205.74 256.54) (xy 205.74 265.43)
 		)
 		(stroke
@@ -32914,7 +31891,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 321.31) (xy 132.08 321.31)
+			(xy 165.1 321.31) (xy 132.08 321.31)
 		)
 		(stroke
 			(width 0)
@@ -33624,16 +32601,6 @@
 	)
 	(wire
 		(pts
-			(xy 389.89 147.32) (xy 381 147.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7be35575-a958-4b7b-a569-3b0439d9387d")
-	)
-	(wire
-		(pts
 			(xy 234.95 269.24) (xy 242.57 269.24)
 		)
 		(stroke
@@ -33694,16 +32661,6 @@
 	)
 	(wire
 		(pts
-			(xy 397.51 158.75) (xy 396.24 158.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7ccfd654-03a4-443d-82e1-0998a3e9ec4d")
-	)
-	(wire
-		(pts
 			(xy 510.54 194.31) (xy 510.54 173.99)
 		)
 		(stroke
@@ -33721,16 +32678,6 @@
 			(type default)
 		)
 		(uuid "7d45650f-e243-41f8-a391-4a1997c265d9")
-	)
-	(wire
-		(pts
-			(xy 358.14 147.32) (xy 358.14 151.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7d5f98d6-ad40-4d11-a684-fa4e7bdbaa04")
 	)
 	(wire
 		(pts
@@ -33884,16 +32831,6 @@
 	)
 	(wire
 		(pts
-			(xy 381 182.88) (xy 381 184.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7fa238c4-651d-4d18-921c-f16848b1ca4b")
-	)
-	(wire
-		(pts
 			(xy 110.49 331.47) (xy 307.34 331.47)
 		)
 		(stroke
@@ -34021,16 +32958,6 @@
 			(type default)
 		)
 		(uuid "8188037b-cc66-45aa-97b5-69fdcd691b31")
-	)
-	(wire
-		(pts
-			(xy 289.56 125.73) (xy 289.56 140.97)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "818bf164-b9db-4998-8719-ad1cc5cf6e23")
 	)
 	(wire
 		(pts
@@ -34494,16 +33421,6 @@
 	)
 	(wire
 		(pts
-			(xy 345.44 166.37) (xy 345.44 172.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "87d40884-e62e-42ad-b235-001b7c6878c0")
-	)
-	(wire
-		(pts
 			(xy 501.65 175.26) (xy 505.46 175.26)
 		)
 		(stroke
@@ -34701,16 +33618,6 @@
 			(type default)
 		)
 		(uuid "8aa36c35-6d5f-437a-9fa2-8d3de8e00f4b")
-	)
-	(wire
-		(pts
-			(xy 345.44 166.37) (xy 345.44 153.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8ac9c2ca-240a-4752-ae96-487417d962fa")
 	)
 	(wire
 		(pts
@@ -35134,7 +34041,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 266.7) (xy 167.64 321.31)
+			(xy 165.1 261.62) (xy 165.1 321.31)
 		)
 		(stroke
 			(width 0)
@@ -35914,16 +34821,6 @@
 	)
 	(wire
 		(pts
-			(xy 358.14 140.97) (xy 358.14 143.51)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9a74d1fd-e387-4c2f-af98-64ff9e2fb930")
-	)
-	(wire
-		(pts
 			(xy 214.63 377.19) (xy 222.25 377.19)
 		)
 		(stroke
@@ -36041,16 +34938,6 @@
 			(type default)
 		)
 		(uuid "9b85932c-3a13-4611-89c3-7778a00dd68e")
-	)
-	(wire
-		(pts
-			(xy 342.9 175.26) (xy 342.9 185.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9bbe41dc-e8b6-47fd-b95c-e81021a8a268")
 	)
 	(wire
 		(pts
@@ -36201,16 +35088,6 @@
 			(type default)
 		)
 		(uuid "9d5af146-608f-459e-a053-cdccb9572772")
-	)
-	(wire
-		(pts
-			(xy 381 165.1) (xy 387.35 165.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9d88c212-eed4-48b3-8541-e60df17209bb")
 	)
 	(bus
 		(pts
@@ -36804,16 +35681,6 @@
 	)
 	(wire
 		(pts
-			(xy 267.97 180.34) (xy 259.08 180.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a49aef85-54b6-4a75-96cd-5b2624e680ca")
-	)
-	(wire
-		(pts
 			(xy 242.57 292.1) (xy 234.95 292.1)
 		)
 		(stroke
@@ -36961,16 +35828,6 @@
 			(type default)
 		)
 		(uuid "a678d117-ced3-464d-b158-801f3f8b74aa")
-	)
-	(wire
-		(pts
-			(xy 370.84 180.34) (xy 370.84 172.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a68ed853-f013-4c04-9eaa-0c396d2d122b")
 	)
 	(wire
 		(pts
@@ -37144,16 +36001,6 @@
 	)
 	(wire
 		(pts
-			(xy 369.57 182.88) (xy 381 182.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a9129654-2d25-426a-bdd4-d65c20356607")
-	)
-	(wire
-		(pts
 			(xy 481.33 140.97) (xy 497.84 140.97)
 		)
 		(stroke
@@ -37161,16 +36008,6 @@
 			(type default)
 		)
 		(uuid "a923735f-b878-48ff-8e24-498c565f5ee2")
-	)
-	(wire
-		(pts
-			(xy 165.1 266.7) (xy 167.64 266.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a92870aa-7b09-4d88-94bf-eaf3b126c0e4")
 	)
 	(wire
 		(pts
@@ -37201,16 +36038,6 @@
 			(type default)
 		)
 		(uuid "a96c140b-9223-4c2c-8dfa-1d81f653b041")
-	)
-	(wire
-		(pts
-			(xy 381 156.21) (xy 381 158.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a9770534-9717-464f-abf3-d7ed50be62d7")
 	)
 	(wire
 		(pts
@@ -37564,16 +36391,6 @@
 	)
 	(wire
 		(pts
-			(xy 369.57 175.26) (xy 373.38 175.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "adbb387d-49ab-4e59-b412-fc73b349e8c7")
-	)
-	(wire
-		(pts
 			(xy 314.96 179.07) (xy 314.96 176.53)
 		)
 		(stroke
@@ -37731,16 +36548,6 @@
 			(type default)
 		)
 		(uuid "aef46a8b-5445-48a7-a5c7-8c01428fede0")
-	)
-	(wire
-		(pts
-			(xy 373.38 175.26) (xy 373.38 185.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "af01498f-90f3-4996-be78-56aa6538eef6")
 	)
 	(wire
 		(pts
@@ -37974,16 +36781,6 @@
 	)
 	(wire
 		(pts
-			(xy 358.14 143.51) (xy 354.33 143.51)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b338a5c2-495b-4f18-9b5a-18605af4e272")
-	)
-	(wire
-		(pts
 			(xy 30.48 294.64) (xy 53.34 294.64)
 		)
 		(stroke
@@ -38194,16 +36991,6 @@
 	)
 	(wire
 		(pts
-			(xy 289.56 140.97) (xy 358.14 140.97)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b6bc95ea-944a-461c-91cd-b010a99018c1")
-	)
-	(wire
-		(pts
 			(xy 190.5 158.75) (xy 166.37 158.75)
 		)
 		(stroke
@@ -38261,16 +37048,6 @@
 			(type default)
 		)
 		(uuid "b771fd00-bec0-4b22-af0d-a429aeef927f")
-	)
-	(wire
-		(pts
-			(xy 346.71 175.26) (xy 342.9 175.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b79286b8-f35c-40c4-9168-3ef7111af331")
 	)
 	(wire
 		(pts
@@ -38351,16 +37128,6 @@
 			(type default)
 		)
 		(uuid "b88af6fd-9ca7-4430-938a-08db69aa1645")
-	)
-	(wire
-		(pts
-			(xy 369.57 180.34) (xy 370.84 180.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b8c7bfaa-81e7-48b0-a05d-f10e84a36a06")
 	)
 	(wire
 		(pts
@@ -38904,7 +37671,7 @@
 	)
 	(wire
 		(pts
-			(xy 340.36 143.51) (xy 344.17 143.51)
+			(xy 284.48 143.51) (xy 298.45 143.51)
 		)
 		(stroke
 			(width 0)
@@ -39001,16 +37768,6 @@
 			(type default)
 		)
 		(uuid "c17f7d52-fa73-455e-991b-e15a52f66166")
-	)
-	(wire
-		(pts
-			(xy 381 156.21) (xy 381 153.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c1854149-7a26-41dc-a566-62826901c32c")
 	)
 	(bus
 		(pts
@@ -39994,16 +38751,6 @@
 	)
 	(wire
 		(pts
-			(xy 369.57 172.72) (xy 370.84 172.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cf9305bc-cce0-4877-af3b-8f8d814043cb")
-	)
-	(wire
-		(pts
 			(xy 457.2 179.07) (xy 474.98 179.07)
 		)
 		(stroke
@@ -40041,16 +38788,6 @@
 			(type default)
 		)
 		(uuid "d03f22c2-42ab-455e-9c25-fb3a9f42162c")
-	)
-	(wire
-		(pts
-			(xy 165.1 261.62) (xy 165.1 266.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d0471872-e643-4596-8c6b-4fc27c98eb88")
 	)
 	(wire
 		(pts
@@ -40111,16 +38848,6 @@
 			(type default)
 		)
 		(uuid "d101f598-86f4-4aa4-b79a-2b00139f064d")
-	)
-	(wire
-		(pts
-			(xy 370.84 172.72) (xy 370.84 166.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d1201c46-b087-4e58-acb7-6512cd171244")
 	)
 	(bus
 		(pts
@@ -40361,16 +39088,6 @@
 			(type default)
 		)
 		(uuid "d49e9ac2-6651-4513-8b66-ebb6290fc320")
-	)
-	(wire
-		(pts
-			(xy 167.64 228.6) (xy 167.64 264.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d4aa9465-5e5e-4e21-b210-fca0689211ff")
 	)
 	(wire
 		(pts
@@ -40621,16 +39338,6 @@
 			(type default)
 		)
 		(uuid "d804b3f3-3b1a-4c23-b92c-48388308d4b7")
-	)
-	(wire
-		(pts
-			(xy 396.24 147.32) (xy 394.97 147.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d8217c81-3083-4eda-ae45-6e15a9c28531")
 	)
 	(wire
 		(pts
@@ -42132,16 +40839,6 @@
 		)
 		(uuid "e8b87fdd-2370-444b-842e-022a39b27bdb")
 	)
-	(wire
-		(pts
-			(xy 387.35 165.1) (xy 389.89 165.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e8d04415-1711-4ed1-8693-5548b072be66")
-	)
 	(bus
 		(pts
 			(xy 200.66 115.57) (xy 200.66 118.11)
@@ -42494,7 +41191,7 @@
 	)
 	(wire
 		(pts
-			(xy 259.08 180.34) (xy 252.73 180.34)
+			(xy 252.73 180.34) (xy 267.97 180.34)
 		)
 		(stroke
 			(width 0)
@@ -42531,16 +41228,6 @@
 			(type default)
 		)
 		(uuid "ee1bc83c-466e-44da-bd01-2a044ce8581c")
-	)
-	(wire
-		(pts
-			(xy 340.36 177.8) (xy 340.36 143.51)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ee352378-5b4f-4622-a807-5e09f41c3dc8")
 	)
 	(wire
 		(pts
@@ -42721,16 +41408,6 @@
 			(type default)
 		)
 		(uuid "effa4368-c7b2-46df-9195-34f85a7bf484")
-	)
-	(wire
-		(pts
-			(xy 369.57 177.8) (xy 375.92 177.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f02a2c24-d1b0-4f7f-9431-244b440104f8")
 	)
 	(wire
 		(pts
@@ -42931,16 +41608,6 @@
 			(type default)
 		)
 		(uuid "f34e6a29-45fb-4d0a-b210-9b07c1f0cffd")
-	)
-	(wire
-		(pts
-			(xy 381 176.53) (xy 381 175.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f362adf8-dbc9-40f9-b1cd-6d413ba662a4")
 	)
 	(wire
 		(pts
@@ -43651,16 +42318,6 @@
 			(type default)
 		)
 		(uuid "fd28791f-e5fe-415c-b8d4-76d5cac17aa5")
-	)
-	(wire
-		(pts
-			(xy 167.64 228.6) (xy 243.84 228.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fd51552c-7dd8-4f42-a3c5-cc578fde729f")
 	)
 	(wire
 		(pts
@@ -44612,7 +43269,7 @@
 		)
 		(uuid "4ac1d83d-6e90-4660-806e-6789f5f1320e")
 	)
-	(label "BO2"
+	(label "Bphi2"
 		(at 248.92 143.51 0)
 		(effects
 			(font
@@ -44892,7 +43549,7 @@
 		)
 		(uuid "61afb01f-98d5-4758-b423-e946f59a9189")
 	)
-	(label "Bphi2"
+	(label "phi2"
 		(at 114.3 318.77 0)
 		(effects
 			(font
@@ -46322,6 +44979,28 @@
 		)
 		(uuid "fe137251-bfe5-4d57-a851-acbf30548c53")
 	)
+	(global_label "COLOR_OSC"
+		(shape input)
+		(at 298.45 143.51 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "08451435-23f3-4ee8-b90a-3120a6df0603")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 312.4419 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "A[0..15]"
 		(shape output)
 		(at 36.83 153.67 180)
@@ -46344,6 +45023,28 @@
 			)
 		)
 	)
+	(global_label "OSC"
+		(shape input)
+		(at 167.64 264.16 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3bf11d4f-97bf-45b9-9514-db07c245feef")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 174.4352 264.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "D[0..7]"
 		(shape bidirectional)
 		(at 38.1 223.52 180)
@@ -46362,6 +45063,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PAL"
+		(shape input)
+		(at 281.94 125.73 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9b2a485e-f74c-4b34-ac1d-e48b37400a00")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 288.3119 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -46421,6 +45144,15 @@
 			)
 		)
 		(property "DigiKey" "CF14JT270RCT-ND"
+			(at 453.39 331.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 453.39 331.47 90)
 			(effects
 				(font
@@ -46508,6 +45240,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 15.24 426.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e0bda8af-7fe4-4703-9969-30977cb0bfaf")
 		)
@@ -46583,6 +45324,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 292.1 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "060b8fed-a0ca-4a49-998b-b489fb8c0a28")
 		)
@@ -46593,73 +45343,6 @@
 			(project "Atari65XEC070067RevB"
 				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
 					(reference "R40")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 397.51 173.99 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "00edfce0-1e75-4f66-b9e7-7877064da3dd")
-		(property "Reference" "#PWR079"
-			(at 397.51 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 397.51 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 397.51 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 397.51 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 397.51 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "98cb5fc7-fbf0-4280-b8a9-2a79e2b9c840")
-		)
-		(instances
-			(project "Atari65XEC070067RevB"
-				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
-					(reference "#PWR079")
 					(unit 1)
 				)
 			)
@@ -46721,6 +45404,15 @@
 			)
 		)
 		(property "DigiKey" ""
+			(at 15.24 383.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 15.24 383.54 0)
 			(effects
 				(font
@@ -46794,6 +45486,15 @@
 			)
 		)
 		(property "DigiKey" "1109PHCT-ND"
+			(at 154.94 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 154.94 161.29 0)
 			(effects
 				(font
@@ -46881,6 +45582,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 226.06 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "47122841-94ef-4851-84fc-c0fdb2b9f997")
 		)
@@ -46950,6 +45660,15 @@
 			)
 		)
 		(property "DigiKey" "CF14JT3K00CT-ND"
+			(at 69.85 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 69.85 261.62 0)
 			(effects
 				(font
@@ -47036,6 +45755,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 453.39 295.91 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bb6ad163-e588-4a83-ab74-ce12d2e0c645")
 		)
@@ -47105,6 +45833,15 @@
 			)
 		)
 		(property "DigiKey" "CF14JT3K30CT-ND"
+			(at 81.28 133.35 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 81.28 133.35 90)
 			(effects
 				(font
@@ -47191,6 +45928,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 350.52 358.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "419c4741-fa60-461b-9f34-f71a8226f3d0")
 		)
@@ -47261,6 +46007,15 @@
 			)
 		)
 		(property "DigiKey" "CF14JT3K00CT-ND"
+			(at 426.72 124.46 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 426.72 124.46 90)
 			(effects
 				(font
@@ -47414,6 +46169,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 472.44 280.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "91e87c7c-9894-44eb-a06f-df620e1dfb76")
 		)
@@ -47483,6 +46247,15 @@
 			)
 		)
 		(property "DigiKey" "CF14JT3K00CT-ND"
+			(at 172.72 151.13 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 172.72 151.13 90)
 			(effects
 				(font
@@ -47561,6 +46334,15 @@
 			)
 		)
 		(property "DigiKey" "CF14JT220RCT-ND"
+			(at 482.6 148.59 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 482.6 148.59 90)
 			(effects
 				(font
@@ -47713,6 +46495,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 214.63 313.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0b6e368f-a14b-4c5e-8f04-e4ed95ff274c")
 		)
@@ -47783,6 +46574,15 @@
 			)
 		)
 		(property "DigiKey" "CF14JT220RCT-ND"
+			(at 464.82 158.75 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 464.82 158.75 90)
 			(effects
 				(font
@@ -47862,6 +46662,15 @@
 			)
 		)
 		(property "DigiKey" "1109PHCT-ND"
+			(at 151.13 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 151.13 53.34 0)
 			(effects
 				(font
@@ -48014,6 +46823,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 516.89 153.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0faad955-636c-42e9-9513-19f1ac898dfb")
 		)
@@ -48085,6 +46903,15 @@
 			)
 		)
 		(property "DigiKey" "399-C410C105K5R5TA7200CT-ND"
+			(at 34.29 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 34.29 81.28 0)
 			(effects
 				(font
@@ -48171,6 +46998,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 453.39 303.53 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3d0a358b-827e-4f1a-8df4-37816915f038")
 		)
@@ -48181,199 +47017,6 @@
 			(project "Atari65XEC070067RevB"
 				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
 					(reference "R150")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Library:74LS74")
-		(at 358.14 179.07 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "0ab48206-b4c2-4d6e-b457-3c66b1e7debe")
-		(property "Reference" "U21"
-			(at 356.362 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "74LS74"
-			(at 358.648 169.926 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
-			(at 358.14 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 358.14 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 358.14 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DigiKey" "296-1668-5-ND"
-			(at 358.14 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "11"
-			(uuid "91754332-14df-4698-b0a2-0e5ed05611ff")
-		)
-		(pin "1"
-			(uuid "498e3e86-851d-4c04-a995-7454f6a998b4")
-		)
-		(pin "6"
-			(uuid "eb7dd4da-a7ed-49ea-a34e-f15b34a758b0")
-		)
-		(pin "4"
-			(uuid "a623f533-8937-4a5a-a1a9-22668f3df753")
-		)
-		(pin "12"
-			(uuid "a4109f13-45f3-4a3b-a08b-fcf0e9e04a7f")
-		)
-		(pin "3"
-			(uuid "e2677f26-4916-4eef-bc64-4fab6cb35bdd")
-		)
-		(pin "2"
-			(uuid "dd34c48e-3631-4851-bce1-9d114d94d611")
-		)
-		(pin "5"
-			(uuid "6f73d9b5-6973-4364-ad4f-6f8ea519d45e")
-		)
-		(pin "14"
-			(uuid "b11b55da-f9cf-4ff8-ae08-06b12f1ec9f2")
-		)
-		(pin "13"
-			(uuid "9a847e26-3180-4e65-bdc5-114c66c07672")
-		)
-		(pin "7"
-			(uuid "1fa39382-f53a-4b43-a655-53b23b3b812d")
-		)
-		(pin "8"
-			(uuid "7b8e6a65-eeec-46c7-b790-c2914c616838")
-		)
-		(pin "9"
-			(uuid "da1de478-143c-4d54-8bc0-12d981e35a49")
-		)
-		(pin "10"
-			(uuid "b8e25ef6-7bcd-4010-9e34-c9c59aa43c97")
-		)
-		(instances
-			(project ""
-				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
-					(reference "U21")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "PCM_Crystal_AKL:Crystal_Generic")
-		(at 381 171.45 90)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "0b43f943-257e-40e2-b19a-f14aa0f11933")
-		(property "Reference" "Y2"
-			(at 384.81 169.926 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "4.33618MHz"
-			(at 384.556 172.466 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Crystal:Crystal_HC49-U_Horizontal"
-			(at 381 171.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 381 171.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Quartz crystal, Generic symbol, Alternate KiCad Library"
-			(at 381 171.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DigiKey" "X1013-ND"
-			(at 381 171.45 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "5dbfa5ed-8aa9-4e88-ba05-da8d4a0434f1")
-		)
-		(pin "1"
-			(uuid "d501c25a-dbc0-47fb-a30e-c2bc209d859b")
-		)
-		(instances
-			(project ""
-				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
-					(reference "Y2")
 					(unit 1)
 				)
 			)
@@ -48511,6 +47154,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 15.24 388.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "Atari65XEC070067RevB"
 				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
@@ -48574,6 +47226,15 @@
 			)
 		)
 		(property "DigiKey" "CF14JT2K00CT-ND"
+			(at 55.88 123.19 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 55.88 123.19 90)
 			(effects
 				(font
@@ -48794,6 +47455,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 15.24 349.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project ""
 				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
@@ -48926,6 +47596,15 @@
 			)
 		)
 		(property "DigiKey" ""
+			(at 204.47 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 204.47 280.67 0)
 			(effects
 				(font
@@ -49121,6 +47800,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 196.85 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "15"
 			(uuid "3e591ef7-3145-40e3-889d-21747cb94896")
 		)
@@ -49234,6 +47922,15 @@
 			)
 		)
 		(property "DigiKey" ""
+			(at 34.29 373.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 34.29 373.38 0)
 			(effects
 				(font
@@ -49514,6 +48211,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 34.29 378.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "Atari65XEC070067RevB"
 				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
@@ -49576,6 +48282,15 @@
 			)
 		)
 		(property "DigiKey" ""
+			(at 566.42 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 566.42 242.57 0)
 			(effects
 				(font
@@ -49652,6 +48367,15 @@
 			)
 		)
 		(property "DigiKey" "CF14JT750RCT-ND"
+			(at 359.41 105.41 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 359.41 105.41 90)
 			(effects
 				(font
@@ -49754,6 +48478,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 289.56 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a8ef2e85-64ba-4b9f-a8eb-519c893853d3")
 		)
@@ -49822,6 +48555,15 @@
 			)
 		)
 		(property "DigiKey" "535-AB-14.31818MHZ-B2CT-ND"
+			(at 226.06 377.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 226.06 377.19 0)
 			(effects
 				(font
@@ -49901,6 +48643,15 @@
 			)
 		)
 		(property "DigiKey" "CF14JT1K00CT-ND"
+			(at 292.1 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 292.1 69.85 0)
 			(effects
 				(font
@@ -50053,6 +48804,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 445.77 233.68 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9e4a3c57-5e5b-41a2-ace3-d67a3aec759d")
 		)
@@ -50191,6 +48951,15 @@
 			)
 		)
 		(property "DigiKey" "CF14JT270RCT-ND"
+			(at 453.39 339.09 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 453.39 339.09 90)
 			(effects
 				(font
@@ -50409,6 +49178,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 337.82 97.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "5cccac3e-ca75-4ca8-9121-b7b16b9ac807")
 		)
@@ -50526,6 +49304,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 285.75 313.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f6a52e45-501c-402e-82aa-6da5fc6681c8")
 		)
@@ -50536,73 +49323,6 @@
 			(project "Atari65XEC070067RevB"
 				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
 					(reference "C118")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+5VA")
-		(at 396.24 147.32 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1746c1a3-a6ab-4dc9-a2e6-fa219d3b1d26")
-		(property "Reference" "#PWR073"
-			(at 392.43 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5VA"
-			(at 400.05 147.3199 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 396.24 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 396.24 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5VA\""
-			(at 396.24 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "550a55b3-b663-450d-863d-015b6ce69833")
-		)
-		(instances
-			(project "Atari65XEC070067RevB"
-				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
-					(reference "#PWR073")
 					(unit 1)
 				)
 			)
@@ -50663,6 +49383,15 @@
 			)
 		)
 		(property "DigiKey" "CF14JT56K0CT-ND"
+			(at 292.1 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 292.1 193.04 0)
 			(effects
 				(font
@@ -50741,6 +49470,15 @@
 			)
 		)
 		(property "DigiKey" "1109PHCT-ND"
+			(at 207.01 313.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 207.01 313.69 0)
 			(effects
 				(font
@@ -50828,6 +49566,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 15.24 364.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "15a4e671-e412-470e-835a-dd202b0c9637")
 		)
@@ -50893,6 +49640,15 @@
 			)
 		)
 		(property "DigiKey" "1216PHCT-ND"
+			(at 396.24 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 396.24 360.68 0)
 			(effects
 				(font
@@ -50979,6 +49735,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 420.37 384.81 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "457390ee-8c4f-4e1a-9747-223c44c21306")
 		)
@@ -51055,6 +49820,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 516.89 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "123c9c30-1367-403d-925b-9b48d4951274")
 		)
@@ -51123,6 +49897,15 @@
 			)
 		)
 		(property "DigiKey" "535-AICC-02-100K-TCT-ND"
+			(at 510.54 148.59 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 510.54 148.59 90)
 			(effects
 				(font
@@ -51220,7 +50003,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "1b93d464-64dc-4286-9a85-0a4541130b08")
 		(property "Reference" "U34"
 			(at 91.186 315.722 0)
@@ -51266,6 +50049,15 @@
 			)
 		)
 		(property "DigiKey" ""
+			(at 96.52 330.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 96.52 330.2 0)
 			(effects
 				(font
@@ -51406,6 +50198,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 464.82 138.43 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1e5a6618-db6e-49e5-8172-0584c8d41b0e")
 		)
@@ -51477,6 +50278,15 @@
 			)
 		)
 		(property "DigiKey" "1103PHCT-ND"
+			(at 127 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 127 39.37 0)
 			(effects
 				(font
@@ -51564,6 +50374,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 15.24 435.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "88a3cbd2-ef03-45ca-b5a0-80a5f89996f4")
 		)
@@ -51630,6 +50449,15 @@
 			)
 		)
 		(property "DigiKey" "CF14JT2K20CT-ND"
+			(at 95.25 133.35 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 95.25 133.35 90)
 			(effects
 				(font
@@ -51781,6 +50609,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 518.16 265.43 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "92c5f00d-306d-4cd6-aaa0-1cf4839cb148")
 		)
@@ -51857,6 +50694,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 396.24 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fa64b5fb-9baa-4265-a613-815a6d16d07a")
 		)
@@ -51925,6 +50771,15 @@
 			)
 		)
 		(property "DigiKey" "CF14JT3K30CT-ND"
+			(at 445.77 238.76 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 445.77 238.76 90)
 			(effects
 				(font
@@ -52208,6 +51063,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 510.54 365.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7deca943-f38d-473c-872e-4c8cd56f4949")
 		)
@@ -52368,6 +51232,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 402.59 344.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "05e5757d-a6de-4ee8-953a-2fed870d6bb7")
 		)
@@ -52456,7 +51329,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "26a9e29d-c1b6-417e-bb0f-faf365901615")
 		(property "Reference" "JA4"
 			(at 22.86 157.988 0)
@@ -52502,6 +51375,15 @@
 			)
 		)
 		(property "DigiKey" ""
+			(at 22.86 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 22.86 209.55 0)
 			(effects
 				(font
@@ -52673,6 +51555,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 302.26 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c8a8b24d-1a98-43fc-a106-e8370fac4fc4")
 		)
@@ -52741,6 +51632,15 @@
 			)
 		)
 		(property "DigiKey" "296-1633-5-ND"
+			(at 255.27 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 255.27 158.75 0)
 			(effects
 				(font
@@ -52863,6 +51763,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 109.22 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "45b6fe70-6b32-4317-8445-9fa81e6ef843")
 		)
@@ -52941,6 +51850,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 184.15 313.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e3cc946f-3a22-4d6e-8a12-12d2c0619ab8")
 		)
@@ -53008,7 +51926,16 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "1934-1310-ND"
+		(property "DigiKey" "1934-1417-1-ND"
+			(at 367.03 30.48 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 367.03 30.48 90)
 			(effects
 				(font
@@ -53161,6 +52088,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 523.24 158.75 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "23635d7b-16b3-4b60-9163-f08fa386b962")
 		)
@@ -53231,6 +52167,15 @@
 			)
 		)
 		(property "DigiKey" "296-2056-ND"
+			(at 337.82 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 337.82 74.93 90)
 			(effects
 				(font
@@ -53356,6 +52301,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 270.51 313.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9d0d252d-8268-4ce9-b37d-44713180405a")
 		)
@@ -53435,6 +52389,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 15.24 373.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "Atari65XEC070067RevB"
 				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
@@ -53451,7 +52414,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "29f05554-d45b-4712-8d0b-d5e23281d05a")
 		(property "Reference" "U4"
 			(at 144.78 157.48 0)
@@ -53497,6 +52460,15 @@
 			)
 		)
 		(property "DigiKey" ""
+			(at 144.78 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 144.78 173.99 0)
 			(effects
 				(font
@@ -53649,6 +52621,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 453.39 300.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ee89ca26-91d6-413d-a8c2-cbe1e36514d8")
 		)
@@ -53719,6 +52700,15 @@
 			)
 		)
 		(property "DigiKey" "CF14JT220RCT-ND"
+			(at 472.44 275.59 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 472.44 275.59 90)
 			(effects
 				(font
@@ -53933,6 +52923,15 @@
 			)
 		)
 		(property "DigiKey" "296-1633-5-ND"
+			(at 21.59 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 21.59 57.15 0)
 			(effects
 				(font
@@ -54188,6 +53187,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 217.17 384.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "12970a2c-b638-46bb-a098-9d20dbbab9da")
 		)
@@ -54347,7 +53355,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "3218dfde-66ca-4684-b899-9d4e55fb3a92")
 		(property "Reference" "U3"
 			(at 97.79 247.396 0)
@@ -54393,6 +53401,15 @@
 			)
 		)
 		(property "DigiKey" ""
+			(at 97.79 247.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 97.79 247.65 0)
 			(effects
 				(font
@@ -54531,6 +53548,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 502.92 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a8209cb6-a08b-45df-87ea-a741d40c7570")
 		)
@@ -54601,6 +53627,15 @@
 			)
 		)
 		(property "DigiKey" ""
+			(at 189.23 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 189.23 280.67 0)
 			(effects
 				(font
@@ -54797,6 +53832,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 473.71 153.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f4b08dc9-50c6-42b9-926f-f9cef040c0ca")
 		)
@@ -54819,7 +53863,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "342485a1-09e0-4791-8982-e07be540eb7b")
 		(property "Reference" "U17"
 			(at 260.604 137.16 0)
@@ -54865,6 +53909,15 @@
 			)
 		)
 		(property "DigiKey" ""
+			(at 266.7 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 266.7 109.22 0)
 			(effects
 				(font
@@ -55134,6 +54187,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 93.98 142.24 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e571b73a-efb9-42a5-a5c7-02eff5a0ddf5")
 		)
@@ -55277,6 +54339,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 81.28 123.19 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fd88909e-9178-4615-b015-f0717d6fad2e")
 		)
@@ -55347,6 +54418,15 @@
 			)
 		)
 		(property "DigiKey" "1109PHCT-ND"
+			(at 278.13 313.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 278.13 313.69 0)
 			(effects
 				(font
@@ -55501,6 +54581,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 25.4 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "07f9ff51-b693-4bdf-ba46-5e3dfb4e2870")
 		)
@@ -55579,6 +54668,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 191.77 313.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ef0545a7-ef8b-4421-b707-e47b750bfe7b")
 		)
@@ -55647,7 +54745,16 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "1934-1310-ND"
+		(property "DigiKey" "1934-1417-1-ND"
+			(at 133.35 22.86 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 133.35 22.86 90)
 			(effects
 				(font
@@ -55733,6 +54840,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 234.95 370.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4f741fa2-05e9-4b01-9fdf-9a427481a294")
 		)
@@ -55803,6 +54919,15 @@
 			)
 		)
 		(property "DigiKey" ""
+			(at 234.95 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 234.95 280.67 0)
 			(effects
 				(font
@@ -55943,7 +55068,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "3b2fe5da-f934-4972-b170-eecfbf211a00")
 		(property "Reference" "U5"
 			(at 144.78 114.046 0)
@@ -55989,6 +55114,15 @@
 			)
 		)
 		(property "DigiKey" ""
+			(at 144.78 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 144.78 132.08 0)
 			(effects
 				(font
@@ -56221,6 +55355,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 34.29 383.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "Atari65XEC070067RevB"
 				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
@@ -56426,6 +55569,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 332.74 388.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8570936c-a76b-4a39-ad88-a3549c38d05c")
 		)
@@ -56493,7 +55645,16 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "1934-1310-ND"
+		(property "DigiKey" "1934-1417-1-ND"
+			(at 331.47 370.84 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 331.47 370.84 90)
 			(effects
 				(font
@@ -56649,6 +55810,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C389251"
+			(at 99.06 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9057ca52-3112-4dd1-8daf-508fb663846e")
 		)
@@ -56717,6 +55887,15 @@
 			)
 		)
 		(property "DigiKey" ""
+			(at 553.72 313.69 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 553.72 313.69 90)
 			(effects
 				(font
@@ -56868,6 +56047,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 441.96 356.87 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2b0b245f-42e4-45c0-a774-03a5c2830682")
 		)
@@ -56878,73 +56066,6 @@
 			(project "Atari65XEC070067RevB"
 				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
 					(reference "L18")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 358.14 161.29 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4458ae2f-ccb6-4737-81cb-92b0b4f34281")
-		(property "Reference" "#PWR074"
-			(at 358.14 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 358.14 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 358.14 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 358.14 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 358.14 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "79b9a973-a857-4373-8232-7dc14f61209a")
-		)
-		(instances
-			(project "Atari65XEC070067RevB"
-				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
-					(reference "#PWR074")
 					(unit 1)
 				)
 			)
@@ -57070,6 +56191,15 @@
 			)
 		)
 		(property "DigiKey" "1109PHCT-ND"
+			(at 420.37 313.69 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 420.37 313.69 90)
 			(effects
 				(font
@@ -57289,6 +56419,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 182.88 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "13"
 			(uuid "cfa601ea-2795-4881-b27e-d4e5391b4f23")
 		)
@@ -57404,6 +56543,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 15.24 444.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3c34d22e-6860-4e0f-ad1b-d457f774a145")
 		)
@@ -57469,6 +56617,15 @@
 			)
 		)
 		(property "DigiKey" "CF14JT3K00CT-ND"
+			(at 302.26 148.59 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 302.26 148.59 90)
 			(effects
 				(font
@@ -57689,6 +56846,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 83.82 365.76 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "56ec1383-a319-4765-bf52-6fd1c94d3964")
 		)
@@ -57833,6 +56999,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 193.04 392.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "43bf959b-b592-44b1-8673-e84686c0edb7")
 		)
@@ -57903,6 +57078,15 @@
 			)
 		)
 		(property "DigiKey" "CF14JT1K80CT-ND"
+			(at 412.75 372.11 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 412.75 372.11 90)
 			(effects
 				(font
@@ -58055,6 +57239,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 36.83 328.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "862bfa71-1278-4a56-bc11-5a75ca99097a")
 		)
@@ -58191,6 +57384,15 @@
 			)
 		)
 		(property "DigiKey" "1109PHCT-ND"
+			(at 355.6 388.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 355.6 388.62 0)
 			(effects
 				(font
@@ -58412,6 +57614,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 275.59 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "3f3a202a-5e05-493d-abce-ac8f7d132bc5")
 		)
@@ -58508,6 +57719,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 420.37 392.43 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "560d4951-cda8-4dbf-bca4-2ab96ef67722")
 		)
@@ -58578,6 +57798,15 @@
 			)
 		)
 		(property "DigiKey" ""
+			(at 219.71 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 219.71 280.67 0)
 			(effects
 				(font
@@ -58776,83 +58005,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Jumper:Jumper_2_Open")
-		(at 349.25 143.51 0)
-		(unit 1)
-		(exclude_from_sim yes)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "51ddaf00-6323-48af-bf6b-0829515855d4")
-		(property "Reference" "W2"
-			(at 349.25 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Jumper_2_Open"
-			(at 349.25 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
-			(at 349.25 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 349.25 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Jumper, 2-pole, open"
-			(at 349.25 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DigiKey" ""
-			(at 349.25 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b09a7d4c-78c0-4341-837b-f3fb04c3ee39")
-		)
-		(pin "2"
-			(uuid "bf25c35e-f458-431f-8abd-6595c7bdd05f")
-		)
-		(instances
-			(project ""
-				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
-					(reference "W2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 64.77 393.7 270)
 		(mirror x)
@@ -58981,6 +58133,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 518.16 250.19 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c58bf286-4922-4eb9-a881-b2e54f907acc")
 		)
@@ -59051,6 +58212,15 @@
 			)
 		)
 		(property "DigiKey" ""
+			(at 266.7 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 266.7 280.67 0)
 			(effects
 				(font
@@ -59235,7 +58405,16 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "1934-1310-ND"
+		(property "DigiKey" "1934-1417-1-ND"
+			(at 510.54 198.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 510.54 198.12 90)
 			(effects
 				(font
@@ -59312,6 +58491,15 @@
 			)
 		)
 		(property "DigiKey" "1216PHCT-ND"
+			(at 307.34 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 307.34 173.99 0)
 			(effects
 				(font
@@ -59532,6 +58720,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 295.91 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "15"
 			(uuid "30892e86-48d2-4cb4-abbc-0ecd1dd4b084")
 		)
@@ -59653,6 +58850,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 54.61 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d700c8f0-1b43-451d-8c52-ba6683d3d381")
 		)
@@ -59723,6 +58929,15 @@
 			)
 		)
 		(property "DigiKey" "CF14JT1K00CT-ND"
+			(at 303.53 166.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 303.53 166.37 90)
 			(effects
 				(font
@@ -59809,6 +59024,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 262.89 201.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2bd2105a-1282-4ae9-84da-31c3b05d2c66")
 		)
@@ -59819,73 +59043,6 @@
 			(project "Atari65XEC070067RevB"
 				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
 					(reference "R200")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 381 191.77 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5768ff02-900f-4581-bec4-195c5a901f4e")
-		(property "Reference" "#PWR0119"
-			(at 381 198.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 381 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 381 191.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 381 191.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 381 191.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ca13f606-7d86-43ab-acc0-283e10839460")
-		)
-		(instances
-			(project "Atari65XEC070067RevB"
-				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
-					(reference "#PWR0119")
 					(unit 1)
 				)
 			)
@@ -59944,6 +59101,15 @@
 			)
 		)
 		(property "DigiKey" "1216PHCT-ND"
+			(at 427.99 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 427.99 360.68 0)
 			(effects
 				(font
@@ -60097,6 +59263,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 367.03 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "430dc492-d410-46ab-8e42-380e7224dcec")
 		)
@@ -60241,6 +59416,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 483.87 365.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "550b93ae-439e-41a0-b6ce-2965e1f12dcd")
 		)
@@ -60309,6 +59493,15 @@
 			)
 		)
 		(property "DigiKey" ""
+			(at 49.53 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 49.53 92.71 0)
 			(effects
 				(font
@@ -60417,7 +59610,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "5a386fee-fe8a-41e8-a678-0a724d177a4c")
 		(property "Reference" "U23"
 			(at 447.04 115.062 0)
@@ -60464,6 +59657,15 @@
 			)
 		)
 		(property "DigiKey" ""
+			(at 447.04 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 447.04 160.02 0)
 			(effects
 				(font
@@ -60608,7 +59810,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "5a3a7d73-2afd-4512-9117-0c78cc9a50a7")
 		(property "Reference" "U22"
 			(at 372.11 285.75 0)
@@ -60655,6 +59857,15 @@
 			)
 		)
 		(property "DigiKey" ""
+			(at 372.11 342.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 372.11 342.9 0)
 			(effects
 				(font
@@ -60921,6 +60132,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 234.95 392.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f4f1ee2e-48f8-4fea-b27e-850c3d9132e5")
 		)
@@ -60992,6 +60212,15 @@
 			)
 		)
 		(property "DigiKey" ""
+			(at 15.24 400.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 15.24 400.05 0)
 			(effects
 				(font
@@ -61073,6 +60302,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 434.34 369.57 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5a0e1f32-2025-474c-96a0-af7cbc0c6538")
 		)
@@ -61141,6 +60379,15 @@
 			)
 		)
 		(property "DigiKey" "1109PHCT-ND"
+			(at 299.72 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 299.72 194.31 0)
 			(effects
 				(font
@@ -61227,6 +60474,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 293.37 313.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5032394c-e6e1-4fdf-8976-e65c8315f61a")
 		)
@@ -61295,6 +60551,15 @@
 			)
 		)
 		(property "DigiKey" "535-AICC-02-100K-TCT-ND"
+			(at 434.34 354.33 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 434.34 354.33 90)
 			(effects
 				(font
@@ -61449,6 +60714,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 482.6 278.13 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fbd5a025-e164-4028-9f6f-aee0219f9e68")
 		)
@@ -61517,6 +60791,15 @@
 			)
 		)
 		(property "DigiKey" ""
+			(at 492.76 365.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 492.76 365.76 0)
 			(effects
 				(font
@@ -61596,6 +60879,15 @@
 			)
 		)
 		(property "DigiKey" "4878-2N3904CT-ND"
+			(at 393.7 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 393.7 120.65 0)
 			(effects
 				(font
@@ -61743,6 +61035,15 @@
 			)
 		)
 		(property "DigiKey" "1216PHCT-ND"
+			(at 72.39 106.68 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 72.39 106.68 90)
 			(effects
 				(font
@@ -61964,6 +61265,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 72.39 123.19 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "218a9a38-f4ac-4a96-87c3-057b33b1a91c")
 		)
@@ -62101,6 +61411,15 @@
 			)
 		)
 		(property "DigiKey" "475BPS100M-ND"
+			(at 66.04 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 66.04 116.84 0)
 			(effects
 				(font
@@ -62321,6 +61640,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 453.39 341.63 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "142c6d07-bea7-40dc-9dc5-a2ab649819f1")
 		)
@@ -62331,83 +61659,6 @@
 			(project "Atari65XEC070067RevB"
 				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
 					(reference "R137")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 397.51 168.91 0)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "6576e97d-27e3-4e23-8b44-50cd5e9ab2f2")
-		(property "Reference" "C61"
-			(at 400.05 166.878 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "100nF"
-			(at 401.066 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Library:C_Axial_L5.1mm_D2.7mm_P12.72mm_Horizontal"
-			(at 397.51 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 397.51 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 397.51 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DigiKey" "1109PHCT-ND"
-			(at 397.51 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "58fef941-d724-47ff-81f6-64b8eddb97ae")
-		)
-		(pin "1"
-			(uuid "5b6f8557-8cdd-45cb-96a9-1543656d6d56")
-		)
-		(instances
-			(project "Atari65XEC070067RevB"
-				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
-					(reference "C61")
 					(unit 1)
 				)
 			)
@@ -62467,6 +61718,15 @@
 			)
 		)
 		(property "DigiKey" "CF14JT3K00CT-ND"
+			(at 215.9 77.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 215.9 77.47 90)
 			(effects
 				(font
@@ -62553,6 +61813,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 142.24 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "54c83fe5-5647-4d50-be73-04d977094e88")
 		)
@@ -62631,6 +61900,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 274.32 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "15"
 			(uuid "a11a6733-9d25-47e7-9091-6992524da97f")
 		)
@@ -62689,84 +61967,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small")
-		(at 368.3 158.75 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "682432c3-04e4-427c-a87b-a475686c4598")
-		(property "Reference" "R69"
-			(at 366.268 156.972 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "6k8"
-			(at 371.094 157.734 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Library:R_Axial_L9.0mm_D2.7mm_P12.70mm_Horizontal"
-			(at 368.3 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 368.3 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 368.3 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DigiKey" "CF14JT6K80CT-ND"
-			(at 368.3 158.75 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e0cef3b2-c6e5-48bb-ad4a-4bcd0ca40c7a")
-		)
-		(pin "2"
-			(uuid "420fbb6e-1d14-40c2-948c-049db9869fbf")
-		)
-		(instances
-			(project "Atari65XEC070067RevB"
-				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
-					(reference "R69")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Small")
 		(at 284.48 166.37 270)
 		(unit 1)
@@ -62819,6 +62019,15 @@
 			)
 		)
 		(property "DigiKey" "1216PHCT-ND"
+			(at 284.48 166.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 284.48 166.37 90)
 			(effects
 				(font
@@ -62898,6 +62107,15 @@
 			)
 		)
 		(property "DigiKey" "1216PHCT-ND"
+			(at 160.02 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 160.02 53.34 0)
 			(effects
 				(font
@@ -62994,7 +62212,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "6aabf539-d62f-490c-a744-8525a949175e")
 		(property "Reference" "J6"
 			(at 575.564 114.3 0)
@@ -63042,6 +62260,15 @@
 			)
 		)
 		(property "DigiKey" ""
+			(at 575.31 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 575.31 129.54 0)
 			(effects
 				(font
@@ -63285,6 +62512,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 486.41 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "442a181d-f43e-4dcf-9bb0-2231d6cc3775")
 		)
@@ -63354,6 +62590,15 @@
 			)
 		)
 		(property "DigiKey" "CF14JT3K00CT-ND"
+			(at 182.88 153.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 182.88 153.67 90)
 			(effects
 				(font
@@ -63441,6 +62686,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 388.62 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8f2d9618-ea54-47cb-88a5-df358a2b73f3")
 		)
@@ -63511,6 +62765,15 @@
 			)
 		)
 		(property "DigiKey" "CF14JT680RCT-ND"
+			(at 279.4 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 279.4 161.29 0)
 			(effects
 				(font
@@ -63664,6 +62927,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 227.33 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "15"
 			(uuid "b7011ee8-957e-4d82-a697-ef8b1bd748ef")
 		)
@@ -63784,6 +63056,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 464.82 143.51 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b2535b65-fa4e-45d8-9c7c-d3cee1fb05a7")
 		)
@@ -63854,6 +63135,15 @@
 			)
 		)
 		(property "DigiKey" "296-2056-ND"
+			(at 337.82 82.55 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 337.82 82.55 90)
 			(effects
 				(font
@@ -63971,6 +63261,15 @@
 			)
 		)
 		(property "DigiKey" "CF14JT270RCT-ND"
+			(at 453.39 328.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 453.39 328.93 90)
 			(effects
 				(font
@@ -64122,6 +63421,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 378.46 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dd51a639-a534-42a8-9b13-2c996c5d6261")
 		)
@@ -64190,6 +63498,15 @@
 			)
 		)
 		(property "DigiKey" "1216PHCT-ND"
+			(at 486.41 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 486.41 166.37 0)
 			(effects
 				(font
@@ -64277,6 +63594,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 50.8 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "77c633fb-b793-40cb-9bbd-15217f9e3917")
 		)
@@ -64287,73 +63613,6 @@
 			(project "Atari65XEC070067RevB"
 				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
 					(reference "R1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+5VA")
-		(at 397.51 182.88 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6ff8263b-28f5-4400-ba8a-819bae52387f")
-		(property "Reference" "#PWR078"
-			(at 393.7 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5VA"
-			(at 401.32 182.8799 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 397.51 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 397.51 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5VA\""
-			(at 397.51 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "76426956-06c3-42ed-ae43-c66c42350b30")
-		)
-		(instances
-			(project "Atari65XEC070067RevB"
-				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
-					(reference "#PWR078")
 					(unit 1)
 				)
 			)
@@ -64412,6 +63671,15 @@
 			)
 		)
 		(property "DigiKey" "1216PHCT-ND"
+			(at 387.35 375.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 387.35 375.92 0)
 			(effects
 				(font
@@ -64564,6 +63832,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 453.39 311.15 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c2106252-8e57-4f7a-bfa0-6de777254323")
 		)
@@ -64632,6 +63909,15 @@
 			)
 		)
 		(property "DigiKey" "1216PHCT-ND"
+			(at 454.66 397.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 454.66 397.51 0)
 			(effects
 				(font
@@ -64719,6 +64005,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 160.02 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "39ba6879-fc3c-4ad0-bc5c-1589a7d263ad")
 		)
@@ -64789,6 +64084,15 @@
 			)
 		)
 		(property "DigiKey" "296-2056-ND"
+			(at 337.82 105.41 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 337.82 105.41 90)
 			(effects
 				(font
@@ -64981,6 +64285,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 563.88 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "afb66a1b-3139-4899-8019-b8a7ef7c5837")
 		)
@@ -65003,7 +64316,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "720909f5-18e5-4a01-bce1-262e1d04f864")
 		(property "Reference" "U8"
 			(at 215.9 157.48 0)
@@ -65049,6 +64362,15 @@
 			)
 		)
 		(property "DigiKey" ""
+			(at 215.9 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 215.9 179.07 0)
 			(effects
 				(font
@@ -65181,82 +64503,6 @@
 			(project ""
 				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
 					(reference "U8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 351.79 158.75 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "728b93aa-ecb5-401f-be4b-9ad223ef73ab")
-		(property "Reference" "C58"
-			(at 349.25 156.718 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "100nF"
-			(at 348.234 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Library:C_Axial_L5.1mm_D2.7mm_P12.72mm_Horizontal"
-			(at 351.79 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 351.79 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 351.79 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DigiKey" "1109PHCT-ND"
-			(at 351.79 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "b783d02f-5b3d-40f5-9784-9e2132d9965c")
-		)
-		(pin "1"
-			(uuid "3fa78c42-58d6-4519-8ad8-f9e1c447c92a")
-		)
-		(instances
-			(project "Atari65XEC070067RevB"
-				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
-					(reference "C58")
 					(unit 1)
 				)
 			)
@@ -65524,6 +64770,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 410.21 387.35 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "679ac408-596f-4dff-b62b-281ee418cb8f")
 		)
@@ -65592,6 +64847,15 @@
 			)
 		)
 		(property "DigiKey" "535-AICC-02-100K-TCT-ND"
+			(at 516.89 146.05 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 516.89 146.05 90)
 			(effects
 				(font
@@ -65676,6 +64940,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 182.88 151.13 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7281aca9-2cc1-418d-9672-a2a39d368022")
 		)
@@ -65746,6 +65019,15 @@
 			)
 		)
 		(property "DigiKey" "1109PHCT-ND"
+			(at 262.89 313.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 262.89 313.69 0)
 			(effects
 				(font
@@ -65898,6 +65180,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 110.49 345.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "6e730fd3-53e5-4c3e-89cf-1a619d7cb13d")
 		)
@@ -65969,6 +65260,15 @@
 			)
 		)
 		(property "DigiKey" "CF14JT10K0CT-ND"
+			(at 107.95 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 107.95 139.7 0)
 			(effects
 				(font
@@ -66055,6 +65355,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 203.2 392.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "58005ad5-14b2-47c2-8dcc-87b8e9f3ecdf")
 		)
@@ -66122,7 +65431,16 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "1934-1310-ND"
+		(property "DigiKey" "1934-1417-1-ND"
+			(at 478.79 105.41 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 478.79 105.41 90)
 			(effects
 				(font
@@ -66141,83 +65459,6 @@
 			(project "Atari65XEC070067RevB"
 				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
 					(reference "L10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 381 179.07 0)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "786d63bd-c9f3-465e-81fd-dfcea4a55285")
-		(property "Reference" "C59"
-			(at 383.794 177.038 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "22pF"
-			(at 384.302 180.848 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Library:C_Axial_L5.1mm_D2.7mm_P12.72mm_Horizontal"
-			(at 381 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 381 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 381 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DigiKey" "1014PHCT-ND"
-			(at 381 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "37dfc9e7-058f-4059-8e75-272093bee68a")
-		)
-		(pin "1"
-			(uuid "bac86c0e-9106-41cc-884a-9b95309be425")
-		)
-		(instances
-			(project "Atari65XEC070067RevB"
-				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
-					(reference "C59")
 					(unit 1)
 				)
 			)
@@ -66417,6 +65658,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 214.63 392.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2dcacc95-9724-496d-9f11-67881ac57228")
 		)
@@ -66487,6 +65737,15 @@
 			)
 		)
 		(property "DigiKey" "CF14JT4K70CT-ND"
+			(at 383.54 397.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 383.54 397.51 0)
 			(effects
 				(font
@@ -66640,6 +65899,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 243.84 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "15"
 			(uuid "0e64529f-f235-48ff-af12-7a8143576c25")
 		)
@@ -66704,7 +65972,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "7e2e5782-7fed-4b50-badd-8bb39f9b78a0")
 		(property "Reference" "J1"
 			(at 539.496 370.84 90)
@@ -66750,6 +66018,15 @@
 			)
 		)
 		(property "DigiKey" ""
+			(at 558.8 370.84 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 558.8 370.84 90)
 			(effects
 				(font
@@ -66937,6 +66214,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 199.39 313.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "10aeb38b-95bf-44fb-80e2-a9e0601ddf4a")
 		)
@@ -67015,6 +66301,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 162.56 374.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "fc2b7dc9-d0c9-4126-9485-0a97783d7841")
 		)
@@ -67025,73 +66320,6 @@
 			(project "Atari65XEC070067RevB"
 				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
 					(reference "C105")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 368.3 161.29 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7ef9b26a-5318-40b0-9154-e46354ad93f0")
-		(property "Reference" "#PWR077"
-			(at 368.3 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 368.3 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 368.3 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 368.3 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 368.3 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "86327381-1813-44a7-8829-f8b50b37613b")
-		)
-		(instances
-			(project "Atari65XEC070067RevB"
-				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
-					(reference "#PWR077")
 					(unit 1)
 				)
 			)
@@ -67152,7 +66380,16 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "595-SFAPI-101K-UL-TRCT-ND"
+		(property "DigiKey" "118-78F101J-TR-RCCT-ND"
+			(at 152.4 247.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 152.4 247.65 0)
 			(effects
 				(font
@@ -67247,6 +66484,15 @@
 			)
 		)
 		(property "DigiKey" "1N4148FS-ND"
+			(at 349.25 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 349.25 105.41 0)
 			(effects
 				(font
@@ -67467,6 +66713,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 553.72 290.83 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "15bd5b40-d137-465a-b37d-313c794e885d")
 		)
@@ -67534,7 +66789,16 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "1934-1310-ND"
+		(property "DigiKey" "1934-1417-1-ND"
+			(at 513.08 45.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 513.08 45.72 90)
 			(effects
 				(font
@@ -67614,6 +66878,15 @@
 			)
 		)
 		(property "DigiKey" "1216PHCT-ND"
+			(at 118.11 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 118.11 39.37 0)
 			(effects
 				(font
@@ -67832,6 +67105,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 501.65 365.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "48285b33-3914-44c0-a0a0-13f67f8943a5")
 		)
@@ -67903,6 +67185,15 @@
 			)
 		)
 		(property "DigiKey" "CF14JT6K20CT-ND"
+			(at 50.8 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 50.8 130.81 0)
 			(effects
 				(font
@@ -68055,6 +67346,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 499.11 210.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "66393dd4-cc4c-4bf3-979e-8c62ab389f91")
 		)
@@ -68131,6 +67431,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 420.37 341.63 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e8deea88-31f1-4090-937c-3ea25ceccbf5")
 		)
@@ -68141,151 +67450,6 @@
 			(project "Atari65XEC070067RevB"
 				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
 					(reference "C70")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 259.08 190.5 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "83a138c6-b5aa-4ce6-b0c5-010bc8f8c20c")
-		(property "Reference" "#PWR071"
-			(at 259.08 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 259.08 195.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 259.08 190.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 259.08 190.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 259.08 190.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "0d90b5c6-dc30-43d1-a23a-b640a2d932f3")
-		)
-		(instances
-			(project "Atari65XEC070067RevB"
-				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
-					(reference "#PWR071")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 389.89 182.88 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "83bec0e0-56b5-4bee-a301-04c6da5efa33")
-		(property "Reference" "R73"
-			(at 391.668 180.848 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1k"
-			(at 390.906 185.674 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Library:R_Axial_L9.0mm_D2.7mm_P12.70mm_Horizontal"
-			(at 389.89 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 389.89 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 389.89 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DigiKey" "CF14JT1K00CT-ND"
-			(at 389.89 182.88 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "bae5784e-c067-4ab2-a8f4-ca733f8dcccf")
-		)
-		(pin "2"
-			(uuid "eaef4b85-6df8-4224-8efc-713bb74463b0")
-		)
-		(instances
-			(project "Atari65XEC070067RevB"
-				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
-					(reference "R73")
 					(unit 1)
 				)
 			)
@@ -68346,6 +67510,15 @@
 			)
 		)
 		(property "DigiKey" ""
+			(at 212.09 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 212.09 280.67 0)
 			(effects
 				(font
@@ -68474,6 +67647,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 270.51 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2d66f55a-6931-40ed-ac07-3f742307f5af")
 		)
@@ -68543,6 +67725,15 @@
 			)
 		)
 		(property "DigiKey" "296-1395-5-ND"
+			(at 96.52 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 96.52 125.73 0)
 			(effects
 				(font
@@ -68640,6 +67831,15 @@
 			)
 		)
 		(property "DigiKey" "CF14JT100RCT-ND"
+			(at 388.62 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 388.62 95.25 0)
 			(effects
 				(font
@@ -68791,6 +67991,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 97.79 118.11 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "320a5c8e-442a-4229-b11d-61c38c62ff07")
 		)
@@ -68869,6 +68078,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 473.71 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ff426006-1865-44ab-8c2d-b9e3b5ad4a13")
 		)
@@ -68939,6 +68157,15 @@
 			)
 		)
 		(property "DigiKey" "CF14JT3K00CT-ND"
+			(at 387.35 308.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 387.35 308.61 90)
 			(effects
 				(font
@@ -69089,6 +68316,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 257.81 173.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0f157248-b059-4c7e-aaed-6ade3d03f40f")
 		)
@@ -69167,6 +68403,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 453.39 323.85 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e271eaae-86b7-4d9e-a7bc-b7723dd39769")
 		)
@@ -69237,6 +68482,15 @@
 			)
 		)
 		(property "DigiKey" "1109PHCT-ND"
+			(at 31.75 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 31.75 257.81 0)
 			(effects
 				(font
@@ -69389,6 +68643,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 501.65 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f08c08ec-0192-4b7a-a76c-a66fc7a4b811")
 		)
@@ -69460,6 +68723,15 @@
 			)
 		)
 		(property "DigiKey" "CF14JT5K10CT-ND"
+			(at 107.95 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 107.95 132.08 0)
 			(effects
 				(font
@@ -69603,6 +68875,15 @@
 			)
 		)
 		(property "DigiKey" "CF14JT3K30CT-ND"
+			(at 445.77 248.92 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 445.77 248.92 90)
 			(effects
 				(font
@@ -69755,6 +69036,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 497.84 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0aef927f-ca67-4d87-9523-c27bc0b16b04")
 		)
@@ -69890,7 +69180,16 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "595-SFAPI-101K-UL-TRCT-ND"
+		(property "DigiKey" "118-78F101J-TR-RCCT-ND"
+			(at 67.31 91.44 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 67.31 91.44 90)
 			(effects
 				(font
@@ -70042,6 +69341,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 445.77 243.84 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7ddaa269-b5d6-407b-bedf-24674ce81e60")
 		)
@@ -70185,6 +69493,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 323.85 374.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4c08de7b-eaca-4d8d-982f-d06d75eb5256")
 		)
@@ -70253,6 +69570,15 @@
 			)
 		)
 		(property "DigiKey" "535-AICC-02-100K-TCT-ND"
+			(at 523.24 143.51 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 523.24 143.51 90)
 			(effects
 				(font
@@ -70331,6 +69657,15 @@
 			)
 		)
 		(property "DigiKey" "CF14JT270RCT-ND"
+			(at 453.39 293.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 453.39 293.37 90)
 			(effects
 				(font
@@ -70418,6 +69753,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 168.91 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d0312ca8-eb3c-4892-aeb8-c01bd82741af")
 		)
@@ -70486,6 +69830,15 @@
 			)
 		)
 		(property "DigiKey" "535-AICC-02-100K-TCT-ND"
+			(at 510.54 156.21 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 510.54 156.21 90)
 			(effects
 				(font
@@ -70570,6 +69923,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 505.46 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ef7e6a8a-dbf1-4a6c-9a6c-bfa234fd4e88")
 		)
@@ -70638,6 +70000,15 @@
 			)
 		)
 		(property "DigiKey" "1216PHCT-ND"
+			(at 396.24 375.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 396.24 375.92 0)
 			(effects
 				(font
@@ -70724,6 +70095,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 251.46 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "15"
 			(uuid "a1c7972f-6c9c-4b78-87ff-7192ddd485a6")
 		)
@@ -70788,7 +70168,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "90e066e9-ef09-44b1-9a20-136ffa5178d9")
 		(property "Reference" "U35"
 			(at 69.85 366.776 0)
@@ -70834,6 +70214,15 @@
 			)
 		)
 		(property "DigiKey" ""
+			(at 77.47 384.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 77.47 384.81 0)
 			(effects
 				(font
@@ -70957,6 +70346,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 15.24 408.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6d086642-4d98-4dd3-a746-3fd7067b504e")
 		)
@@ -71025,6 +70423,15 @@
 			)
 		)
 		(property "DigiKey" ""
+			(at 15.24 355.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 15.24 355.6 0)
 			(effects
 				(font
@@ -71106,6 +70513,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 434.34 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "10fc6dda-3114-471e-9860-7254c4e8721b")
 		)
@@ -71176,6 +70592,15 @@
 			)
 		)
 		(property "DigiKey" "CF14JT270RCT-ND"
+			(at 453.39 326.39 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 453.39 326.39 90)
 			(effects
 				(font
@@ -71263,6 +70688,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 22.86 21.59 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "139a2007-23fc-4e0f-82ca-45ec7f21eb86")
 		)
@@ -71341,6 +70775,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 224.79 392.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "59be0e0a-9842-406b-a105-36b8bf811010")
 		)
@@ -71409,6 +70852,15 @@
 			)
 		)
 		(property "DigiKey" "CF14JT9K10CT-ND"
+			(at 359.41 90.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 359.41 90.17 90)
 			(effects
 				(font
@@ -71621,7 +71073,16 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "1934-1310-ND"
+		(property "DigiKey" "1934-1417-1-ND"
+			(at 133.35 50.8 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 133.35 50.8 90)
 			(effects
 				(font
@@ -71640,161 +71101,6 @@
 			(project "Atari65XEC070067RevB"
 				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
 					(reference "L3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 392.43 147.32 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "943b685e-0918-46f5-9cab-4c4e87998812")
-		(property "Reference" "R72"
-			(at 394.208 145.288 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1k"
-			(at 393.446 150.114 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Library:R_Axial_L9.0mm_D2.7mm_P12.70mm_Horizontal"
-			(at 392.43 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 392.43 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 392.43 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DigiKey" "CF14JT1K00CT-ND"
-			(at 392.43 147.32 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f4fb4f66-0f90-4395-9753-f583b471e18e")
-		)
-		(pin "2"
-			(uuid "a8d50806-55fa-4377-9a76-5e465740c497")
-		)
-		(instances
-			(project "Atari65XEC070067RevB"
-				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
-					(reference "R72")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 381 186.69 0)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "946bc8f4-f121-4592-aa6f-e8cfb32dccd4")
-		(property "Reference" "C60"
-			(at 384.048 184.658 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "56pF"
-			(at 384.556 188.722 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Library:C_Axial_L5.1mm_D2.7mm_P12.72mm_Horizontal"
-			(at 381 186.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 381 186.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 381 186.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DigiKey" "399-C410C510FAG5TA-ND"
-			(at 381 186.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "2832c27e-13c0-4f9e-ab5f-6d15eef838e9")
-		)
-		(pin "1"
-			(uuid "55aeb0b2-7007-427d-baa8-1d12f27e2c89")
-		)
-		(instances
-			(project "Atari65XEC070067RevB"
-				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
-					(reference "C60")
 					(unit 1)
 				)
 			)
@@ -71856,6 +71162,15 @@
 			)
 		)
 		(property "DigiKey" "4878-2N3904CT-ND"
+			(at 386.08 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 386.08 74.93 0)
 			(effects
 				(font
@@ -72080,6 +71395,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 226.06 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "dc7cfb9e-98d5-4f75-a0ba-bef5e646453a")
 		)
@@ -72090,84 +71414,6 @@
 			(project "Atari65XEC070067RevB"
 				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
 					(reference "C30")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 381 161.29 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "950603c2-e6f6-4e73-9731-50fc1dd5926d")
-		(property "Reference" "R71"
-			(at 378.968 159.512 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "470R"
-			(at 383.286 159.004 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Library:R_Axial_L9.0mm_D2.7mm_P12.70mm_Horizontal"
-			(at 381 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 381 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 381 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DigiKey" "CF14JT470RCT-ND"
-			(at 381 161.29 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d855cbbc-9bdf-408a-b02c-8bb5d5c729c7")
-		)
-		(pin "2"
-			(uuid "7414a262-869c-44e5-b79b-d0fd975d1105")
-		)
-		(instances
-			(project "Atari65XEC070067RevB"
-				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
-					(reference "R71")
 					(unit 1)
 				)
 			)
@@ -72228,6 +71474,15 @@
 			)
 		)
 		(property "DigiKey" "CF14JT100RCT-ND"
+			(at 500.38 140.97 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 500.38 140.97 90)
 			(effects
 				(font
@@ -72447,6 +71702,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 214.63 370.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1a835fd6-7daf-44c5-aeb4-95d6684bca5d")
 		)
@@ -72516,6 +71780,15 @@
 			)
 		)
 		(property "DigiKey" "78F1R5K-RC-ND"
+			(at 40.64 76.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 40.64 76.2 90)
 			(effects
 				(font
@@ -72668,6 +71941,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 500.38 45.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "615adc29-f8e7-48f6-8fff-ae2a47a36b8c")
 		)
@@ -72736,6 +72018,15 @@
 			)
 		)
 		(property "DigiKey" "1216PHCT-ND"
+			(at 419.1 375.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 419.1 375.92 0)
 			(effects
 				(font
@@ -72822,6 +72113,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 466.09 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "2ea101b8-2665-4ee9-a243-079552d14d0d")
 		)
@@ -72893,6 +72193,15 @@
 			)
 		)
 		(property "DigiKey" "CF14JT18K0CT-ND"
+			(at 359.41 82.55 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 359.41 82.55 90)
 			(effects
 				(font
@@ -73045,6 +72354,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 410.21 382.27 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "91afcbe6-492f-4744-bdf8-a5dad96d6694")
 		)
@@ -73115,6 +72433,15 @@
 			)
 		)
 		(property "DigiKey" "296-1633-5-ND"
+			(at 294.64 129.54 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 294.64 129.54 90)
 			(effects
 				(font
@@ -73370,6 +72697,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 412.75 356.87 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bf9b20dc-4e8f-4264-af76-8606cd80ba7e")
 		)
@@ -73515,6 +72851,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 403.86 354.33 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4ed540ca-c049-4ebd-ae61-5418f4751811")
 		)
@@ -73582,7 +72927,16 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "1934-1310-ND"
+		(property "DigiKey" "1934-1417-1-ND"
+			(at 247.65 228.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 247.65 228.6 90)
 			(effects
 				(font
@@ -73667,6 +73021,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 553.72 306.07 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1d3f9ca7-40f5-4c59-9b2f-7f090bb89421")
 		)
@@ -73738,6 +73101,15 @@
 			)
 		)
 		(property "DigiKey" "CF14JT1K00CT-ND"
+			(at 281.94 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 281.94 69.85 0)
 			(effects
 				(font
@@ -74025,6 +73397,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 505.46 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8aa4e6f2-a00d-4466-adae-26040e9ed712")
 		)
@@ -74094,6 +73475,15 @@
 			)
 		)
 		(property "DigiKey" "296-2056-ND"
+			(at 337.82 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 337.82 67.31 90)
 			(effects
 				(font
@@ -74218,6 +73608,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 83.82 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "a79f4a6c-ecde-4bc1-8820-607b10b4c9b6")
 		)
@@ -74288,7 +73687,16 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "1934-1310-ND"
+		(property "DigiKey" "1934-1417-1-ND"
+			(at 478.79 119.38 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 478.79 119.38 90)
 			(effects
 				(font
@@ -74376,6 +73784,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 170.18 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b278ab73-30c2-4bb4-9029-f650ded05202")
 		)
@@ -74447,6 +73864,15 @@
 			)
 		)
 		(property "DigiKey" "4878-2N3904CT-ND"
+			(at 195.58 377.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 195.58 377.19 0)
 			(effects
 				(font
@@ -74527,6 +73953,15 @@
 			)
 		)
 		(property "DigiKey" "296-1395-5-ND"
+			(at 41.91 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 41.91 123.19 0)
 			(effects
 				(font
@@ -74696,6 +74131,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 518.16 257.81 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "20a753d5-ced4-4f20-83e6-c4aea2fc8ebf")
 		)
@@ -74766,6 +74210,15 @@
 			)
 		)
 		(property "DigiKey" ""
+			(at 181.61 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 181.61 280.67 0)
 			(effects
 				(font
@@ -74951,6 +74404,15 @@
 			)
 		)
 		(property "DigiKey" "296-2057-5-ND"
+			(at 434.34 330.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 434.34 330.2 0)
 			(effects
 				(font
@@ -75145,6 +74607,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 441.96 372.11 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "de520872-d430-4429-b43c-0e5d4482e989")
 		)
@@ -75216,6 +74687,15 @@
 			)
 		)
 		(property "DigiKey" "296-1395-5-ND"
+			(at 19.05 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 19.05 29.21 0)
 			(effects
 				(font
@@ -75320,6 +74800,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 397.51 308.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "37326776-e664-40e8-bf95-77141008a2bf")
 		)
@@ -75409,7 +74898,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "ac2594c6-0952-4c6a-abd0-91c7bc410ebe")
 		(property "Reference" "J8"
 			(at 494.284 269.24 0)
@@ -75455,6 +74944,15 @@
 			)
 		)
 		(property "DigiKey" ""
+			(at 497.84 309.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 497.84 309.88 0)
 			(effects
 				(font
@@ -75672,6 +75170,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 148.59 252.73 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3f4f742e-cb6d-4ca6-9752-f65f6ad76347")
 		)
@@ -75742,6 +75249,15 @@
 			)
 		)
 		(property "DigiKey" "1109PHCT-ND"
+			(at 247.65 313.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 247.65 313.69 0)
 			(effects
 				(font
@@ -75975,7 +75491,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "b00c1157-1b1c-4abb-8fb3-e08aa853cad9")
 		(property "Reference" "J7"
@@ -76022,6 +75538,15 @@
 			)
 		)
 		(property "DigiKey" ""
+			(at 64.77 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 64.77 27.94 0)
 			(effects
 				(font
@@ -76124,6 +75649,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 109.22 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e1a83d70-55e5-4436-bd31-f6052738c9b9")
 		)
@@ -76192,6 +75726,15 @@
 			)
 		)
 		(property "DigiKey" "CF14JT33R0CT-ND"
+			(at 156.21 328.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 156.21 328.93 90)
 			(effects
 				(font
@@ -76344,6 +75887,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 344.17 378.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "47d9d495-c37b-4f7d-887b-b0aa76c129dc")
 		)
@@ -76481,6 +76033,15 @@
 			)
 		)
 		(property "DigiKey" "CF14JT3K00CT-ND"
+			(at 76.2 238.76 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 76.2 238.76 90)
 			(effects
 				(font
@@ -76701,6 +76262,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 453.39 298.45 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c180d49f-bc13-436a-9d62-c5ee76fd11f4")
 		)
@@ -76771,6 +76341,15 @@
 			)
 		)
 		(property "DigiKey" "CF14JT270RCT-ND"
+			(at 453.39 336.55 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 453.39 336.55 90)
 			(effects
 				(font
@@ -76858,6 +76437,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 118.11 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5b514c08-1e5a-427b-8a90-813bf8bed246")
 		)
@@ -76928,6 +76516,15 @@
 			)
 		)
 		(property "DigiKey" "CF14JT3K00CT-ND"
+			(at 419.1 162.56 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 419.1 162.56 90)
 			(effects
 				(font
@@ -77079,6 +76676,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 93.98 101.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f310986e-4984-4228-9ee7-946ce8e04007")
 		)
@@ -77155,6 +76761,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 299.72 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "052d02b8-ff8f-4782-b7cd-d213c8dcd740")
 		)
@@ -77165,82 +76780,6 @@
 			(project "Atari65XEC070067RevB"
 				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
 					(reference "C46")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 259.08 185.42 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "b612bf23-f64f-45d4-af51-5ca0d281e80e")
-		(property "Reference" "C206"
-			(at 263.652 184.404 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "27pF"
-			(at 263.906 186.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Library:C_Axial_L5.1mm_D2.7mm_P12.72mm_Horizontal"
-			(at 259.08 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 259.08 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 259.08 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DigiKey" "1015PHCT-ND"
-			(at 259.08 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "ab232a75-2f20-47e5-ba3c-2fdb50f2a49d")
-		)
-		(pin "1"
-			(uuid "ef422b5d-e135-48d6-98cc-b47c26fe106b")
-		)
-		(instances
-			(project "Atari65XEC070067RevB"
-				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
-					(reference "C206")
 					(unit 1)
 				)
 			)
@@ -77375,6 +76914,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 15.24 393.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "Atari65XEC070067RevB"
 				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
@@ -77437,6 +76985,15 @@
 			)
 		)
 		(property "DigiKey" "1216PHCT-ND"
+			(at 490.22 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 490.22 171.45 0)
 			(effects
 				(font
@@ -77516,6 +77073,15 @@
 			)
 		)
 		(property "DigiKey" "1109PHCT-ND"
+			(at 26.67 43.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 26.67 43.18 90)
 			(effects
 				(font
@@ -77667,6 +77233,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 427.99 375.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3129b02b-ed8c-4d90-ba64-7b8f3937cc67")
 		)
@@ -77738,6 +77313,15 @@
 			)
 		)
 		(property "DigiKey" "S470KQCT-ND"
+			(at 86.36 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 86.36 113.03 0)
 			(effects
 				(font
@@ -77958,6 +77542,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 459.74 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3a81b071-e96c-4209-adce-f026efad8024")
 		)
@@ -78045,7 +77638,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "b9e2a8a2-740f-49dc-bcc3-183e71e8050f")
 		(property "Reference" "J5"
 			(at 575.564 184.15 0)
@@ -78101,6 +77694,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 575.31 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "9"
 			(uuid "b6c13bb7-7c5e-4855-a506-4a25c9a14f83")
 		)
@@ -78144,7 +77746,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "ba8746d5-f9e8-4343-871e-866a719cced4")
 		(property "Reference" "U6"
 			(at 148.59 287.782 0)
@@ -78190,6 +77792,15 @@
 			)
 		)
 		(property "DigiKey" ""
+			(at 148.59 287.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 148.59 287.02 0)
 			(effects
 				(font
@@ -78456,6 +78067,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 417.83 328.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "355f5f3c-0410-4053-b7dc-83edd4de67d7")
 		)
@@ -78534,6 +78154,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 389.89 336.55 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3564f6bc-3c93-472f-b760-f683d5765d22")
 		)
@@ -78556,7 +78185,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "bc64132d-8a6f-4782-a1a8-46ae75e83864")
 		(property "Reference" "YB1"
 			(at 160.782 384.048 0)
@@ -78602,6 +78231,15 @@
 			)
 		)
 		(property "DigiKey" "X946-ND"
+			(at 168.91 384.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 168.91 384.81 0)
 			(effects
 				(font
@@ -78686,6 +78324,15 @@
 			)
 		)
 		(property "DigiKey" "CF14JT100RCT-ND"
+			(at 491.49 135.89 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 491.49 135.89 90)
 			(effects
 				(font
@@ -78973,6 +78620,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 403.86 369.57 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "520d8bb8-7a70-461c-8a6c-2e70120a4830")
 		)
@@ -79051,6 +78707,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 237.49 313.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "be67ae35-dd21-4ae7-b1dd-2b9526f80557")
 		)
@@ -79121,6 +78786,15 @@
 			)
 		)
 		(property "DigiKey" "CF14JT4K70CT-ND"
+			(at 466.09 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 466.09 129.54 0)
 			(effects
 				(font
@@ -79266,6 +78940,15 @@
 			)
 		)
 		(property "DigiKey" "1109PHCT-ND"
+			(at 255.27 313.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 255.27 313.69 0)
 			(effects
 				(font
@@ -79421,6 +79104,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 25.4 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "aa45b465-b380-4895-ade7-88f8668fb4bf")
 		)
@@ -79491,6 +79183,15 @@
 			)
 		)
 		(property "DigiKey" "1109PHCT-ND"
+			(at 300.99 313.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 300.99 313.69 0)
 			(effects
 				(font
@@ -79575,6 +79276,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 504.19 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8c61e5e4-3bfb-439a-9a69-a90a76247679")
 		)
@@ -79643,6 +79353,15 @@
 			)
 		)
 		(property "DigiKey" "CF14JT33R0CT-ND"
+			(at 133.35 326.39 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 133.35 326.39 90)
 			(effects
 				(font
@@ -79730,6 +79449,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 34.29 349.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "Atari65XEC070067RevB"
 				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
@@ -79792,6 +79520,15 @@
 			)
 		)
 		(property "DigiKey" ""
+			(at 553.72 283.21 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 553.72 283.21 90)
 			(effects
 				(font
@@ -79870,6 +79607,15 @@
 			)
 		)
 		(property "DigiKey" "CF14JT4K70CT-ND"
+			(at 389.89 397.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 389.89 397.51 0)
 			(effects
 				(font
@@ -80028,73 +79774,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 358.14 191.77 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c41e81ef-3cad-4c70-9051-a68f4718dd03")
-		(property "Reference" "#PWR075"
-			(at 358.14 198.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 358.14 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 358.14 191.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 358.14 191.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 358.14 191.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "3e078a68-da1f-4eed-87dc-43f8b86eca34")
-		)
-		(instances
-			(project "Atari65XEC070067RevB"
-				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
-					(reference "#PWR075")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+5V")
 		(at 214.63 365.76 0)
 		(unit 1)
@@ -80214,6 +79893,15 @@
 			)
 		)
 		(property "DigiKey" "CF14JT4K70CT-ND"
+			(at 402.59 397.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 402.59 397.51 0)
 			(effects
 				(font
@@ -80356,7 +80044,16 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "1934-1310-ND"
+		(property "DigiKey" "1934-1417-1-ND"
+			(at 505.46 198.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 505.46 198.12 90)
 			(effects
 				(font
@@ -80511,6 +80208,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 15.24 453.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cc96a194-77f1-424d-b9af-7540af87e633")
 		)
@@ -80644,6 +80350,15 @@
 			)
 		)
 		(property "DigiKey" "535-AICC-02-100K-TCT-ND"
+			(at 516.89 161.29 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 516.89 161.29 90)
 			(effects
 				(font
@@ -80794,6 +80509,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 359.41 97.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8fc131c3-0895-49e4-9cba-bfb3ffe33638")
 		)
@@ -80928,6 +80652,15 @@
 			)
 		)
 		(property "DigiKey" ""
+			(at 553.72 298.45 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 553.72 298.45 90)
 			(effects
 				(font
@@ -81160,7 +80893,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "c8bee2da-2092-4c05-bd11-2671167602f2")
 		(property "Reference" "U7"
 			(at 215.9 86.36 0)
@@ -81206,6 +80939,15 @@
 			)
 		)
 		(property "DigiKey" ""
+			(at 215.9 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 215.9 110.49 0)
 			(effects
 				(font
@@ -81406,6 +81148,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 237.49 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ff0d4833-d73f-4746-8e5d-bf204ebc8398")
 		)
@@ -81553,6 +81304,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 314.96 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "e5eaa2a5-06bf-45a0-bf82-be4f47c6c636")
 		)
@@ -81632,6 +81392,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 408.94 24.13 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2328bca7-2887-4636-9ed7-f8748700a805")
 		)
@@ -81700,6 +81469,15 @@
 			)
 		)
 		(property "DigiKey" "296-1639-5-ND"
+			(at 97.79 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 97.79 180.34 0)
 			(effects
 				(font
@@ -81818,7 +81596,16 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "1934-1310-ND"
+		(property "DigiKey" "1934-1417-1-ND"
+			(at 379.73 55.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 379.73 55.88 90)
 			(effects
 				(font
@@ -81897,6 +81684,15 @@
 			)
 		)
 		(property "DigiKey" "CF14JT3K00CT-ND"
+			(at 426.72 153.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 426.72 153.67 90)
 			(effects
 				(font
@@ -81984,6 +81780,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 375.92 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ab0519e8-e0a5-41ed-9c72-838fe61ceaec")
 		)
@@ -81994,82 +81799,6 @@
 			(project "Atari65XEC070067RevB"
 				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
 					(reference "R46")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 392.43 165.1 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "cfca09b6-5851-48ee-9c33-69b2baad7a8f")
-		(property "Reference" "C111"
-			(at 392.176 160.02 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "820pF"
-			(at 392.43 161.798 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Library:C_Axial_L5.1mm_D2.7mm_P12.72mm_Horizontal"
-			(at 392.43 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 392.43 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 392.43 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DigiKey" "399-C410C821K1R5TA-ND"
-			(at 392.43 165.1 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "44941243-5f52-4c13-ba21-98f1d6d651da")
-		)
-		(pin "1"
-			(uuid "3297a68f-4132-4741-9392-2d9377fdaab1")
-		)
-		(instances
-			(project "Atari65XEC070067RevB"
-				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
-					(reference "C111")
 					(unit 1)
 				)
 			)
@@ -82131,6 +81860,15 @@
 			)
 		)
 		(property "DigiKey" "1216PHCT-ND"
+			(at 142.24 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 142.24 39.37 0)
 			(effects
 				(font
@@ -82209,6 +81947,15 @@
 			)
 		)
 		(property "DigiKey" "296-2056-ND"
+			(at 341.63 57.15 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 341.63 57.15 90)
 			(effects
 				(font
@@ -82324,7 +82071,16 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "1934-1310-ND"
+		(property "DigiKey" "1934-1417-1-ND"
+			(at 133.35 36.83 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 133.35 36.83 90)
 			(effects
 				(font
@@ -82417,151 +82173,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 351.79 161.29 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d2e0d82a-f9f0-499b-8d25-8bc9c99c4909")
-		(property "Reference" "#PWR076"
-			(at 351.79 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 351.79 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 351.79 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 351.79 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 351.79 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "5a08e2d0-76b2-4008-9c01-2d4ce6d3bedd")
-		)
-		(instances
-			(project "Atari65XEC070067RevB"
-				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
-					(reference "#PWR076")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 381 151.13 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "d31025ab-e74c-45f2-8b2f-36cd13805cf0")
-		(property "Reference" "R70"
-			(at 378.968 149.352 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10k"
-			(at 383.54 149.606 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Library:R_Axial_L9.0mm_D2.7mm_P12.70mm_Horizontal"
-			(at 381 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 381 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 381 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DigiKey" "CF14JT10K0CT-ND"
-			(at 381 151.13 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "719846ed-14c9-4aa1-b130-57cd6e3b4014")
-		)
-		(pin "2"
-			(uuid "336a1915-d399-4932-9986-49456ca289cd")
-		)
-		(instances
-			(project "Atari65XEC070067RevB"
-				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
-					(reference "R70")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Small")
 		(at 288.29 201.93 90)
 		(unit 1)
@@ -82614,6 +82225,15 @@
 			)
 		)
 		(property "DigiKey" "1109PHCT-ND"
+			(at 288.29 201.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 288.29 201.93 90)
 			(effects
 				(font
@@ -82692,6 +82312,15 @@
 			)
 		)
 		(property "DigiKey" "S47KQCT-ND"
+			(at 410.21 344.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 410.21 344.17 0)
 			(effects
 				(font
@@ -82779,6 +82408,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 312.42 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "71485e9c-9e18-41d9-bec0-52bcb71df6de")
 		)
@@ -82858,6 +82496,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 110.49 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2f929449-7d5c-413f-b255-ebfb86193b9b")
 		)
@@ -82928,6 +82575,15 @@
 			)
 		)
 		(property "DigiKey" ""
+			(at 281.94 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 281.94 280.67 0)
 			(effects
 				(font
@@ -83121,6 +82777,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 445.77 397.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8bd82dd4-c74e-4577-98c2-7f00271e7cfe")
 		)
@@ -83131,88 +82796,6 @@
 			(project "Atari65XEC070067RevB"
 				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
 					(reference "C77")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "PCM_Transistor_BJT_AKL:2N3904")
-		(at 360.68 156.21 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "d508ba5d-18f2-4b76-81bd-e0722a19b48f")
-		(property "Reference" "Q6"
-			(at 361.696 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "2N3904"
-			(at 361.696 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Library:TO-92L_Inline_Wide"
-			(at 355.6 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.tme.eu/Document/12bff749841e3a356e683e9a8e7e4119/2N3904BU-DTE.pdf"
-			(at 360.68 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "NPN TO-92 transistor, 40V, 200mA, 625mW, Complementary to 2N3906, Alternate KiCAD Library"
-			(at 360.68 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DigiKey" "4878-2N3904CT-ND"
-			(at 360.68 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "96fa20e0-7aa6-4a2e-a788-129228882236")
-		)
-		(pin "2"
-			(uuid "30f0177a-e5e3-4140-8424-158262e6f2f4")
-		)
-		(pin "1"
-			(uuid "85521d76-f1f0-4cdd-9198-3835956a0985")
-		)
-		(instances
-			(project "Atari65XEC070067RevB"
-				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
-					(reference "Q6")
 					(unit 1)
 				)
 			)
@@ -83273,6 +82856,15 @@
 			)
 		)
 		(property "DigiKey" "CF14JT220RCT-ND"
+			(at 510.54 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 510.54 217.17 0)
 			(effects
 				(font
@@ -83359,6 +82951,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C3002459"
+			(at 358.14 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "490855d3-bcd6-4911-9331-8b413eda0fbc")
 		)
@@ -83429,6 +83030,15 @@
 			)
 		)
 		(property "DigiKey" "CF14JT4K70CT-ND"
+			(at 396.24 397.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 396.24 397.51 0)
 			(effects
 				(font
@@ -83516,6 +83126,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 381 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a27721c6-a060-475c-bf80-5f0b715a6ffc")
 		)
@@ -83538,7 +83157,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "d6c43dfe-8ded-469b-beda-f4cab36b17a5")
 		(property "Reference" "JB4"
 			(at 20.32 281.94 0)
@@ -83584,6 +83203,15 @@
 			)
 		)
 		(property "DigiKey" ""
+			(at 22.86 313.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 22.86 313.69 0)
 			(effects
 				(font
@@ -83704,6 +83332,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 553.72 275.59 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c057e360-55df-406a-ae44-36484388e424")
 		)
@@ -83772,6 +83409,15 @@
 			)
 		)
 		(property "DigiKey" "1109PHCT-ND"
+			(at 511.81 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 511.81 280.67 0)
 			(effects
 				(font
@@ -83858,6 +83504,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 473.71 161.29 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e6590ec0-2c4a-4660-9ce4-7f9267a3c6f9")
 		)
@@ -83926,6 +83581,15 @@
 			)
 		)
 		(property "DigiKey" "1216PHCT-ND"
+			(at 427.99 397.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 427.99 397.51 0)
 			(effects
 				(font
@@ -84012,6 +83676,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 229.87 313.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b988ac27-3990-410a-afac-8e6b5fa0baad")
 		)
@@ -84079,7 +83752,16 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "1934-1310-ND"
+		(property "DigiKey" "1934-1417-1-ND"
+			(at 326.39 384.81 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 326.39 384.81 90)
 			(effects
 				(font
@@ -84156,7 +83838,16 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "595-SFAPI-101K-UL-TRCT-ND"
+		(property "DigiKey" "118-78F101J-TR-RCCT-ND"
+			(at 350.52 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 350.52 120.65 90)
 			(effects
 				(font
@@ -84311,6 +84002,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 453.39 308.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "316482aa-9b16-42f7-9740-ba82f50f6972")
 		)
@@ -84379,6 +84079,15 @@
 			)
 		)
 		(property "DigiKey" "1216PHCT-ND"
+			(at 499.11 203.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 499.11 203.2 90)
 			(effects
 				(font
@@ -84600,6 +84309,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 222.25 313.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "dd855dfe-a834-4498-8a13-5673cd65ad63")
 		)
@@ -84679,6 +84397,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 276.86 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "235cc8d5-da56-4a99-a377-93c99cfa56ca")
 		)
@@ -84692,72 +84419,6 @@
 			(project "Atari65XEC070067RevB"
 				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
 					(reference "Q1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+5VA")
-		(at 345.44 153.67 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "da8d454f-491f-4af1-8f0b-9a2cbb939188")
-		(property "Reference" "#PWR072"
-			(at 345.44 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5VA"
-			(at 345.44 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 345.44 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 345.44 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5VA\""
-			(at 345.44 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4db51c8c-30c6-4545-9d2d-2b3ba911f41f")
-		)
-		(instances
-			(project "Atari65XEC070067RevB"
-				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
-					(reference "#PWR072")
 					(unit 1)
 				)
 			)
@@ -84816,6 +84477,15 @@
 			)
 		)
 		(property "DigiKey" "1216PHCT-ND"
+			(at 344.17 388.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 344.17 388.62 0)
 			(effects
 				(font
@@ -84967,6 +84637,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 478.79 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "501af12d-39d6-4d78-bea3-71f5a6e55941")
 		)
@@ -85046,6 +84725,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 60.96 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0c43646a-9185-4d41-9dd5-225b5890b378")
 		)
@@ -85115,6 +84803,15 @@
 			)
 		)
 		(property "DigiKey" "CF14JT1K00CT-ND"
+			(at 66.04 256.54 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 66.04 256.54 90)
 			(effects
 				(font
@@ -85213,7 +84910,7 @@
 		(exclude_from_sim yes)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "df3cd66d-df0d-411e-8e01-87a20cad749e")
 		(property "Reference" "W1"
 			(at 387.35 341.63 90)
@@ -85261,6 +84958,15 @@
 			)
 		)
 		(property "DigiKey" ""
+			(at 384.81 341.63 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 384.81 341.63 90)
 			(effects
 				(font
@@ -85416,6 +85122,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 142.24 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "71c7bf75-99aa-4ee9-8038-960574917c2e")
 		)
@@ -85511,6 +85226,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 295.91 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "eb11d47a-c7e5-4a8a-85a2-aa51ba56ebf9")
 		)
@@ -85579,6 +85303,15 @@
 			)
 		)
 		(property "DigiKey" "296-1633-5-ND"
+			(at 229.87 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 229.87 63.5 0)
 			(effects
 				(font
@@ -85694,6 +85427,15 @@
 			)
 		)
 		(property "DigiKey" ""
+			(at 34.29 388.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 34.29 388.62 0)
 			(effects
 				(font
@@ -85833,6 +85575,15 @@
 			)
 		)
 		(property "DigiKey" "CF14JT270RCT-ND"
+			(at 453.39 306.07 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 453.39 306.07 90)
 			(effects
 				(font
@@ -85988,6 +85739,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 15.24 378.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "Atari65XEC070067RevB"
 				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
@@ -86052,6 +85812,15 @@
 			)
 		)
 		(property "DigiKey" "CF14JT220RCT-ND"
+			(at 504.19 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 504.19 276.86 0)
 			(effects
 				(font
@@ -86196,6 +85965,15 @@
 			)
 		)
 		(property "DigiKey" "296-2056-ND"
+			(at 337.82 90.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 337.82 90.17 90)
 			(effects
 				(font
@@ -86451,6 +86229,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 387.35 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d08ddb8d-f0d2-4340-84ad-8f65f2b386c0")
 		)
@@ -86520,6 +86307,15 @@
 			)
 		)
 		(property "DigiKey" "CP-2350-ND"
+			(at 556.26 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 556.26 43.18 0)
 			(effects
 				(font
@@ -86679,6 +86475,15 @@
 			)
 		)
 		(property "DigiKey" "1216PHCT-ND"
+			(at 482.6 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 482.6 171.45 0)
 			(effects
 				(font
@@ -87304,6 +87109,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 99.06 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0234e74b-3f36-4bc7-970f-478e684a9025")
 		)
@@ -87449,6 +87263,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 266.7 78.74 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "780ed567-2937-43a9-bf44-5e75bcd77144")
 		)
@@ -87527,6 +87350,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 160.02 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "dc830031-63fe-4853-9f50-8e8f77ab4998")
 		)
@@ -87597,6 +87429,15 @@
 			)
 		)
 		(property "DigiKey" "CF14JT220RCT-ND"
+			(at 482.6 156.21 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 482.6 156.21 90)
 			(effects
 				(font
@@ -87749,6 +87590,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 504.19 284.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "79d0f99b-ffd8-4ad4-9f00-66e22735f764")
 		)
@@ -87817,6 +87667,15 @@
 			)
 		)
 		(property "DigiKey" "1216PHCT-ND"
+			(at 314.96 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 314.96 158.75 0)
 			(effects
 				(font
@@ -88106,6 +87965,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 481.33 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b119b3a1-3cd2-4218-8922-f2754c40ee53")
 		)
@@ -88174,6 +88042,15 @@
 			)
 		)
 		(property "DigiKey" "1216PHCT-ND"
+			(at 436.88 397.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 436.88 397.51 0)
 			(effects
 				(font
@@ -88252,6 +88129,15 @@
 			)
 		)
 		(property "DigiKey" "CF14JT220RCT-ND"
+			(at 473.71 146.05 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 473.71 146.05 90)
 			(effects
 				(font
@@ -88471,6 +88357,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 483.87 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "41e8c45c-1b6b-44c8-b4ad-5f213cfbb0e4")
 		)
@@ -88608,6 +88503,15 @@
 			)
 		)
 		(property "DigiKey" "1109PHCT-ND"
+			(at 154.94 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 154.94 116.84 0)
 			(effects
 				(font
@@ -88894,6 +88798,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 464.82 151.13 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "aa886a5e-2070-4a26-b829-614553017c37")
 		)
@@ -89031,6 +88944,15 @@
 			)
 		)
 		(property "DigiKey" ""
+			(at 15.24 417.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 15.24 417.83 0)
 			(effects
 				(font
@@ -89385,6 +89307,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 151.13 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "501c4b13-d442-4dc9-bf8c-e141cdd6eab5")
 		)
@@ -89453,6 +89384,15 @@
 			)
 		)
 		(property "DigiKey" "296-2057-5-ND"
+			(at 434.34 302.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 434.34 302.26 0)
 			(effects
 				(font
@@ -89580,6 +89520,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 55.88 256.54 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5f57bf6d-8335-48dc-9c67-ac1034c23696")
 		)
@@ -89648,6 +89597,15 @@
 			)
 		)
 		(property "DigiKey" "535-AICC-02-100K-TCT-ND"
+			(at 523.24 151.13 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 523.24 151.13 90)
 			(effects
 				(font
@@ -89726,6 +89684,15 @@
 			)
 		)
 		(property "DigiKey" "CF14JT270RCT-ND"
+			(at 453.39 321.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 453.39 321.31 90)
 			(effects
 				(font
@@ -90082,6 +90049,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 453.39 334.01 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8b2a406f-05e8-402f-8811-7f0702fe77c4")
 		)
@@ -90152,6 +90128,15 @@
 			)
 		)
 		(property "DigiKey" ""
+			(at 259.08 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 259.08 280.67 0)
 			(effects
 				(font
@@ -90278,6 +90263,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 359.41 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d70fb415-f881-4607-8565-fdcfa68f3ac8")
 		)
@@ -90350,6 +90344,15 @@
 			)
 		)
 		(property "DigiKey" "1109PHCT-ND"
+			(at 82.55 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 82.55 256.54 0)
 			(effects
 				(font
@@ -90436,6 +90439,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 289.56 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "15"
 			(uuid "5a5343c2-8144-4e9a-bed6-afd4bfb953da")
 		)
@@ -90488,83 +90500,6 @@
 			(project "Atari65XEC070067RevB"
 				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
 					(reference "U32")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:L_Ferrite")
-		(at 392.43 158.75 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "fb824a32-acbf-41b8-b184-2975618a986b")
-		(property "Reference" "L8"
-			(at 392.43 152.4 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "15uH"
-			(at 392.43 154.94 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Library:R_Axial_L9.0mm_D2.7mm_P12.70mm_Horizontal"
-			(at 392.43 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 392.43 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Inductor with ferrite core"
-			(at 392.43 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DigiKey" "78F150J-RC-ND"
-			(at 392.43 158.75 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "b8c891db-4282-4a8e-bba7-35b7bb4ceee4")
-		)
-		(pin "1"
-			(uuid "eb039689-895b-4315-adc0-5fee2e7c97f5")
-		)
-		(instances
-			(project "Atari65XEC070067RevB"
-				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
-					(reference "L8")
 					(unit 1)
 				)
 			)
@@ -90626,6 +90561,15 @@
 			)
 		)
 		(property "DigiKey" "1216PHCT-ND"
+			(at 66.04 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 66.04 130.81 0)
 			(effects
 				(font
@@ -90711,6 +90655,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 317.5 64.77 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1497c75a-f504-40a0-929e-22ee60a1e41d")
 		)
@@ -90779,6 +90732,15 @@
 			)
 		)
 		(property "DigiKey" "1216PHCT-ND"
+			(at 419.1 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 419.1 360.68 0)
 			(effects
 				(font
@@ -90864,6 +90826,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 78.74 91.44 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "19addbed-421a-4a24-b29e-bde56fcef996")
 		)
@@ -90940,6 +90911,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 494.03 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "98e60989-1b88-4802-ad96-b66b57765913")
 		)
@@ -91007,7 +90987,16 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "1934-1310-ND"
+		(property "DigiKey" "1934-1417-1-ND"
+			(at 421.64 24.13 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 421.64 24.13 90)
 			(effects
 				(font
@@ -91163,6 +91152,48 @@
 				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
 					(reference "#PWR038")
 					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 610.87 201.93)
+		(size 68.58 58.42)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "79b7fc1a-e1af-46b4-bad7-4b1e519c1eac")
+		(property "Sheetname" "video"
+			(at 610.87 201.2184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "video.kicad_sch"
+			(at 610.87 260.9346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Atari65XEC070067RevB"
+				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
+					(page "2")
 				)
 			)
 		)

@@ -564,7 +564,7 @@
           "group_by": true,
           "label": "DNP",
           "name": "${DNP}",
-          "show": false
+          "show": true
         },
         {
           "group_by": true,
@@ -619,6 +619,12 @@
           "label": "DigiKey",
           "name": "DigiKey",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "LCSC",
+          "name": "LCSC",
+          "show": true
         }
       ],
       "filter_string": "",
@@ -672,6 +678,10 @@
     [
       "87d66ada-8337-4a7e-bc00-d889029d79b8",
       "Root"
+    ],
+    [
+      "79b7fc1a-e1af-46b4-bad7-4b1e519c1eac",
+      "video"
     ]
   ],
   "text_variables": {}
