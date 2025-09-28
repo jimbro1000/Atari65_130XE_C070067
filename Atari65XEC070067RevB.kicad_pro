@@ -470,6 +470,7 @@
       "single_global_label": "ignore",
       "unannotated": "error",
       "unconnected_wire_endpoint": "warning",
+      "undefined_netclass": "error",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
       "wire_dangling": "error"
@@ -477,7 +478,9 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "Library"
+    ]
   },
   "meta": {
     "filename": "Atari65XEC070067RevB.kicad_pro",
@@ -681,7 +684,15 @@
     ],
     [
       "79b7fc1a-e1af-46b4-bad7-4b1e519c1eac",
-      "video"
+      "clocks+ram"
+    ],
+    [
+      "1e7cd239-b8a0-424f-867a-da8e8d5075e4",
+      "power"
+    ],
+    [
+      "478b9c74-6204-461a-8c82-0ca5941a3be9",
+      "IO"
     ]
   ],
   "text_variables": {}
