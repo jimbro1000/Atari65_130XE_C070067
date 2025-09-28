@@ -14749,7 +14749,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5be4fd76-689f-45ae-824b-e4c25cceec9b")
-		(property "Reference" "L4"
+		(property "Reference" "L37"
 			(at 85.09 129.032 90)
 			(effects
 				(font
@@ -14819,7 +14819,7 @@
 		(instances
 			(project "Atari65XEC070067RevB"
 				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8/79b7fc1a-e1af-46b4-bad7-4b1e519c1eac"
-					(reference "L4")
+					(reference "L37")
 					(unit 1)
 				)
 			)

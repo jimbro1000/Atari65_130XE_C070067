@@ -470,7 +470,6 @@
       "single_global_label": "ignore",
       "unannotated": "error",
       "unconnected_wire_endpoint": "warning",
-      "undefined_netclass": "error",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
       "wire_dangling": "error"
@@ -478,9 +477,7 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": [
-      "Library"
-    ]
+    "pinned_symbol_libs": []
   },
   "meta": {
     "filename": "Atari65XEC070067RevB.kicad_pro",
@@ -693,6 +690,10 @@
     [
       "478b9c74-6204-461a-8c82-0ca5941a3be9",
       "IO"
+    ],
+    [
+      "b7d808df-19e5-4aa0-9bbc-13280b3bf9c1",
+      "MMU+ROM"
     ]
   ],
   "text_variables": {}
