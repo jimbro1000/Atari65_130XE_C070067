@@ -5,7 +5,11 @@
 	(uuid "7ecc34c8-eeb6-4c63-af4b-f1d26f7d09a4")
 	(paper "A3")
 	(title_block
-		(date "2025-09-28")
+		(title "65XE/130XE - C070065/C070067 rev-B")
+		(date "2025-09-29")
+		(rev "1.1")
+		(company "Original design by Atari")
+		(comment 1 "Transcribed from work by jer/eightbitter")
 	)
 	(lib_symbols
 		(symbol "Connector:DE9_Socket"

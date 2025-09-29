@@ -5,7 +5,11 @@
 	(uuid "4d50a6c6-fb3d-4363-8343-c9cd74d70851")
 	(paper "A5")
 	(title_block
-		(date "2025-09-27")
+		(title "65XE/130XE - C070065/C070067 rev-B")
+		(date "2025-09-29")
+		(rev "1.1")
+		(company "Original design by Atari")
+		(comment 1 "Transcribed from work by jer/eightbitter")
 	)
 	(lib_symbols
 		(symbol "Connector:DIN-7"

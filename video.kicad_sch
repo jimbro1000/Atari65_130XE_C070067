@@ -2,10 +2,14 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid "9ca05f6c-f4aa-4ed7-8bd0-ef20410b6718")
+	(uuid "9e9069cb-498e-43f7-a143-f7c9e3bdd700")
 	(paper "A3")
 	(title_block
+		(title "65XE/130XE - C070065/C070067 rev-B")
 		(date "2025-09-29")
+		(rev "1.1")
+		(company "Original design by Atari")
+		(comment 1 "Transcribed from work by jer/eightbitter")
 	)
 	(lib_symbols
 		(symbol "4050_1"
@@ -8168,6 +8172,12 @@
 		(uuid "119b069d-3e90-4a91-b887-19572792bdf2")
 	)
 	(junction
+		(at 140.97 184.15)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1c83910e-e12a-497e-9116-60b0486c12f3")
+	)
+	(junction
 		(at 234.95 115.57)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -9198,16 +9208,6 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 148.59) (xy 168.91 148.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1e6f3192-f6e8-4a33-95fa-59fb0da380c8")
-	)
-	(wire
-		(pts
 			(xy 123.19 196.85) (xy 124.46 196.85)
 		)
 		(stroke
@@ -9275,6 +9275,16 @@
 			(type default)
 		)
 		(uuid "22141922-be69-4b66-91df-61573665aeaf")
+	)
+	(wire
+		(pts
+			(xy 140.97 184.15) (xy 148.59 184.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "222b1f84-b7f2-4143-98a7-c7649259aadd")
 	)
 	(bus
 		(pts
@@ -9808,6 +9818,16 @@
 	)
 	(wire
 		(pts
+			(xy 140.97 182.88) (xy 140.97 184.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "43fa6182-9be7-47b2-9271-ed0f2965b4f8")
+	)
+	(wire
+		(pts
 			(xy 96.52 193.04) (xy 96.52 194.31)
 		)
 		(stroke
@@ -10058,7 +10078,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 181.61) (xy 127 181.61)
+			(xy 123.19 181.61) (xy 124.46 181.61)
 		)
 		(stroke
 			(width 0)
@@ -10128,7 +10148,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 186.69) (xy 123.19 186.69)
+			(xy 124.46 186.69) (xy 123.19 186.69)
 		)
 		(stroke
 			(width 0)
@@ -11958,7 +11978,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 184.15) (xy 148.59 184.15)
+			(xy 139.7 184.15) (xy 140.97 184.15)
 		)
 		(stroke
 			(width 0)
@@ -13136,6 +13156,28 @@
 			)
 		)
 	)
+	(global_label "~{RST}"
+		(shape input)
+		(at 168.91 148.59 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a8bc1b8f-ba6d-4a0e-820c-aa82884bc6ca")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 175.3423 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "~{REF}"
 		(shape input)
 		(at 148.59 179.07 180)
@@ -13202,6 +13244,28 @@
 			)
 		)
 	)
+	(global_label "R{slash}~{W}"
+		(shape input)
+		(at 177.8 146.05 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c68ea831-2c80-4248-b3a1-4b571e23caa3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 184.8371 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "D[0..7]"
 		(shape bidirectional)
 		(at 185.42 215.9 180)
@@ -13264,6 +13328,50 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Bphi2"
+		(shape output)
+		(at 140.97 182.88 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e1a1a431-ada5-4914-9a9b-bbfe1b86c889")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 140.97 174.5125 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "EXT_AUD"
+		(shape input)
+		(at 57.15 200.66 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e7d5d767-fe8e-494b-898b-2d54ebcb2235")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 57.15 211.628 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -17811,7 +17919,7 @@
 	)
 	(symbol
 		(lib_id "74xx:74LS08")
-		(at 134.62 184.15 0)
+		(at 132.08 184.15 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17820,7 +17928,7 @@
 		(fields_autoplaced yes)
 		(uuid "6b7e4721-41db-4951-ada4-500a3a217e10")
 		(property "Reference" "U18"
-			(at 134.6117 175.26 0)
+			(at 132.0717 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17828,7 +17936,7 @@
 			)
 		)
 		(property "Value" "74LS08"
-			(at 134.6117 177.8 0)
+			(at 132.0717 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17836,7 +17944,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
-			(at 134.62 184.15 0)
+			(at 132.08 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17845,7 +17953,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS08"
-			(at 134.62 184.15 0)
+			(at 132.08 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17854,7 +17962,7 @@
 			)
 		)
 		(property "Description" "Quad And2"
-			(at 134.62 184.15 0)
+			(at 132.08 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17863,7 +17971,7 @@
 			)
 		)
 		(property "DigiKey" "296-1633-5-ND"
-			(at 134.62 184.15 0)
+			(at 132.08 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17872,7 +17980,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 134.62 184.15 0)
+			(at 132.08 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
