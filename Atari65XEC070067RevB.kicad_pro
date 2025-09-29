@@ -694,6 +694,10 @@
     [
       "b7d808df-19e5-4aa0-9bbc-13280b3bf9c1",
       "MMU+ROM"
+    ],
+    [
+      "5b3bb91c-1f03-48fd-8718-b2198d3027db",
+      "video"
     ]
   ],
   "text_variables": {}

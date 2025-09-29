@@ -18007,6 +18007,28 @@
 			)
 		)
 	)
+	(global_label "RDY"
+		(shape input)
+		(at 227.33 151.13 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "34fcaf5c-b2a5-4968-95d3-566c0b606711")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 233.9438 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "S0"
 		(shape input)
 		(at 304.8 107.95 0)
@@ -18359,6 +18381,50 @@
 			)
 		)
 	)
+	(global_label "~{NMI}"
+		(shape input)
+		(at 203.2 138.43 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "bc2a81c9-f7f2-4dfb-bb65-b2a63b974a8a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 196.8281 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Phi0Buf"
+		(shape input)
+		(at 262.89 166.37 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "bc6782d9-16d5-4f19-845e-d829b443ee65")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 252.5268 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "T0"
 		(shape input)
 		(at 304.8 115.57 0)
@@ -18504,6 +18570,28 @@
 		(uuid "fc63fc75-5120-4565-88f6-7a0e882629d4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 35.8842 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Phi1"
+		(shape output)
+		(at 245.11 173.99 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "fe70f362-22bb-4f78-9123-f3f966d3070d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 252.3285 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33948,6 +34036,48 @@
 		)
 	)
 	(sheet
+		(at 251.46 243.84)
+		(size 38.1 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5b3bb91c-1f03-48fd-8718-b2198d3027db")
+		(property "Sheetname" "video"
+			(at 251.46 243.1284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "video.kicad_sch"
+			(at 251.46 274.9046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Atari65XEC070067RevB"
+				(path "/87d66ada-8337-4a7e-bc00-d889029d79b8"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 130.81 243.84)
 		(size 38.1 30.48)
 		(exclude_from_sim no)
@@ -33972,7 +34102,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "video.kicad_sch"
+		(property "Sheetfile" "clocks.kicad_sch"
 			(at 130.81 274.9046 0)
 			(effects
 				(font
